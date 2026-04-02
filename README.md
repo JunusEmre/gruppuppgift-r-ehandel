@@ -72,7 +72,7 @@ Här kan gruppen spara resultat från analysen, till exempel figurer, tabeller o
 ## Ansvarsfördelning
 
 - **Yunus:** case, syfte, dataset, dataimport, datastädning, nya variabler och projektstruktur
-- **Abdullah:** analys 1
+- **Abdullahi:** analys 1
 - **Irfan:** analys 2
 - **Nora:** analys 3
 - **Biljana:** sammanfattning, slutsatser och presentation
