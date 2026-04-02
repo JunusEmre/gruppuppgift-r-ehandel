@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_segment,customer_type,region,city,product_category,product_subcategory,payment_method,campaign_source,quantity,unit_price,discount_pct,shipping_days,returned,pris_efter_rabatt,ordervarde,retur_binart,leveransgrupp
+O2025001,2025-04-25,C1198,Consumer,VIP,South,Helsingborg,Beauty,Skincare,Card,Organic,4,33.9,0.182,3,Yes,27.7302,110.9208,1,Medel
+O2025002,2025-12-26,C1212,Corporate,New,South,Malmo,Fashion,Sportswear,NA,Organic,1,91.08,0.013,2,No,89.89596,89.89596,0,Kort
+O2025003,2025-11-06,C1096,Consumer,Returning,North,Uppsala,Sports,Fitness,Paypal,Organic,1,190.22,0,3,No,190.22,190.22,0,Medel
+O2025004,2025-10-09,C1160,Consumer,New,East,Orebro,Fashion,Shoes,Paypal,Affiliate,1,144.56,0.042,5,No,138.48848,138.48848,0,Lang
+O2025005,2025-05-02,C1063,Consumer,Returning,East,Linkoping,Beauty,Skincare,Invoice,Paid Search,2,52.01,0.091,4,No,47.27709,94.55418,0,Medel
+O2025006,2025-11-21,C1093,Small Business,Returning,West,Boras,Fashion,Shoes,Card,Paid Search,3,120.84,0,4,Yes,120.84,362.52,1,Medel
+O2025007,2025-02-27,C1238,Small Business,Returning,West,Gothenburg,Fashion,Shoes,Gift Card,Organic,1,97.55,0.055,1,No,92.18475,92.18475,0,Kort
+O2025008,2025-06-19,C1218,Consumer,VIP,North,Vasteras,Home,Furniture,Invoice,Affiliate,1,1051.52,0.12,5,No,925.3376,925.3376,0,Lang
+O2025009,2025-03-18,C1240,Consumer,Returning,South,Lund,Fashion,Sportswear,Card,Organic,4,82.84,0.041,3,No,79.44356,317.77424,0,Medel
+O2025010,2025-01-01,C1129,Small Business,New,North,Vasteras,Home,Kitchen,Invoice,Social,2,164.19,0.058,5,No,154.66698,309.33396,0,Lang
+O2025011,2025-07-22,C1046,Corporate,New,North,Stockholm,Beauty,Haircare,Gift Card,Social,1,38.97,0.028,2,No,37.87884,37.87884,0,Kort
+O2025012,2025-01-15,C1093,Small Business,Returning,West,Boras,Sports,Team Sports,Invoice,Social,1,105.58,0.045,4,No,100.82889999999999,100.82889999999999,0,Medel
+O2025013,2025-05-27,C1089,Consumer,Returning,South,Lund,Fashion,Jackets,Swish,Social,1,203.5,0.055,2,No,192.30749999999998,192.30749999999998,0,Kort
+O2025014,2025-02-15,C1042,Consumer,Returning,North,Uppsala,Home,Lighting,NA,Email,1,162.61,0.137,4,No,140.33243000000002,140.33243000000002,0,Medel
+O2025015,2025-09-28,C1052,Consumer,Returning,West,Boras,Sports,Team Sports,Card,Social,1,96.08,0.088,3,No,87.62496,87.62496,0,Medel
+O2025016,2025-12-14,C1141,Small Business,Returning,South,Malmo,Beauty,Skincare,Paypal,Direct,1,44.96,0.002,5,No,44.87008,44.87008,0,Lang
+O2025017,2025-06-11,C1164,Corporate,Returning,East,Linkoping,Home,Kitchen,Swish,Direct,2,81.77,0.032,5,No,79.15335999999999,158.30671999999998,0,Lang
+O2025018,2025-11-30,C1162,Consumer,Returning,South,Helsingborg,Fashion,Jackets,Card,Paid Search,1,175.92,0.143,3,No,150.76343999999997,150.76343999999997,0,Medel
+O2025019,2025-07-28,C1043,Corporate,New,South,Lund,Beauty,Fragrance,Card,Organic,1,73.27,0,2,No,73.27,73.27,0,Kort
+O2025020,2025-01-10,C1109,Small Business,Returning,South,NA,Beauty,Makeup,Card,Affiliate,1,45.73,0.107,3,No,40.83689,40.83689,0,Medel
+O2025021,2025-12-24,C1184,Small Business,Returning,North,Vasteras,Fashion,Sportswear,Swish,Social,1,90.24,0.014,4,Yes,88.97663999999999,88.97663999999999,1,Medel
+O2025022,2025-09-07,C1189,Consumer,New,South,Helsingborg,Home,Kitchen,Card,Social,1,143.93,0.068,3,No,134.14276,134.14276,0,Medel
+O2025023,2025-06-18,C1243,Consumer,Returning,East,Linkoping,Sports,Outdoor,Card,Direct,2,109.34,0.043,6,No,104.63838,209.27676,0,Lang
+O2025024,2025-04-23,C1138,Consumer,New,North,Stockholm,Fashion,Shoes,Swish,Social,2,103.55,0.036,2,No,99.8222,199.6444,0,Kort
+O2025025,2025-04-08,C1214,Corporate,Returning,South,Lund,Sports,Fitness,Swish,Organic,1,343.08,0.036,4,No,330.72911999999997,330.72911999999997,0,Medel
+O2025026,2025-02-03,C1080,Consumer,New,North,Stockholm,Electronics,Laptop,Card,Organic,1,1272.53,0.081,5,No,1169.45507,1169.45507,0,Lang
+O2025027,2025-09-13,C1257,Consumer,Returning,North,Uppsala,Fashion,Shoes,Paypal,Direct,1,110.05,0,1,No,110.05,110.05,0,Kort
+O2025028,2025-06-13,C1246,Small Business,Returning,West,Boras,Fashion,Jackets,Card,Social,1,292.87,0.025,2,No,285.54825,285.54825,0,Kort
+O2025029,2025-08-15,C1067,Small Business,Returning,West,Halmstad,Sports,Fitness,Invoice,Email,1,251.89,0.021,4,No,246.60030999999998,246.60030999999998,0,Medel
+O2025030,2025-10-29,C1219,Consumer,New,North,Stockholm,Beauty,Fragrance,Invoice,Paid Search,1,74.62,0.057,4,No,70.36666,70.36666,0,Medel
+O2025031,2025-08-24,C1123,Small Business,Returning,East,Orebro,Sports,Cycling,Card,Organic,1,468.34,0.057,4,No,441.64462,441.64462,0,Medel
+O2025032,2025-03-07,C1083,Consumer,VIP,North,Vasteras,Electronics,Headphones,NA,NA,1,233.21,0.084,1,No,213.62036,213.62036,0,Kort
+O2025033,2025-05-11,C1013,Consumer,Returning,West,Halmstad,Electronics,Mobile,Invoice,Affiliate,2,414.67,0.147,3,No,353.71351,707.42702,0,Medel
+O2025034,2025-01-23,C1084,Corporate,VIP,East,Linkoping,Fashion,Sportswear,Invoice,Paid Search,1,58.56,0.006,4,No,58.20864,58.20864,0,Medel
+O2025035,2025-10-22,C1206,Consumer,New,East,Orebro,Home,Decor,Invoice,Direct,1,123.8,0.107,5,No,110.5534,110.5534,0,Lang
+O2025036,2025-10-20,C1164,Corporate,Returning,East,Linkoping,Beauty,Haircare,Invoice,Paid Search,1,46.61,0.085,3,No,42.64815,42.64815,0,Medel
+O2025037,2025-05-23,C1252,Corporate,Returning,North,Uppsala,Electronics,Laptop,Card,Email,1,1349.83,0.073,3,No,1251.29241,1251.29241,0,Medel
+O2025038,2025-07-12,C1214,Corporate,Returning,South,Lund,Fashion,Shoes,Paypal,Email,1,160.73,0.063,4,Yes,150.60401,150.60401,1,Medel
+O2025039,2025-09-02,C1243,Consumer,Returning,East,Linkoping,Electronics,Headphones,Invoice,Paid Search,1,49.76,0.073,NA,No,46.12752,46.12752,0,NA
+O2025040,2025-11-18,C1228,Small Business,Returning,West,Halmstad,Fashion,Shoes,Invoice,Paid Search,1,96.19,0.112,1,No,85.41672,85.41672,0,Kort
+O2025041,2025-04-09,C1221,Consumer,Returning,West,Halmstad,Beauty,Skincare,Invoice,Affiliate,1,9.17,0.085,1,No,8.390550000000001,8.390550000000001,0,Kort
+O2025042,2025-11-29,C1110,Corporate,Returning,East,Norrkoping,Home,Furniture,Card,Email,2,601.47,0.21,5,No,475.16130000000004,950.3226000000001,0,Lang
+O2025043,2025-02-13,C1131,Small Business,Returning,North,Vasteras,Electronics,Laptop,Card,Social,1,1094.44,0.079,4,No,1007.9792400000001,1007.9792400000001,0,Medel
+O2025044,2025-06-13,C1036,Consumer,New,North,Stockholm,Home,Furniture,Gift Card,Affiliate,2,809.42,0.128,5,No,705.8142399999999,1411.6284799999999,0,Lang
+O2025045,2025-02-05,C1229,Corporate,Returning,North,Stockholm,Fashion,Accessories,Gift Card,Direct,1,37.1,0.053,2,No,35.1337,35.1337,0,Kort
+O2025046,2025-07-10,C1234,Consumer,New,East,Orebro,Electronics,Tablet,Invoice,Organic,1,817.81,0.02,4,No,801.4537999999999,801.4537999999999,0,Medel
+O2025047,2025-10-17,C1115,Consumer,VIP,East,Linkoping,Electronics,Laptop,Paypal,Organic,1,818.25,0.168,3,No,680.784,680.784,0,Medel
+O2025048,2025-08-14,C1218,Consumer,VIP,North,Vasteras,Electronics,Tablet,Gift Card,Direct,1,574.82,0.181,1,No,470.77758,470.77758,0,Kort
+O2025049,2025-10-18,C1224,Corporate,Returning,East,Linkoping,Home,Kitchen,Card,Social,1,76.54,0.013,7,Yes,75.54498000000001,75.54498000000001,1,Lang
+O2025050,2025-04-26,C1040,Consumer,Returning,East,Linkoping,Beauty,Fragrance,Card,Direct,1,91.81,0.027,4,Yes,89.33113,89.33113,1,Medel
+O2025051,2025-03-21,C1038,Consumer,Returning,North,Stockholm,Beauty,Skincare,Swish,Organic,1,54.84,0.129,1,No,47.765640000000005,47.765640000000005,0,Kort
+O2025052,2025-02-16,C1090,Consumer,Returning,West,Gothenburg,Home,Kitchen,Invoice,Social,2,121.12,0.056,6,No,114.33727999999999,228.67455999999999,0,Lang
+O2025053,2025-06-09,C1045,Small Business,Returning,North,Uppsala,Home,Decor,Card,Direct,2,103.64,0.005,2,No,103.1218,206.2436,0,Kort
+O2025054,2025-01-12,C1132,Corporate,Returning,West,Boras,Beauty,Skincare,Invoice,Organic,1,43.04,0.098,3,Yes,38.82208,38.82208,1,Medel
+O2025055,2025-06-27,C1155,Corporate,New,South,Helsingborg,Beauty,Fragrance,Swish,Affiliate,1,70.19,0.076,6,No,64.85556,64.85556,0,Lang
+O2025056,2025-03-12,C1222,Consumer,Returning,East,Linkoping,Home,Kitchen,Card,Email,1,91.02,0.159,5,No,76.54781999999999,76.54781999999999,0,Lang
+O2025057,2025-08-30,C1127,Small Business,VIP,West,Gothenburg,Sports,Outdoor,Swish,Social,1,268.75,0.11,3,No,239.1875,239.1875,0,Medel
+O2025058,2025-02-06,C1248,Consumer,New,West,Boras,Electronics,Laptop,Swish,Social,1,1128.65,0.008,5,No,1119.6208000000001,1119.6208000000001,0,Lang
+O2025059,2025-04-17,C1208,Consumer,Returning,North,Stockholm,Home,Furniture,Card,Social,1,613.04,0,4,No,613.04,613.04,0,Medel
+O2025060,2025-02-09,C1211,Consumer,New,North,Uppsala,Beauty,Makeup,Card,Paid Search,1,52.95,0,3,No,52.95,52.95,0,Medel
+O2025061,2025-03-29,C1047,Consumer,Returning,East,Norrkoping,Fashion,Jackets,Swish,Organic,1,70.13,0.011,6,No,69.35857,69.35857,0,Lang
+O2025062,2025-01-09,C1225,Small Business,Returning,North,Stockholm,Fashion,Jackets,Card,Paid Search,3,148.78,0.061,1,No,139.70442,419.11325999999997,0,Kort
+O2025063,2025-11-21,C1127,Small Business,VIP,West,Gothenburg,Fashion,Jackets,Swish,Organic,2,270.44,0.036,2,No,260.70416,521.40832,0,Kort
+O2025064,2025-02-13,C1231,Corporate,New,North,Uppsala,Home,Decor,Invoice,Email,1,79.08,0.133,5,Yes,68.56236,68.56236,1,Lang
+O2025065,2025-04-08,C1194,Consumer,New,North,Uppsala,Home,Furniture,Card,Organic,2,611.76,0.072,4,No,567.71328,1135.42656,0,Medel
+O2025066,2025-10-08,C1036,Consumer,New,North,Stockholm,Sports,Outdoor,Card,Email,1,108.56,0.005,3,No,108.0172,108.0172,0,Medel
+O2025067,2025-03-27,C1158,Corporate,New,North,Stockholm,Beauty,Fragrance,Gift Card,Paid Search,1,78.71,0.087,4,No,71.86223,71.86223,0,Medel
+O2025068,2025-09-24,C1210,Small Business,New,North,Uppsala,Home,Kitchen,Card,Organic,1,157.71,0,2,No,157.71,157.71,0,Kort
+O2025069,2025-09-30,C1192,Corporate,Returning,West,Gothenburg,Home,Decor,Swish,Organic,1,90.97,0.038,6,No,87.51313999999999,87.51313999999999,0,Lang
+O2025070,2025-02-17,C1052,Consumer,Returning,West,Boras,Fashion,Shoes,Card,Affiliate,2,102.38,0.085,3,Yes,93.6777,187.3554,1,Medel
+O2025071,2025-04-16,C1006,Consumer,VIP,East,Orebro,Home,Lighting,Card,Organic,2,176.2,0.122,6,No,154.7036,309.4072,0,Lang
+O2025072,2025-05-24,C1238,Small Business,Returning,West,Gothenburg,Beauty,Skincare,Invoice,Email,1,74.4,0.109,3,No,66.2904,66.2904,0,Medel
+O2025073,2025-03-25,C1041,Consumer,Returning,South,Lund,Fashion,Sportswear,Swish,Social,2,84.29,0,NA,No,84.29,168.58,0,NA
+O2025074,2025-04-23,C1130,Consumer,VIP,South,Lund,Fashion,Sportswear,Swish,Organic,2,75.82,0.101,3,No,68.16217999999999,136.32435999999998,0,Medel
+O2025075,2025-05-25,C1087,Consumer,Returning,West,Halmstad,Sports,Team Sports,Invoice,Email,2,166.61,0.208,5,Yes,131.95512000000002,263.91024000000004,1,Lang
+O2025076,2025-08-07,C1107,Consumer,VIP,South,Malmo,Home,Decor,Card,Direct,1,45.05,0.109,3,No,40.13955,40.13955,0,Medel
+O2025077,2025-10-15,C1076,Consumer,New,North,Uppsala,Electronics,Headphones,Invoice,Paid Search,1,118.48,0.038,4,No,113.97776,113.97776,0,Medel
+O2025078,2025-10-01,C1008,Consumer,Returning,West,Boras,Beauty,Fragrance,Swish,NA,2,74.27,0.047,2,No,70.77931,141.55862,0,Kort
+O2025079,2025-01-19,C1106,Consumer,Returning,North,Stockholm,Home,Lighting,Invoice,Social,1,103.6,0,4,No,103.6,103.6,0,Medel
+O2025080,2025-02-14,C1116,Consumer,Returning,North,Uppsala,Electronics,Mobile,Card,Paid Search,2,146.91,0.019,3,No,144.11871,288.23742,0,Medel
+O2025081,2025-11-21,C1214,Corporate,Returning,South,Lund,Electronics,Laptop,Gift Card,Organic,1,750.58,0.085,4,No,686.7807,686.7807,0,Medel
+O2025082,2025-09-26,C1150,Consumer,VIP,East,Norrkoping,Fashion,Jackets,Card,Social,1,159.28,0.166,2,No,132.83952,132.83952,0,Kort
+O2025083,2025-11-18,C1109,Small Business,Returning,South,Helsingborg,Electronics,Tablet,Swish,Email,1,620.92,0.054,3,No,587.39032,587.39032,0,Medel
+O2025084,2025-03-17,C1079,Consumer,VIP,East,Linkoping,Sports,Cycling,Invoice,Email,1,566.87,0.205,7,No,450.66165,450.66165,0,Lang
+O2025085,2025-11-29,C1240,Consumer,Returning,South,Lund,Sports,Fitness,Card,Paid Search,2,155.43,0.009,5,No,154.03113000000002,308.06226000000004,0,Lang
+O2025086,2025-10-31,C1193,Corporate,Returning,North,Uppsala,Beauty,Makeup,NA,Paid Search,2,28.57,0.085,1,No,26.141550000000002,52.283100000000005,0,Kort
+O2025087,2025-07-19,C1166,Consumer,New,South,Helsingborg,Electronics,Headphones,Invoice,Direct,1,33.82,0.089,6,No,30.81002,30.81002,0,Lang
+O2025088,2025-08-03,C1047,Consumer,Returning,East,Norrkoping,Electronics,Headphones,Card,Social,1,161.95,0.027,4,No,157.57735,157.57735,0,Medel
+O2025089,2025-01-01,C1251,Small Business,Returning,West,Boras,Home,Furniture,Card,Social,1,659.88,0.059,4,No,620.94708,620.94708,0,Medel
+O2025090,2025-06-29,C1220,Consumer,Returning,West,Halmstad,Home,Decor,Gift Card,Paid Search,1,89.25,0.117,5,No,78.80775,78.80775,0,Lang
+O2025091,2025-04-15,C1187,Consumer,Returning,North,Vasteras,Electronics,Tablet,Card,Email,1,426.85,0.194,2,No,344.04110000000003,344.04110000000003,0,Kort
+O2025092,2025-08-01,C1207,Consumer,New,North,Stockholm,Home,Decor,Card,Social,1,87.2,0.099,3,No,78.5672,78.5672,0,Medel
+O2025093,2025-07-19,C1137,Consumer,New,West,Boras,Beauty,Skincare,Invoice,Social,1,18.32,0.025,NA,Yes,17.862,17.862,1,NA
+O2025094,2025-04-04,C1170,Consumer,Returning,West,Halmstad,Electronics,Mobile,Card,Affiliate,1,399.76,0.016,5,No,393.36384,393.36384,0,Lang
+O2025095,2025-01-21,C1099,Consumer,Returning,North,Vasteras,Beauty,Skincare,Invoice,Direct,1,51.24,0.049,4,No,48.72924,48.72924,0,Medel
+O2025096,2025-02-21,C1188,Small Business,Returning,North,Uppsala,Beauty,Fragrance,Card,Email,1,121.41,0.143,5,No,104.04836999999999,104.04836999999999,0,Lang
+O2025097,2025-06-30,C1093,Small Business,Returning,West,Boras,Fashion,Shoes,Swish,Affiliate,1,116.99,0.161,2,No,98.15460999999999,98.15460999999999,0,Kort
+O2025098,2025-09-11,C1063,Consumer,Returning,North,Uppsala,Home,Kitchen,Card,Direct,1,76.97,0.064,4,No,72.04392,72.04392,0,Medel
+O2025099,2025-07-09,C1247,Corporate,Returning,West,Halmstad,Beauty,Fragrance,Paypal,Organic,4,90.24,0,1,No,90.24,360.96,0,Kort
+O2025100,2025-08-21,C1148,Consumer,Returning,East,Norrkoping,Sports,Cycling,Invoice,Paid Search,2,295.7,0.01,3,No,292.743,585.486,0,Medel
+O2025101,2025-01-28,C1006,Consumer,VIP,East,Orebro,Electronics,Laptop,Card,Social,1,884.2,0,5,No,884.2,884.2,0,Lang
+O2025102,2025-10-14,C1062,Consumer,VIP,South,Helsingborg,Beauty,Skincare,Card,Organic,2,15.75,0.082,2,No,14.4585,28.917,0,Kort
+O2025103,2025-04-05,C1107,Consumer,VIP,South,Malmo,Home,Kitchen,Paypal,Paid Search,1,93.84,0.165,3,No,78.3564,78.3564,0,Medel
+O2025104,2025-03-11,C1030,Small Business,Returning,North,Stockholm,Fashion,Jackets,Card,Organic,1,133.28,0.036,2,No,128.48192,128.48192,0,Kort
+O2025105,2025-02-21,C1140,Small Business,Returning,West,Boras,Electronics,Headphones,Card,Social,1,99.58,0.049,NA,No,94.70057999999999,94.70057999999999,0,NA
+O2025106,2025-04-29,C1102,Small Business,Returning,West,Gothenburg,Home,Lighting,Card,Paid Search,1,145.51,0.03,3,No,141.1447,141.1447,0,Medel
+O2025107,2025-07-13,C1216,Consumer,VIP,West,Halmstad,Sports,Team Sports,Gift Card,Direct,2,92.25,0.097,2,No,83.30175,166.6035,0,Kort
+O2025108,2025-04-14,C1139,Consumer,Returning,West,Boras,Beauty,Skincare,Card,Affiliate,1,35,0.024,6,No,34.16,34.16,0,Lang
+O2025109,2025-01-07,C1034,Small Business,Returning,East,Orebro,Fashion,Jackets,Invoice,Direct,1,199.09,0.008,4,No,197.49728,197.49728,0,Medel
+O2025110,2025-09-23,C1223,Corporate,Returning,West,Gothenburg,Home,Kitchen,Card,Direct,1,100.88,0.066,4,No,94.22191999999998,94.22191999999998,0,Medel
+O2025111,2025-11-09,C1146,Corporate,New,North,Uppsala,Electronics,Mobile,Card,Email,1,455.35,0.215,2,No,357.44975000000005,357.44975000000005,0,Kort
+O2025112,2025-02-06,C1221,Consumer,Returning,West,Halmstad,Electronics,Mobile,Card,Paid Search,1,512.02,0.213,4,No,402.95974,402.95974,0,Medel
+O2025113,2025-11-25,C1235,Small Business,Returning,North,Stockholm,Sports,Team Sports,Card,Email,2,51.59,0.123,2,No,45.24443,90.48886,0,Kort
+O2025114,2025-06-14,C1159,Consumer,Returning,East,Norrkoping,Electronics,Laptop,Card,Email,1,605.56,0.066,3,No,565.5930399999999,565.5930399999999,0,Medel
+O2025115,2025-06-02,C1100,Small Business,New,West,Gothenburg,Home,Kitchen,Gift Card,Social,1,73.85,0.071,4,No,68.60665,68.60665,0,Medel
+O2025116,2025-02-02,C1242,Small Business,New,East,Linkoping,Sports,Outdoor,Swish,Paid Search,2,199.23,0.109,5,No,177.51393,355.02786,0,Lang
+O2025117,2025-06-29,C1024,Consumer,New,West,Halmstad,Sports,Fitness,Swish,Social Media,2,301.75,0.096,NA,Yes,272.782,545.564,1,NA
+O2025118,2025-02-04,C1195,Consumer,Returning,South,Malmo,Electronics,Laptop,Card,NA,1,1149.64,0.104,4,No,1030.07744,1030.07744,0,Medel
+O2025119,2025-12-01,C1110,Corporate,Returning,East,Norrkoping,Fashion,Shoes,Card,Organic,1,109.02,0.019,5,No,106.94861999999999,106.94861999999999,0,Lang
+O2025120,2025-06-02,C1250,Corporate,Returning,North,Uppsala,Sports,Outdoor,Invoice,Organic,3,134.08,0.074,3,No,124.15808000000001,372.47424,0,Medel
+O2025121,2025-04-26,C1068,Consumer,New,East,Linkoping,Electronics,Laptop,Swish,Paid Search,1,926.43,0.052,5,No,878.2556399999999,878.2556399999999,0,Lang
+O2025122,2025-07-25,C1018,Small Business,Returning,West,Gothenburg,Beauty,Haircare,Invoice,Email,2,42.21,0.141,2,No,36.25839,72.51678,0,Kort
+O2025123,2025-09-18,C1027,Small Business,Returning,North,Stockholm,Fashion,Jackets,Card,Organic,1,200.25,0,2,No,200.25,200.25,0,Kort
+O2025124,2025-11-15,C1084,Corporate,VIP,East,Linkoping,Home,Kitchen,NA,Organic,1,133.4,0.145,6,No,114.057,114.057,0,Lang
+O2025125,2025-02-07,C1088,Consumer,New,South,Malmo,Electronics,Tablet,Card,Organic,1,552.43,0.12,5,No,486.13839999999993,486.13839999999993,0,Lang
+O2025126,2025-12-13,C1217,Small Business,New,North,Uppsala,Home,Furniture,Invoice,Email,1,341.61,0.087,3,No,311.88993000000005,311.88993000000005,0,Medel
+O2025127,2025-12-31,C1200,Consumer,Returning,North,Uppsala,Fashion,Jackets,Card,Affiliate,1,147.19,0.074,4,No,136.29794,136.29794,0,Medel
+O2025128,2025-12-19,C1208,Consumer,Returning,North,Stockholm,Fashion,Jackets,Swish,Paid Search,1,170.56,0,3,No,170.56,170.56,0,Medel
+O2025129,2025-06-12,C1196,Consumer,VIP,West,Boras,Beauty,Skincare,Swish,Direct,1,65.43,0.144,2,No,56.00808000000001,56.00808000000001,0,Kort
+O2025130,2025-01-14,C1183,Small Business,New,North,Vasteras,Electronics,Headphones,Card,Organic,2,174.59,0.089,2,No,159.05149,318.10298,0,Kort
+O2025131,2025-03-20,C1079,Consumer,VIP,East,Linkoping,Electronics,Mobile,Gift Card,Social,1,413.44,0.116,5,No,365.48096,365.48096,0,Lang
+O2025132,2025-09-23,C1226,Consumer,Returning,North,Vasteras,Fashion,Jackets,Gift Card,Direct,1,224.23,0.009,3,No,222.21193,222.21193,0,Medel
+O2025133,2025-10-06,C1091,Corporate,VIP,South,Malmo,Electronics,Mobile,Card,Organic,1,365.34,0.152,5,No,309.80832,309.80832,0,Lang
+O2025134,2025-10-06,C1103,Consumer,New,North,Vasteras,Electronics,Tablet,Card,Paid Search,1,272.22,0.125,4,No,238.19250000000002,238.19250000000002,0,Medel
+O2025135,2025-02-04,C1179,Consumer,Returning,East,Orebro,Home,Decor,Swish,Organic,1,96.17,0.023,7,Yes,93.95809,93.95809,1,Lang
+O2025136,2025-07-27,C1257,Consumer,Returning,North,Uppsala,Electronics,Tablet,Card,Affiliate,1,481.37,0.074,4,No,445.74862,445.74862,0,Medel
+O2025137,2025-11-20,C1127,Small Business,VIP,West,Gothenburg,Beauty,Makeup,Paypal,Paid Search,2,52.19,0.145,4,No,44.62245,89.2449,0,Medel
+O2025138,2025-02-24,C1215,Consumer,Returning,North,Stockholm,Fashion,Jackets,Card,Email,1,232.89,0,3,No,232.89,232.89,0,Medel
+O2025139,2025-03-19,C1156,Consumer,New,West,Gothenburg,Sports,Team Sports,Card,Organic,1,102.82,0.043,7,Yes,98.39873999999999,98.39873999999999,1,Lang
+O2025140,2025-11-06,C1087,Consumer,Returning,West,Halmstad,Sports,Team Sports,Card,Direct,1,119.35,0.012,5,No,117.9178,117.9178,0,Lang
+O2025141,2025-05-12,C1159,Consumer,Returning,South,Malmo,Sports,Cycling,Invoice,Organic,2,442.96,0.053,5,No,419.48312,838.96624,0,Lang
+O2025142,2025-07-16,C1177,Small Business,Returning,East,Linkoping,Home,Furniture,Invoice,Organic,1,1075.62,0.005,6,Yes,1070.2419,1070.2419,1,Lang
+O2025143,2025-07-16,C1025,Consumer,Returning,North,Uppsala,Electronics,Mobile,Swish,Organic,2,127.29,0.042,3,No,121.94382,243.88764,0,Medel
+O2025144,2025-11-22,C1186,Corporate,Returning,North,Uppsala,Home,Lighting,Card,Social,2,79.56,0.038,1,No,76.53672,153.07344,0,Kort
+O2025145,2025-09-12,C1001,Consumer,VIP,West,Halmstad,Fashion,Shoes,Invoice,Email,1,94.53,0.149,3,No,80.44503,80.44503,0,Medel
+O2025146,2025-03-11,C1166,Consumer,New,South,Helsingborg,Fashion,Sportswear,Invoice,Email,1,43.87,0,3,Yes,43.87,43.87,1,Medel
+O2025147,2025-07-16,C1103,Consumer,New,North,Vasteras,Sports,Cycling,Card,Paid Search,2,951.35,0.101,1,No,855.26365,1710.5273,0,Kort
+O2025148,2025-05-16,C1135,Consumer,Returning,North,Stockholm,Electronics,Tablet,Invoice,Direct,1,844.96,0.113,1,No,749.4795200000001,749.4795200000001,0,Kort
+O2025149,2025-02-22,C1009,Consumer,Returning,South,Helsingborg,Sports,Team Sports,Card,Email,2,65.51,0.092,4,No,59.48308000000001,118.96616000000002,0,Medel
+O2025150,2025-12-28,C1143,Corporate,VIP,South,Helsingborg,Sports,Cycling,Swish,Direct,1,588.38,0.093,3,No,533.66066,533.66066,0,Medel
+O2025151,2025-07-01,C1171,Small Business,Returning,West,Halmstad,Fashion,Sportswear,Card,Organic,1,73.07,0,1,No,73.07,73.07,0,Kort
+O2025152,2025-01-08,C1058,Consumer,New,North,Stockholm,Electronics,Laptop,Paypal,Social,1,1265.49,0.023,4,No,1236.38373,1236.38373,0,Medel
+O2025153,2025-03-01,C1246,Small Business,Returning,West,Boras,Fashion,Sportswear,Gift Card,Organic,1,111.34,0.005,3,No,110.7833,110.7833,0,Medel
+O2025154,2025-05-01,C1003,Corporate,Returning,East,Norrkoping,Fashion,Shoes,Card,Direct,1,109.92,0.071,3,No,102.11568000000001,102.11568000000001,0,Medel
+O2025155,2025-06-09,C1063,Consumer,Returning,East,Linkoping,Beauty,Makeup,Card,Organic,1,66.48,0.08,5,No,61.16160000000001,61.16160000000001,0,Lang
+O2025156,2025-08-13,C1176,Small Business,Returning,North,Stockholm,Fashion,Accessories,Swish,Organic,1,35.98,0.072,3,No,33.38944,33.38944,0,Medel
+O2025157,2025-08-09,C1166,Consumer,New,South,Helsingborg,Fashion,Sportswear,Card,Affiliate,1,83.97,0.133,3,No,72.80199,72.80199,0,Medel
+O2025158,2025-05-10,C1019,Consumer,New,South,Lund,Electronics,Headphones,Card,Paid Search,1,147.48,0.082,4,No,135.38664,135.38664,0,Medel
+O2025159,2025-06-12,C1224,Corporate,Returning,East,Linkoping,Beauty,Skincare,Gift Card,Direct,1,66.06,0.056,4,No,62.36064,62.36064,0,Medel
+O2025160,2025-09-15,C1195,Consumer,Returning,North,Uppsala,Home,Decor,Swish,Direct,1,43.02,0,5,No,43.02,43.02,0,Lang
+O2025161,2025-02-19,C1128,Consumer,Returning,North,Stockholm,Beauty,Haircare,Card,Direct,3,35.55,0.085,2,No,32.52825,97.58475,0,Kort
+O2025162,2025-10-28,C1185,Small Business,New,South,Lund,Home,Decor,Paypal,Paid Search,1,101,0.066,NA,No,94.33399999999999,94.33399999999999,0,NA
+O2025163,2025-03-30,C1120,Small Business,New,North,Stockholm,Beauty,Makeup,Paypal,Paid Search,2,46.7,0.12,3,No,41.096000000000004,82.19200000000001,0,Medel
+O2025164,2025-03-14,C1239,Corporate,Returning,South,Helsingborg,Beauty,Fragrance,Swish,Affiliate,4,89.28,0.051,5,No,84.72672,338.90688,0,Lang
+O2025165,2025-05-30,C1147,Consumer,Returning,West,Boras,Home,Kitchen,Invoice,Organic,1,128.19,0,4,Yes,128.19,128.19,1,Medel
+O2025166,2025-11-03,C1192,Corporate,Returning,West,Gothenburg,Fashion,Accessories,Invoice,Paid Search,1,39.12,0.07,4,No,36.38159999999999,36.38159999999999,0,Medel
+O2025167,2025-09-11,C1193,Corporate,Returning,North,Uppsala,Sports,Cycling,Swish,Email,1,569.6,0.188,NA,No,462.51520000000005,462.51520000000005,0,NA
+O2025168,2025-11-08,C1126,Consumer,Returning,North,Stockholm,Home,Decor,Card,Direct,2,113.51,0.088,4,No,103.52112000000001,207.04224000000002,0,Medel
+O2025169,2025-12-08,C1226,Consumer,Returning,North,Vasteras,Fashion,Shoes,Paypal,NA,2,76.51,0.152,2,No,64.88048,129.76096,0,Kort
+O2025170,2025-05-22,C1208,Consumer,Returning,North,Stockholm,Home,Lighting,Invoice,Organic,1,224.33,0.017,4,No,220.51639,220.51639,0,Medel
+O2025171,2025-07-08,C1133,Small Business,VIP,North,Vasteras,Home,Decor,Card,Affiliate,1,49.28,0.1,4,Yes,44.352000000000004,44.352000000000004,1,Medel
+O2025172,2025-05-30,C1183,Small Business,New,North,Vasteras,Home,Kitchen,Invoice,Organic,1,139.41,0.103,5,Yes,125.05077,125.05077,1,Lang
+O2025173,2025-04-21,C1219,Consumer,New,West,Gothenburg,Sports,Team Sports,Invoice,NA,2,50.43,0.03,5,No,48.9171,97.8342,0,Lang
+O2025174,2025-05-12,C1138,Consumer,New,South,Lund,Beauty,Fragrance,Swish,Social,2,111.58,0.046,4,No,106.44731999999999,212.89463999999998,0,Medel
+O2025175,2025-08-12,C1026,Small Business,Returning,South,Malmo,Electronics,Headphones,Gift Card,Affiliate,1,169.43,0,4,No,169.43,169.43,0,Medel
+O2025176,2025-12-11,C1040,Consumer,Returning,East,Linkoping,Home,Furniture,Card,Organic,1,764.86,0.082,NA,No,702.14148,702.14148,0,NA
+O2025177,2025-03-22,C1091,Corporate,VIP,South,Malmo,Sports,Fitness,Swish,Email,1,167.62,0.057,2,No,158.06566,158.06566,0,Kort
+O2025178,2025-09-08,C1210,Small Business,New,North,NA,Fashion,Sportswear,Gift Card,Social,1,63.56,0.096,2,No,57.45824,57.45824,0,Kort
+O2025179,2025-08-10,C1030,Small Business,Returning,North,Stockholm,Home,Decor,NA,Organic,1,73.25,0,5,Yes,73.25,73.25,1,Lang
+O2025180,2025-09-24,C1123,Small Business,Returning,East,Orebro,Fashion,Accessories,Swish,Email,1,54.58,0.152,3,No,46.28384,46.28384,0,Medel
+O2025181,2025-12-06,C1192,Corporate,Returning,West,Gothenburg,Electronics,Tablet,Invoice,Paid Search,1,795.37,0.118,NA,No,701.51634,701.51634,0,NA
+O2025182,2025-10-24,C1247,Corporate,Returning,West,Gothenburg,Home,Decor,Card,Paid Search,1,73.4,0.145,4,No,62.757000000000005,62.757000000000005,0,Medel
+O2025183,2025-11-20,C1060,Small Business,Returning,West,Halmstad,Home,Kitchen,Swish,Email,1,102.02,0.053,4,No,96.61294,96.61294,0,Medel
+O2025184,2025-03-14,C1194,Consumer,New,North,Uppsala,Home,Decor,Card,Email,1,68.91,0.152,3,No,58.43568,58.43568,0,Medel
+O2025185,2025-07-11,C1058,Consumer,New,North,Stockholm,Fashion,Shoes,Card,Organic,1,61.84,0.023,2,Yes,60.417680000000004,60.417680000000004,1,Kort
+O2025186,2025-02-15,C1042,Consumer,Returning,North,Uppsala,Fashion,Jackets,Gift Card,Organic,1,92.96,0,3,No,92.96,92.96,0,Medel
+O2025187,2025-05-01,C1229,Corporate,Returning,North,Stockholm,Fashion,Sportswear,Card,Direct,4,64.37,0,3,No,64.37,257.48,0,Medel
+O2025188,2025-06-09,C1242,Small Business,New,East,Linkoping,Beauty,Makeup,Paypal,Organic,2,64.44,0.013,3,No,63.60228,127.20456,0,Medel
+O2025189,2025-05-19,C1134,Consumer,Returning,South,Malmo,Fashion,Accessories,Card,NA,1,66.46,0.051,6,Yes,63.070539999999994,63.070539999999994,1,Lang
+O2025190,2025-11-15,C1041,Consumer,Returning,South,Lund,Electronics,Mobile,Swish,Email,1,325.99,0.025,5,No,317.84025,317.84025,0,Lang
+O2025191,2025-08-04,C1186,Corporate,Returning,North,Uppsala,Fashion,Sportswear,Card,Organic,1,59.94,0,1,No,59.94,59.94,0,Kort
+O2025192,2025-12-28,C1043,Corporate,New,West,Halmstad,Home,Furniture,Card,Direct,2,1000.98,0.06,5,No,940.9212,1881.8424,0,Lang
+O2025193,2025-04-29,C1206,Consumer,New,East,Orebro,Electronics,Headphones,Card,Direct,1,140.21,0.079,5,No,129.13341000000003,129.13341000000003,0,Lang
+O2025194,2025-05-04,C1083,Consumer,VIP,North,Vasteras,Fashion,Sportswear,Paypal,Organic,1,78.55,0.121,NA,No,69.04545,69.04545,0,NA
+O2025195,2025-03-08,C1176,Small Business,Returning,North,Stockholm,Beauty,Haircare,Invoice,Organic,1,39.29,0.113,1,Yes,34.850229999999996,34.850229999999996,1,Kort
+O2025196,2025-12-18,C1142,Small Business,Returning,South,Helsingborg,Fashion,Accessories,Invoice,Paid Search,2,58.48,0.002,3,No,58.36304,116.72608,0,Medel
+O2025197,2025-10-16,C1222,Consumer,Returning,East,Linkoping,Beauty,Fragrance,Card,Social,1,12.25,0.024,3,No,11.956,11.956,0,Medel
+O2025198,2025-05-02,C1020,Consumer,Returning,East,Linkoping,Home,Kitchen,Swish,Email,2,184,0.17,4,No,152.72,305.44,0,Medel
+O2025199,2025-11-21,C1113,Small Business,Returning,South,Lund,Sports,Fitness,Card,Email,1,158.55,0.111,6,No,140.95095,140.95095,0,Lang
+O2025200,2025-08-22,C1098,Small Business,Returning,West,Halmstad,Electronics,Laptop,Invoice,Social,1,1452.48,0.039,5,No,1395.83328,1395.83328,0,Lang
+O2025201,2025-04-03,C1233,Corporate,Returning,West,Halmstad,Sports,Outdoor,NA,Social,1,135.1,0.132,3,Yes,117.26679999999999,117.26679999999999,1,Medel
+O2025202,2025-10-29,C1168,Consumer,New,East,Orebro,Fashion,Sportswear,Card,Organic,1,95.89,0.095,5,No,86.78045,86.78045,0,Lang
+O2025203,2025-06-30,C1042,Consumer,Returning,North,Uppsala,Fashion,Sportswear,Card,Social,1,56.12,0,4,No,56.12,56.12,0,Medel
+O2025204,2025-07-16,C1188,Small Business,Returning,North,Uppsala,Beauty,Haircare,Card,Email,1,47.72,0.242,2,No,36.17176,36.17176,0,Kort
+O2025205,2025-05-04,C1213,Consumer,Returning,West,Boras,Electronics,Tablet,Paypal,Direct,1,698.01,0,1,No,698.01,698.01,0,Kort
+O2025206,2025-02-17,C1121,Small Business,Returning,North,Stockholm,Home,Kitchen,Gift Card,Organic,1,149.43,0.051,4,No,141.80907,141.80907,0,Medel
+O2025207,2025-07-31,C1086,Consumer,Returning,South,Helsingborg,Electronics,Mobile,Swish,Social,1,408.49,0.09,4,No,371.7259,371.7259,0,Medel
+O2025208,2025-12-09,C1198,Consumer,VIP,South,Helsingborg,Home,Decor,Card,Email,1,98.07,0.17,4,No,81.39809999999999,81.39809999999999,0,Medel
+O2025209,2025-04-03,C1033,Small Business,Returning,South,Helsingborg,Beauty,Skincare,Swish,Organic,3,42.91,0,7,Yes,42.91,128.73,1,Lang
+O2025210,2025-06-05,C1018,Small Business,Returning,West,Gothenburg,Home,Lighting,Swish,Organic,1,263.84,0.048,2,No,251.17567999999997,251.17567999999997,0,Kort
+O2025211,2025-02-23,C1223,Corporate,Returning,West,Gothenburg,Electronics,Mobile,Card,Organic,1,545.76,0.049,3,No,519.01776,519.01776,0,Medel
+O2025212,2025-08-07,C1121,Small Business,Returning,North,Stockholm,Beauty,Makeup,Swish,Social,1,62.54,0.077,2,No,57.72442,57.72442,0,Kort
+O2025213,2025-10-20,C1157,Consumer,New,North,Uppsala,Sports,Fitness,Paypal,Organic,4,158.72,0.082,3,No,145.70496,582.81984,0,Medel
+O2025214,2025-09-17,C1162,Consumer,Returning,South,Helsingborg,Fashion,Sportswear,Swish,Organic,1,96.58,0.071,4,No,89.72282,89.72282,0,Medel
+O2025215,2025-04-17,C1050,Consumer,Returning,West,Boras,Fashion,Accessories,Card,Organic,1,55.31,0.062,3,No,51.88078,51.88078,0,Medel
+O2025216,2025-10-24,C1238,Small Business,Returning,West,Gothenburg,Beauty,Fragrance,Card,Organic,1,63.03,0.091,5,No,57.294270000000004,57.294270000000004,0,Lang
+O2025217,2025-06-02,C1253,Consumer,New,North,Uppsala,Sports,Cycling,Card,Email,1,634.49,0.122,4,No,557.08222,557.08222,0,Medel
+O2025218,2025-04-16,C1180,Corporate,Returning,North,Stockholm,Sports,Team Sports,Card,Paid Search,1,90.98,0.204,2,Yes,72.42008000000001,72.42008000000001,1,Kort
+O2025219,2025-09-05,C1133,Small Business,VIP,North,Vasteras,Beauty,Skincare,Paypal,Email,1,67.18,0.076,2,No,62.07432000000001,62.07432000000001,0,Kort
+O2025220,2025-02-18,C1029,Consumer,VIP,West,NA,Home,Kitchen,Invoice,Direct,2,151.07,0.129,5,Yes,131.58196999999998,263.16393999999997,1,Lang
+O2025221,2025-10-20,C1071,Consumer,Returning,East,Norrkoping,Home,Lighting,Swish,Organic,1,194.5,0.011,5,No,192.3605,192.3605,0,Lang
+O2025222,2025-01-24,C1059,Small Business,New,South,Malmo,Sports,Outdoor,Swish,Paid Search,1,264.1,0.121,3,No,232.14390000000003,232.14390000000003,0,Medel
+O2025223,2025-12-14,C1046,Corporate,New,North,NA,Home,Kitchen,Card,Organic,1,106.29,0.081,3,No,97.68051000000001,97.68051000000001,0,Medel
+O2025224,2025-01-12,C1163,Corporate,Returning,West,Boras,Electronics,Mobile,Invoice,Paid Search,1,261.97,0.12,6,No,230.53360000000004,230.53360000000004,0,Lang
+O2025225,2025-06-08,C1248,Consumer,New,West,Boras,Electronics,Laptop,NA,Organic,2,871.36,0,5,Yes,871.36,1742.72,1,Lang
+O2025226,2025-03-17,C1006,Consumer,VIP,East,Orebro,Electronics,Mobile,Card,Social,2,485.5,0.165,3,Yes,405.3925,810.785,1,Medel
+O2025227,2025-12-07,C1025,Consumer,Returning,North,Uppsala,Electronics,Mobile,Invoice,Affiliate,1,460.43,0.152,4,No,390.44464,390.44464,0,Medel
+O2025228,2025-11-20,C1131,Small Business,Returning,North,Vasteras,Beauty,Makeup,Card,Email,1,38.29,0.08,3,No,35.2268,35.2268,0,Medel
+O2025229,2025-04-11,C1234,Consumer,New,West,Gothenburg,Beauty,Haircare,Swish,Paid Search,1,8,0.029,5,No,7.768,7.768,0,Lang
+O2025230,2025-05-01,C1102,Small Business,Returning,North,Vasteras,Home,Furniture,Invoice,Paid Search,1,581.41,0.108,3,No,518.61772,518.61772,0,Medel
+O2025231,2025-03-07,C1090,Consumer,Returning,West,Gothenburg,Fashion,Shoes,Card,Social,1,74,0.02,4,Yes,72.52,72.52,1,Medel
+O2025232,2025-04-25,C1225,Small Business,Returning,North,Stockholm,Fashion,Sportswear,Card,Direct,1,94.24,0.078,4,No,86.88928,86.88928,0,Medel
+O2025233,2025-06-26,C1239,Corporate,Returning,South,Helsingborg,Electronics,Headphones,Card,Paid Search,1,149.63,0.077,6,No,138.10849,138.10849,0,Lang
+O2025234,2025-09-08,C1168,Consumer,New,East,Orebro,Beauty,Skincare,Swish,Social,1,26.09,0.071,5,No,24.23761,24.23761,0,Lang
+O2025235,2025-07-01,C1235,Small Business,Returning,North,Stockholm,Sports,Outdoor,Swish,Organic,1,187.57,0.042,2,Yes,179.69206,179.69206,1,Kort
+O2025236,2025-07-08,C1123,Small Business,Returning,East,Orebro,Fashion,Jackets,Paypal,Affiliate,2,208.21,0.012,4,No,205.71148,411.42296,0,Medel
+O2025237,2025-05-07,C1040,Consumer,Returning,East,Linkoping,Electronics,Tablet,Invoice,Paid Search,2,665.59,0,4,No,665.59,1331.18,0,Medel
+O2025238,2025-11-17,C1257,Consumer,Returning,North,Uppsala,Electronics,Laptop,Card,Organic,1,1153.88,0,3,No,1153.88,1153.88,0,Medel
+O2025239,2025-01-08,C1176,Small Business,Returning,North,Stockholm,Home,Lighting,Card,Organic,1,130.81,0.065,4,No,122.30735000000001,122.30735000000001,0,Medel
+O2025240,2025-10-27,C1051,Small Business,VIP,West,Halmstad,Fashion,Jackets,Swish,Social,1,191.31,0.043,3,No,183.08366999999998,183.08366999999998,0,Medel
+O2025241,2025-10-16,C1206,Consumer,New,East,Orebro,Fashion,Sportswear,Card,Paid Search,1,106.83,0,3,No,106.83,106.83,0,Medel
+O2025242,2025-04-18,C1146,Corporate,New,North,Uppsala,Sports,Fitness,Swish,Social,1,296.77,0.107,3,No,265.01561,265.01561,0,Medel
+O2025243,2025-11-02,C1076,Consumer,New,East,Norrkoping,Fashion,Jackets,Card,Social Media,2,114.71,0.078,4,No,105.76262,211.52524,0,Medel
+O2025244,2025-02-17,C1100,Small Business,New,West,Gothenburg,Sports,Fitness,Swish,Affiliate,1,465.16,0.132,6,No,403.75888000000003,403.75888000000003,0,Lang
+O2025245,2025-02-15,C1256,Consumer,New,North,Uppsala,Beauty,Fragrance,Swish,Paid Search,1,90.63,0.056,5,Yes,85.55471999999999,85.55471999999999,1,Lang
+O2025246,2025-10-03,C1154,Corporate,VIP,West,Gothenburg,Fashion,Jackets,Invoice,Affiliate,1,153.55,0.093,3,No,139.26985000000002,139.26985000000002,0,Medel
+O2025247,2025-01-02,C1042,Consumer,Returning,North,Uppsala,Sports,Cycling,Paypal,Email,1,727.26,0.146,3,No,621.0800399999999,621.0800399999999,0,Medel
+O2025248,2025-03-25,C1035,Consumer,New,South,Malmo,Fashion,Jackets,Paypal,Affiliate,4,238.12,0.156,2,No,200.97328,803.89312,0,Kort
+O2025249,2025-04-13,C1076,Consumer,New,North,Uppsala,Fashion,Accessories,Invoice,Social,1,41.66,0.02,4,No,40.8268,40.8268,0,Medel
+O2025250,2025-12-04,C1083,Consumer,VIP,North,Vasteras,Fashion,Sportswear,Card,Social,2,97.43,0.059,2,No,91.68163000000001,183.36326000000003,0,Kort
+O2025251,2025-08-07,C1100,Small Business,New,West,Gothenburg,Home,Decor,Card,Affiliate,1,79.21,0.179,5,No,65.03141,65.03141,0,Lang
+O2025252,2025-09-30,C1257,Consumer,Returning,North,Uppsala,Sports,Outdoor,Swish,Email,1,228.21,0.016,2,No,224.55864,224.55864,0,Kort
+O2025253,2025-07-27,C1226,Consumer,Returning,North,Vasteras,Beauty,Skincare,Card,Paid Search,1,53.92,0.034,3,No,52.08672,52.08672,0,Medel
+O2025254,2025-06-09,C1064,Consumer,VIP,North,Uppsala,Home,Furniture,Paypal,Social,1,458.81,0.198,4,No,367.96562,367.96562,0,Medel
+O2025255,2025-05-09,C1041,Consumer,Returning,South,Lund,Beauty,Haircare,Swish,Affiliate,1,45.36,0.121,3,No,39.87144,39.87144,0,Medel
+O2025256,2025-08-15,C1237,Small Business,Returning,South,Malmo,Electronics,Headphones,Invoice,Email,2,134.35,0.029,5,No,130.45385,260.9077,0,Lang
+O2025257,2025-04-06,C1209,Consumer,Returning,North,Stockholm,Home,Decor,Swish,Organic,2,64.34,0,4,No,64.34,128.68,0,Medel
+O2025258,2025-01-12,C1111,Corporate,Returning,North,Stockholm,Electronics,Tablet,Card,Email,1,669.12,0.122,3,Yes,587.48736,587.48736,1,Medel
+O2025259,2025-03-22,C1055,Corporate,New,North,Stockholm,Beauty,Skincare,Card,Organic,1,66.61,0.038,3,No,64.07882,64.07882,0,Medel
+O2025260,2025-09-05,C1219,Consumer,New,West,Gothenburg,Home,Decor,Invoice,Email,2,83.76,0.127,4,No,73.12248000000001,146.24496000000002,0,Medel
+O2025261,2025-01-01,C1044,Consumer,Returning,North,Stockholm,Fashion,Shoes,Invoice,Direct,1,194.62,0.043,4,No,186.25134,186.25134,0,Medel
+O2025262,2025-03-09,C1162,Consumer,Returning,South,Helsingborg,Sports,Fitness,Card,Organic,1,178.76,0,5,No,178.76,178.76,0,Lang
+O2025263,2025-07-16,C1015,Small Business,Returning,West,Halmstad,Home,Furniture,Swish,Direct,1,555.65,0,4,No,555.65,555.65,0,Medel
+O2025264,2025-09-02,C1233,Corporate,Returning,West,Halmstad,Sports,Team Sports,Invoice,Social,3,75.42,0,3,No,75.42,226.26,0,Medel
+O2025265,2025-10-12,C1207,Consumer,New,North,Stockholm,Home,Decor,Invoice,Direct,2,68.81,0.097,3,No,62.13543000000001,124.27086000000001,0,Medel
+O2025266,2025-09-17,C1057,Small Business,VIP,South,Malmo,Sports,Outdoor,Paypal,Organic,1,240.34,0.108,6,No,214.38328,214.38328,0,Lang
+O2025267,2025-03-16,C1065,Small Business,New,North,Uppsala,Home,Decor,Swish,Paid Search,1,80.78,0.015,2,No,79.5683,79.5683,0,Kort
+O2025268,2025-03-15,C1073,Small Business,New,North,Vasteras,Electronics,Laptop,Card,NA,3,759.75,0.064,2,No,711.126,2133.3779999999997,0,Kort
+O2025269,2025-03-23,C1087,Consumer,Returning,West,Halmstad,Fashion,Accessories,Swish,Affiliate,3,49.02,0.258,5,Yes,36.372840000000004,109.11852000000002,1,Lang
+O2025270,2025-12-10,C1210,Small Business,New,North,Uppsala,Electronics,Tablet,Invoice,Organic,2,439.43,0,2,Yes,439.43,878.86,1,Kort
+O2025271,2025-12-05,C1090,Consumer,Returning,West,Gothenburg,Home,Decor,Swish,Paid Search,1,80.54,0.056,5,No,76.02976,76.02976,0,Lang
+O2025272,2025-04-29,C1003,Corporate,Returning,North,Stockholm,Home,Decor,Invoice,Social Media,1,96.38,0.068,5,No,89.82615999999999,89.82615999999999,0,Lang
+O2025273,2025-03-07,C1218,Consumer,VIP,North,Vasteras,Electronics,Mobile,Card,Paid Search,1,453.85,0.155,7,No,383.50325,383.50325,0,Lang
+O2025274,2025-06-02,C1163,Corporate,Returning,West,Boras,Electronics,Headphones,Paypal,Email,1,151.56,0,5,No,151.56,151.56,0,Lang
+O2025275,2025-09-21,C1203,Small Business,Returning,East,Orebro,Home,Kitchen,Swish,Organic,1,171.97,0.033,6,No,166.29498999999998,166.29498999999998,0,Lang
+O2025276,2025-07-07,C1169,Consumer,Returning,North,Uppsala,Beauty,Fragrance,Card,Organic,2,87.53,0,3,No,87.53,175.06,0,Medel
+O2025277,2025-07-05,C1220,Consumer,Returning,West,Halmstad,Electronics,Laptop,Card,Social,2,1331.89,0,4,No,1331.89,2663.78,0,Medel
+O2025278,2025-01-03,C1089,Consumer,Returning,South,Lund,Home,Kitchen,Card,Paid Search,1,44.57,0.023,7,Yes,43.54489,43.54489,1,Lang
+O2025279,2025-07-25,C1151,Consumer,Returning,West,Halmstad,Electronics,Tablet,Swish,Email,2,481,0.078,5,No,443.482,886.964,0,Lang
+O2025280,2025-04-14,C1253,Consumer,New,East,Linkoping,Beauty,Fragrance,Invoice,Social,1,70.34,0.052,5,No,66.68232,66.68232,0,Lang
+O2025281,2025-09-29,C1080,Consumer,New,North,Stockholm,Electronics,Headphones,Invoice,Social,1,161.71,0.086,2,No,147.80294,147.80294,0,Kort
+O2025282,2025-03-12,C1137,Consumer,New,West,Boras,Fashion,Accessories,Card,Email,1,63.48,0.08,3,No,58.4016,58.4016,0,Medel
+O2025283,2025-05-22,C1171,Small Business,Returning,West,Halmstad,Electronics,Tablet,Invoice,Organic,1,525.1,0.051,4,Yes,498.3199,498.3199,1,Medel
+O2025284,2025-11-13,C1024,Consumer,New,West,Halmstad,Fashion,Sportswear,Card,Paid Search,1,98.29,0,3,No,98.29,98.29,0,Medel
+O2025285,2025-10-19,C1024,Consumer,New,North,Vasteras,Fashion,Shoes,Card,Organic,1,113.2,0.04,2,No,108.672,108.672,0,Kort
+O2025286,2025-05-03,C1249,Corporate,Returning,West,Gothenburg,Sports,Fitness,Card,Direct,1,152.6,0.053,4,No,144.51219999999998,144.51219999999998,0,Medel
+O2025287,2025-01-26,C1033,Small Business,Returning,South,Helsingborg,Home,Decor,Card,Paid Search,1,95.04,0.005,5,No,94.5648,94.5648,0,Lang
+O2025288,2025-09-19,C1051,Small Business,VIP,North,Vasteras,Electronics,Mobile,Card,Organic,1,370.37,0.059,1,No,348.51817,348.51817,0,Kort
+O2025289,2025-03-21,C1018,Small Business,Returning,West,Gothenburg,Fashion,Shoes,Card,Paid Search,4,87.72,0.103,1,Yes,78.68484,314.73936,1,Kort
+O2025290,2025-12-28,C1173,Corporate,New,West,Halmstad,Home,Furniture,Paypal,Email,1,521.07,0.245,4,Yes,393.40785000000005,393.40785000000005,1,Medel
+O2025291,2025-01-25,C1128,Consumer,Returning,North,Stockholm,Electronics,Mobile,Card,Direct,1,467.42,0,4,No,467.42,467.42,0,Medel
+O2025292,2025-08-12,C1211,Consumer,New,North,Uppsala,Sports,Outdoor,Paypal,Email,1,137.11,0.121,4,No,120.51969000000001,120.51969000000001,0,Medel
+O2025293,2025-09-12,C1172,Corporate,Returning,East,Norrkoping,Beauty,Makeup,Card,Paid Search,1,49.73,0.08,5,No,45.751599999999996,45.751599999999996,0,Lang
+O2025294,2025-07-06,C1138,Consumer,New,South,Lund,Fashion,Jackets,Invoice,Direct,2,168,0.037,3,No,161.784,323.568,0,Medel
+O2025295,2025-05-03,C1095,Corporate,New,West,Halmstad,Beauty,Skincare,Paypal,Affiliate,1,40.08,0.131,3,No,34.829519999999995,34.829519999999995,0,Medel
+O2025296,2025-09-02,C1110,Corporate,Returning,East,Norrkoping,Sports,Team Sports,Swish,Organic,1,63.96,0.049,6,No,60.825959999999995,60.825959999999995,0,Lang
+O2025297,2025-11-19,C1047,Consumer,Returning,East,NA,Fashion,Accessories,Swish,Email,1,49.91,0.018,3,No,49.01161999999999,49.01161999999999,0,Medel
+O2025298,2025-06-03,C1043,Corporate,New,West,Halmstad,Sports,Outdoor,Invoice,Direct,1,209.84,0.012,4,Yes,207.32192,207.32192,1,Medel
+O2025299,2025-06-24,C1026,Small Business,Returning,South,Malmo,Beauty,Makeup,Invoice,Paid Search,1,61.43,0.141,3,No,52.76837,52.76837,0,Medel
+O2025300,2025-03-10,C1153,Consumer,New,North,Stockholm,Home,Decor,Swish,Social,2,91.41,0.047,4,No,87.11372999999999,174.22745999999998,0,Medel
+O2025301,2025-08-14,C1215,Consumer,Returning,North,Stockholm,Fashion,Jackets,Card,Direct,1,102.17,0.001,NA,No,102.06783,102.06783,0,NA
+O2025302,2025-10-08,C1154,Corporate,VIP,West,Gothenburg,Beauty,Fragrance,Swish,Paid Search,1,92.09,0.128,6,No,80.30248,80.30248,0,Lang
+O2025303,2025-01-19,C1111,Corporate,Returning,North,Stockholm,Fashion,Jackets,Swish,Social,1,97.83,0.033,2,Yes,94.60161,94.60161,1,Kort
+O2025304,2025-01-08,C1013,Consumer,Returning,West,Halmstad,Home,Kitchen,Card,Paid Search,1,98.34,0.113,5,No,87.22758,87.22758,0,Lang
+O2025305,2025-01-20,C1001,Consumer,VIP,West,Halmstad,Electronics,Headphones,Paypal,NA,1,190.89,0.116,4,No,168.74676,168.74676,0,Medel
+O2025306,2025-06-14,C1185,Small Business,New,South,Lund,Fashion,Shoes,Gift Card,Social,1,67.45,0.021,3,No,66.03355,66.03355,0,Medel
+O2025307,2025-05-07,C1159,Consumer,Returning,South,Malmo,Fashion,Accessories,NA,Social,2,44.7,0.022,5,Yes,43.7166,87.4332,1,Lang
+O2025308,2025-11-25,C1237,Small Business,Returning,South,Malmo,Electronics,Laptop,Invoice,Email,1,1304.43,0.134,4,Yes,1129.6363800000001,1129.6363800000001,1,Medel
+O2025309,2025-09-22,C1232,Corporate,Returning,North,Uppsala,Sports,Fitness,Swish,Social,1,342.12,0.062,4,No,320.90855999999997,320.90855999999997,0,Medel
+O2025310,2025-09-29,C1052,Consumer,Returning,West,Boras,Home,Furniture,Swish,Organic,1,594.6,0.069,3,No,553.5726000000001,553.5726000000001,0,Medel
+O2025311,2025-06-14,C1121,Small Business,Returning,South,Malmo,Electronics,Tablet,Invoice,Organic,2,692.4,0.037,3,Yes,666.7811999999999,1333.5623999999998,1,Medel
+O2025312,2025-03-21,C1121,Small Business,Returning,North,Stockholm,Electronics,Headphones,Invoice,Direct,1,171.23,0.051,3,No,162.49727,162.49727,0,Medel
+O2025313,2025-02-19,C1123,Small Business,Returning,East,Orebro,Sports,Outdoor,Swish,Organic,2,162.29,0.006,3,No,161.31626,322.63252,0,Medel
+O2025314,2025-04-07,C1119,Small Business,New,East,NA,Electronics,Headphones,Card,Direct,1,100.1,0,4,No,100.1,100.1,0,Medel
+O2025315,2025-07-06,C1212,Corporate,New,South,Malmo,Fashion,Jackets,Gift Card,Social,2,200.35,0.005,3,No,199.34825,398.6965,0,Medel
+O2025316,2025-06-04,C1024,Consumer,New,South,Malmo,Beauty,Fragrance,Invoice,Email,2,79.9,0.098,NA,Yes,72.0698,144.1396,1,NA
+O2025317,2025-04-16,C1235,Small Business,Returning,North,Stockholm,Beauty,Fragrance,Card,Organic,1,97.73,0.091,2,No,88.83657000000001,88.83657000000001,0,Kort
+O2025318,2025-03-17,C1115,Consumer,VIP,East,Orebro,Fashion,Jackets,Card,Direct,1,197.03,0.107,4,No,175.94779,175.94779,0,Medel
+O2025319,2025-09-09,C1046,Corporate,New,North,Stockholm,Fashion,Jackets,Swish,Organic,1,197.69,0.042,5,No,189.38701999999998,189.38701999999998,0,Lang
+O2025320,2025-10-24,C1204,Small Business,New,West,Gothenburg,Home,Decor,Card,Organic,1,166.78,0.057,5,No,157.27354,157.27354,0,Lang
+O2025321,2025-10-28,C1098,Small Business,Returning,West,Halmstad,Electronics,Tablet,Paypal,Paid Search,2,415.46,0.1,4,Yes,373.914,747.828,1,Medel
+O2025322,2025-10-18,C1132,Corporate,Returning,West,Boras,Electronics,Mobile,Gift Card,Social,1,318.18,0.049,4,No,302.58918,302.58918,0,Medel
+O2025323,2025-02-15,C1115,Consumer,VIP,East,Orebro,Electronics,Tablet,Swish,Direct,1,489.32,0.08,6,No,450.1744,450.1744,0,Lang
+O2025324,2025-08-17,C1192,Corporate,Returning,West,Gothenburg,Fashion,Sportswear,Invoice,Paid Search,4,76.93,0.046,2,No,73.39122,293.56488,0,Kort
+O2025325,2025-08-29,C1228,Small Business,Returning,West,Halmstad,Electronics,Mobile,Card,Social,1,467.35,0.025,5,No,455.66625,455.66625,0,Lang
+O2025326,2025-10-11,C1083,Consumer,VIP,North,Vasteras,Fashion,Shoes,Swish,Organic,3,93.77,0.084,2,No,85.89332,257.67996,0,Kort
+O2025327,2025-11-04,C1068,Consumer,New,East,Linkoping,Home,Decor,Card,Social,1,117.03,0.03,4,No,113.5191,113.5191,0,Medel
+O2025328,2025-07-05,C1005,Small Business,Returning,West,Gothenburg,Fashion,Sportswear,Card,Direct,3,90.29,0.124,4,No,79.09404,237.28212000000002,0,Medel
+O2025329,2025-08-06,C1058,Consumer,New,North,Stockholm,Sports,Fitness,Invoice,Organic,1,259.68,0.065,2,No,242.8008,242.8008,0,Kort
+O2025330,2025-03-29,C1059,Small Business,New,South,Malmo,Home,Decor,Card,Organic,1,61.67,0.059,6,No,58.031470000000006,58.031470000000006,0,Lang
+O2025331,2025-03-10,C1194,Consumer,New,North,Uppsala,Beauty,Haircare,Card,Email,1,41.93,0,NA,No,41.93,41.93,0,NA
+O2025332,2025-07-24,C1028,Consumer,VIP,East,Norrkoping,Home,Kitchen,Gift Card,Affiliate,1,134.34,0.14,6,No,115.5324,115.5324,0,Lang
+O2025333,2025-06-28,C1061,Small Business,Returning,North,Vasteras,Fashion,Jackets,Card,Paid Search,1,132.47,0.048,5,No,126.11143999999999,126.11143999999999,0,Lang
+O2025334,2025-11-12,C1039,Consumer,Returning,North,Vasteras,Fashion,Sportswear,Swish,Email,1,102.55,0.144,1,No,87.7828,87.7828,0,Kort
+O2025335,2025-12-29,C1095,Corporate,New,West,Halmstad,Beauty,Haircare,Swish,Social,4,16.83,0,6,No,16.83,67.32,0,Lang
+O2025336,2025-04-30,C1201,Consumer,Returning,West,Halmstad,Home,Lighting,Card,Direct,1,190.55,0.047,6,No,181.59415,181.59415,0,Lang
+O2025337,2025-07-14,C1006,Consumer,VIP,East,Orebro,Sports,Outdoor,Invoice,Social,1,157.49,0.118,3,No,138.90618,138.90618,0,Medel
+O2025338,2025-11-10,C1048,Consumer,VIP,North,Uppsala,Home,Lighting,Card,Organic,1,157.23,0.113,5,No,139.46301,139.46301,0,Lang
+O2025339,2025-08-03,C1160,Consumer,New,East,Orebro,Electronics,Tablet,Swish,Affiliate,1,601.39,0.146,3,No,513.58706,513.58706,0,Medel
+O2025340,2025-11-03,C1060,Small Business,Returning,North,Vasteras,Sports,Cycling,Card,Paid Search,2,381.18,0.096,3,No,344.58672,689.17344,0,Medel
+O2025341,2025-04-26,C1239,Corporate,Returning,East,Linkoping,Fashion,Shoes,Swish,Organic,1,34.46,0.044,3,No,32.94376,32.94376,0,Medel
+O2025342,2025-05-10,C1061,Small Business,Returning,North,Vasteras,Home,Furniture,Card,Social,2,695.69,0,NA,No,695.69,1391.38,0,NA
+O2025343,2025-01-04,C1071,Consumer,Returning,East,Norrkoping,Electronics,Headphones,NA,Paid Search,1,245.18,0.097,5,Yes,221.39754000000002,221.39754000000002,1,Lang
+O2025344,2025-08-30,C1183,Small Business,New,North,Vasteras,Electronics,Laptop,Card,Paid Search,2,1546.41,0.096,4,No,1397.9546400000002,2795.9092800000003,0,Medel
+O2025345,2025-09-29,C1255,Consumer,Returning,East,Linkoping,Sports,Fitness,Card,Direct,2,258.35,0.108,3,No,230.4482,460.8964,0,Medel
+O2025346,2025-07-04,C1104,Small Business,Returning,West,Gothenburg,Fashion,Shoes,Invoice,Email,1,76.06,0.071,1,No,70.65974,70.65974,0,Kort
+O2025347,2025-05-14,C1181,Consumer,New,West,Boras,Beauty,Fragrance,Card,Direct,1,61.18,0,2,No,61.18,61.18,0,Kort
+O2025348,2025-03-21,C1143,Corporate,VIP,South,Helsingborg,Fashion,Jackets,Paypal,Organic,1,174.56,0.112,3,Yes,155.00928000000002,155.00928000000002,1,Medel
+O2025349,2025-08-20,C1161,Small Business,Returning,West,Boras,Home,Kitchen,Card,Paid Search,1,123,0.058,5,Yes,115.866,115.866,1,Lang
+O2025350,2025-03-13,C1221,Consumer,Returning,West,Halmstad,Electronics,Laptop,Invoice,Organic,1,725.28,0.003,4,No,723.10416,723.10416,0,Medel
+O2025351,2025-09-10,C1238,Small Business,Returning,West,Gothenburg,Home,Lighting,Card,Organic,2,188.24,0.028,6,No,182.96928,365.93856,0,Lang
+O2025352,2025-06-19,C1028,Consumer,VIP,East,Norrkoping,Electronics,Mobile,Card,Paid Search,1,463,0.138,5,No,399.106,399.106,0,Lang
+O2025353,2025-12-09,C1088,Consumer,New,South,Malmo,Home,Decor,Swish,Email,1,92.96,0.107,1,Yes,83.01328,83.01328,1,Kort
+O2025354,2025-02-27,C1182,Small Business,Returning,East,Orebro,Beauty,Skincare,Gift Card,Social,1,53.15,0,5,No,53.15,53.15,0,Lang
+O2025355,2025-06-03,C1222,Consumer,Returning,East,Linkoping,Fashion,Accessories,Swish,Email,2,56.41,0.109,6,No,50.261309999999995,100.52261999999999,0,Lang
+O2025356,2025-03-31,C1231,Corporate,New,North,Uppsala,Fashion,Sportswear,Card,Email,1,77.16,0.114,2,No,68.36376,68.36376,0,Kort
+O2025357,2025-06-21,C1206,Consumer,New,East,Orebro,Fashion,Jackets,Invoice,Email,1,229.03,0.103,4,No,205.43991,205.43991,0,Medel
+O2025358,2025-11-25,C1048,Consumer,VIP,North,Uppsala,Fashion,Accessories,Card,Affiliate,1,27.9,0.22,2,No,21.762,21.762,0,Kort
+O2025359,2025-05-28,C1238,Small Business,Returning,West,Gothenburg,Home,Lighting,Card,Organic,2,189.54,0.043,5,No,181.38977999999997,362.77955999999995,0,Lang
+O2025360,2025-11-28,C1118,Corporate,New,North,Uppsala,Electronics,Tablet,Paypal,Social,1,405.33,0.004,2,No,403.70867999999996,403.70867999999996,0,Kort
+O2025361,2025-01-11,C1094,Consumer,Returning,North,Uppsala,Beauty,Skincare,Paypal,Organic,1,82.35,0.039,3,No,79.13834999999999,79.13834999999999,0,Medel
+O2025362,2025-07-18,C1215,Consumer,Returning,North,Stockholm,Home,Decor,Swish,Organic,1,61.38,0.022,4,Yes,60.02964,60.02964,1,Medel
+O2025363,2025-01-07,C1116,Consumer,Returning,North,Uppsala,Electronics,Laptop,Gift Card,Email,1,1241.74,0.153,5,No,1051.75378,1051.75378,0,Lang
+O2025364,2025-12-13,C1225,Small Business,Returning,North,NA,Sports,Outdoor,Card,Organic,2,229.08,0.093,3,No,207.77556,415.55112,0,Medel
+O2025365,2025-02-19,C1259,Consumer,Returning,North,Uppsala,Beauty,Skincare,Card,Organic,2,43.78,0.012,1,No,43.25464,86.50928,0,Kort
+O2025366,2025-01-30,C1106,Consumer,Returning,North,Stockholm,Fashion,Jackets,Gift Card,Paid Search,1,132.84,0.106,3,No,118.75896,118.75896,0,Medel
+O2025367,2025-07-31,C1187,Consumer,Returning,North,Vasteras,Fashion,Accessories,Swish,Social,2,49.03,0.057,2,No,46.23529,92.47058,0,Kort
+O2025368,2025-12-22,C1107,Consumer,VIP,South,Malmo,Beauty,Skincare,NA,Social,1,44.5,0.102,4,Yes,39.961,39.961,1,Medel
+O2025369,2025-08-05,C1212,Corporate,New,South,Malmo,Beauty,Skincare,Card,Paid Search,1,59.45,0.017,4,No,58.439350000000005,58.439350000000005,0,Medel
+O2025370,2025-06-06,C1035,Consumer,New,South,Malmo,Electronics,Laptop,Gift Card,NA,2,1099.08,0.073,4,Yes,1018.84716,2037.69432,1,Medel
+O2025371,2025-09-24,C1143,Corporate,VIP,South,Helsingborg,Beauty,Makeup,Card,Social,1,51.79,0.067,1,No,48.32007,48.32007,0,Kort
+O2025372,2025-12-02,C1165,Corporate,Returning,South,Lund,Home,Decor,Card,Paid Search,1,89.21,0.043,5,No,85.37396999999999,85.37396999999999,0,Lang
+O2025373,2025-09-11,C1155,Corporate,New,South,Helsingborg,Fashion,Shoes,Card,Affiliate,1,75.38,0.196,4,No,60.60552,60.60552,0,Medel
+O2025374,2025-04-28,C1058,Consumer,New,North,Stockholm,Fashion,Accessories,Invoice,Organic,2,32.25,0.041,2,No,30.92775,61.8555,0,Kort
+O2025375,2025-04-09,C1164,Corporate,Returning,East,Linkoping,Beauty,Makeup,Card,Direct,2,28.21,0.063,2,No,26.43277,52.86554,0,Kort
+O2025376,2025-03-21,C1121,Small Business,Returning,North,Stockholm,Beauty,Fragrance,Card,Direct,2,98.31,0,4,No,98.31,196.62,0,Medel
+O2025377,2025-04-29,C1171,Small Business,Returning,West,Halmstad,Electronics,Laptop,Swish,Email,1,948.84,0.104,3,No,850.1606400000001,850.1606400000001,0,Medel
+O2025378,2025-06-26,C1164,Corporate,Returning,East,Linkoping,Home,Lighting,Card,Affiliate,1,189.03,0.06,7,No,177.6882,177.6882,0,Lang
+O2025379,2025-09-22,C1144,Consumer,Returning,North,Uppsala,Sports,Team Sports,Swish,Organic,2,133.52,0,1,No,133.52,267.04,0,Kort
+O2025380,2025-12-09,C1061,Small Business,Returning,North,Vasteras,Home,Furniture,Invoice,Organic,1,838.79,0,3,Yes,838.79,838.79,1,Medel
+O2025381,2025-05-12,C1003,Corporate,Returning,East,Norrkoping,Electronics,Laptop,Card,Organic,1,1106.14,0.121,2,No,972.2970600000001,972.2970600000001,0,Kort
+O2025382,2025-01-22,C1120,Small Business,New,North,Stockholm,Sports,Outdoor,Card,Email,2,78.28,0.131,2,No,68.02532,136.05064,0,Kort
+O2025383,2025-11-30,C1144,Consumer,Returning,North,Uppsala,Electronics,Mobile,Card,NA,1,277.5,0,2,No,277.5,277.5,0,Kort
+O2025384,2025-12-17,C1122,Corporate,New,East,Orebro,Fashion,Jackets,Card,Organic,2,183.6,0.058,4,No,172.95119999999997,345.90239999999994,0,Medel
+O2025385,2025-03-21,C1218,Consumer,VIP,North,Vasteras,Home,Decor,Card,Social,1,48.32,0.077,4,No,44.599360000000004,44.599360000000004,0,Medel
+O2025386,2025-06-28,C1156,Consumer,New,West,Gothenburg,Beauty,Makeup,Invoice,Social Media,2,48.39,0.09,4,No,44.0349,88.0698,0,Medel
+O2025387,2025-11-03,C1134,Consumer,Returning,East,Linkoping,Electronics,Tablet,NA,Direct,1,717.55,0.038,5,No,690.2830999999999,690.2830999999999,0,Lang
+O2025388,2025-07-11,C1056,Small Business,VIP,North,Stockholm,Home,Furniture,Swish,Organic,1,438.66,0.136,6,No,379.00224000000003,379.00224000000003,0,Lang
+O2025389,2025-11-22,C1109,Small Business,Returning,South,Helsingborg,Electronics,Headphones,Invoice,Paid Search,1,139.9,0.105,3,Yes,125.21050000000001,125.21050000000001,1,Medel
+O2025390,2025-10-26,C1235,Small Business,Returning,North,Stockholm,Beauty,Makeup,Card,Email,1,76.34,0.098,4,No,68.85868,68.85868,0,Medel
+O2025391,2025-03-25,C1117,Small Business,Returning,North,Vasteras,Beauty,Haircare,Swish,Email,1,35.96,0.046,2,No,34.305839999999996,34.305839999999996,0,Kort
+O2025392,2025-03-23,C1093,Small Business,Returning,West,Boras,Home,Furniture,Card,Direct,2,659.92,0.054,4,No,624.28432,1248.56864,0,Medel
+O2025393,2025-06-14,C1094,Consumer,Returning,North,Uppsala,Fashion,Shoes,Invoice,Direct,2,129.66,0.063,3,No,121.49142,242.98284,0,Medel
+O2025394,2025-09-09,C1193,Corporate,Returning,North,Uppsala,Electronics,Tablet,Card,Affiliate,1,588.59,0.006,3,No,585.0584600000001,585.0584600000001,0,Medel
+O2025395,2025-01-31,C1030,Small Business,Returning,North,Stockholm,Fashion,Sportswear,Card,Social,1,91.39,0.028,2,No,88.83108,88.83108,0,Kort
+O2025396,2025-10-07,C1151,Consumer,Returning,West,Halmstad,Electronics,Mobile,Card,Email,2,322.17,0.024,2,No,314.43792,628.87584,0,Kort
+O2025397,2025-12-22,C1130,Consumer,VIP,North,Vasteras,Beauty,Skincare,Paypal,Email,1,70.9,0.1,1,No,63.81000000000001,63.81000000000001,0,Kort
+O2025398,2025-10-10,C1125,Small Business,Returning,East,Norrkoping,Home,Furniture,Card,Organic,1,1005.61,0.038,7,No,967.3968199999999,967.3968199999999,0,Lang
+O2025399,2025-08-29,C1080,Consumer,New,North,Stockholm,Beauty,Makeup,Swish,Email,3,48.08,0,1,No,48.08,144.24,0,Kort
+O2025400,2025-04-02,C1032,Consumer,Returning,North,Uppsala,Sports,Team Sports,Card,Organic,2,107.58,0.011,3,No,106.39662,212.79324,0,Medel
+O2025401,2025-08-17,C1252,Corporate,Returning,North,Uppsala,Home,Decor,Paypal,Organic,1,58.79,0.031,4,No,56.96751,56.96751,0,Medel
+O2025402,2025-04-25,C1148,Consumer,Returning,East,Norrkoping,Sports,Cycling,Card,Direct,2,670.23,0.09,4,No,609.9093,1219.8186,0,Medel
+O2025403,2025-02-14,C1258,Consumer,VIP,West,Halmstad,Electronics,Laptop,Card,Organic,1,940.36,0.156,5,Yes,793.6638399999999,793.6638399999999,1,Lang
+O2025404,2025-11-25,C1117,Small Business,Returning,North,Vasteras,Beauty,Fragrance,Card,Email,1,45.83,0.085,4,No,41.93445,41.93445,0,Medel
+O2025405,2025-11-29,C1089,Consumer,Returning,South,Lund,Electronics,Headphones,Card,Organic,1,242.54,0.007,5,No,240.84222,240.84222,0,Lang
+O2025406,2025-01-07,C1238,Small Business,Returning,West,Gothenburg,Home,Lighting,Card,Organic,1,199.77,0.072,4,No,185.38656000000003,185.38656000000003,0,Medel
+O2025407,2025-09-18,C1028,Consumer,VIP,East,Norrkoping,Fashion,Jackets,Card,Organic,2,165.86,0.144,6,Yes,141.97616000000002,283.95232000000004,1,Lang
+O2025408,2025-05-23,C1067,Small Business,Returning,West,Halmstad,Sports,Cycling,Card,Paid Search,1,572.09,0.093,2,No,518.88563,518.88563,0,Kort
+O2025409,2025-11-16,C1227,Consumer,New,North,Stockholm,Electronics,Tablet,Invoice,Direct,1,314.55,0.01,3,No,311.4045,311.4045,0,Medel
+O2025410,2025-11-08,C1223,Corporate,Returning,West,Gothenburg,Sports,Team Sports,Gift Card,Social,2,68.73,0.015,1,No,67.69905,135.3981,0,Kort
+O2025411,2025-07-30,C1246,Small Business,Returning,West,Boras,Sports,Fitness,Card,Social,1,184.11,0.081,6,No,169.19709000000003,169.19709000000003,0,Lang
+O2025412,2025-12-10,C1198,Consumer,VIP,South,Helsingborg,Beauty,Haircare,Invoice,Paid Search,1,60.39,0.087,NA,Yes,55.136070000000004,55.136070000000004,1,NA
+O2025413,2025-03-30,C1093,Small Business,Returning,West,Boras,Home,Decor,Card,Paid Search,1,90.72,0.108,5,No,80.92224,80.92224,0,Lang
+O2025414,2025-02-18,C1102,Small Business,Returning,East,Linkoping,Home,Kitchen,Card,Direct,1,122.85,0.031,6,No,119.04164999999999,119.04164999999999,0,Lang
+O2025415,2025-04-03,C1239,Corporate,Returning,South,Helsingborg,Home,Decor,Card,Organic,2,59.99,0.055,6,No,56.69055,113.3811,0,Lang
+O2025416,2025-10-07,C1070,Corporate,Returning,South,Malmo,Home,Lighting,Card,Paid Search,1,219.82,0.116,2,No,194.32088,194.32088,0,Kort
+O2025417,2025-02-16,C1173,Corporate,New,West,Halmstad,Beauty,Makeup,Paypal,Direct,2,53.51,0,2,No,53.51,107.02,0,Kort
+O2025418,2025-10-02,C1074,Small Business,New,East,Linkoping,Electronics,Tablet,Gift Card,Direct,1,446.92,0.012,6,No,441.55696,441.55696,0,Lang
+O2025419,2025-01-09,C1082,Consumer,Returning,North,Stockholm,Beauty,Fragrance,Card,Social,1,85.8,0.097,5,No,77.4774,77.4774,0,Lang
+O2025420,2025-01-12,C1052,Consumer,Returning,West,Boras,Sports,Fitness,Card,Social,1,121,0.076,4,No,111.804,111.804,0,Medel
+O2025421,2025-03-19,C1146,Corporate,New,North,NA,Beauty,Skincare,Card,Email,1,41.44,0.063,4,No,38.82928,38.82928,0,Medel
+O2025422,2025-06-19,C1067,Small Business,Returning,West,Halmstad,Electronics,Mobile,Card,Email,1,657.04,0.04,5,No,630.7583999999999,630.7583999999999,0,Lang
+O2025423,2025-02-10,C1201,Consumer,Returning,West,Halmstad,Electronics,Headphones,Card,Direct,1,208.82,0.137,4,No,180.21166,180.21166,0,Medel
+O2025424,2025-09-23,C1198,Consumer,VIP,East,Orebro,Fashion,Sportswear,Card,Social,2,117.67,0.21,4,No,92.9593,185.9186,0,Medel
+O2025425,2025-12-13,C1095,Corporate,New,West,Halmstad,Beauty,Haircare,Card,Organic,1,40.9,0.083,4,No,37.5053,37.5053,0,Medel
+O2025426,2025-04-14,C1249,Corporate,Returning,West,Gothenburg,Beauty,Makeup,Invoice,NA,1,35.39,0.121,2,No,31.10781,31.10781,0,Kort
+O2025427,2025-05-09,C1160,Consumer,New,East,Orebro,Fashion,Accessories,Card,Social,1,70.31,0.072,5,Yes,65.24768,65.24768,1,Lang
+O2025428,2025-04-27,C1210,Small Business,New,North,Uppsala,Electronics,Tablet,Gift Card,Organic,1,538.74,0.097,4,Yes,486.48222000000004,486.48222000000004,1,Medel
+O2025429,2025-07-09,C1239,Corporate,Returning,South,Helsingborg,Fashion,Shoes,Card,Organic,4,103.02,0,4,No,103.02,412.08,0,Medel
+O2025430,2025-10-10,C1228,Small Business,Returning,West,Halmstad,Home,Decor,Card,NA,1,92.29,0.113,4,No,81.86123,81.86123,0,Medel
+O2025431,2025-09-30,C1080,Consumer,New,North,Stockholm,Electronics,Headphones,Card,Direct,1,179.21,0,3,No,179.21,179.21,0,Medel
+O2025432,2025-07-04,C1041,Consumer,Returning,South,Lund,Fashion,Accessories,Gift Card,Organic,1,67.91,0.029,2,No,65.94060999999999,65.94060999999999,0,Kort
+O2025433,2025-08-14,C1148,Consumer,Returning,East,Norrkoping,Home,Furniture,Card,Direct,1,813.21,0.087,3,No,742.46073,742.46073,0,Medel
+O2025434,2025-06-06,C1211,Consumer,New,North,Uppsala,Beauty,Haircare,Card,Social,2,37.84,0.041,1,No,36.288560000000004,72.57712000000001,0,Kort
+O2025435,2025-01-06,C1155,Corporate,New,South,Helsingborg,Fashion,Accessories,Card,Social,4,20.35,0.03,2,No,19.7395,78.958,0,Kort
+O2025436,2025-04-16,C1160,Consumer,New,East,Orebro,Beauty,Skincare,Card,Social,1,43.72,0.08,7,Yes,40.2224,40.2224,1,Lang
+O2025437,2025-04-08,C1045,Small Business,Returning,North,Uppsala,Home,Decor,Card,Direct,1,70.27,0.059,4,No,66.12407,66.12407,0,Medel
+O2025438,2025-08-30,C1220,Consumer,Returning,West,Halmstad,Beauty,Makeup,Swish,Social,2,23.97,0.046,3,No,22.867379999999997,45.734759999999994,0,Medel
+O2025439,2025-09-27,C1186,Corporate,Returning,North,Uppsala,Fashion,Shoes,Swish,Paid Search,1,154.61,0.098,3,No,139.45822,139.45822,0,Medel
+O2025440,2025-04-18,C1062,Consumer,VIP,South,Helsingborg,Home,Decor,Card,Paid Search,1,121.92,0.105,4,No,109.11840000000001,109.11840000000001,0,Medel
+O2025441,2025-06-06,C1144,Consumer,Returning,West,Boras,Sports,Outdoor,Swish,Email,1,121,0.101,5,No,108.779,108.779,0,Lang
+O2025442,2025-01-31,C1217,Small Business,New,North,Uppsala,Electronics,Headphones,Card,Social,1,164.73,0.018,4,No,161.76486,161.76486,0,Medel
+O2025443,2025-06-11,C1021,Consumer,Returning,North,Stockholm,Fashion,Shoes,Card,Organic,1,92.74,0.01,3,No,91.81259999999999,91.81259999999999,0,Medel
+O2025444,2025-06-28,C1012,Small Business,Returning,East,Norrkoping,Home,Furniture,Card,Social,2,752.72,0,4,No,752.72,1505.44,0,Medel
+O2025445,2025-10-18,C1072,Consumer,New,North,Vasteras,Fashion,Shoes,Card,Email,1,75.44,0.052,4,Yes,71.51711999999999,71.51711999999999,1,Medel
+O2025446,2025-10-13,C1194,Consumer,New,North,Uppsala,Electronics,Laptop,Card,Social,1,920.23,0.047,4,No,876.97919,876.97919,0,Medel
+O2025447,2025-07-12,C1252,Corporate,Returning,North,Uppsala,Home,Decor,Card,Direct,1,88.31,0,4,No,88.31,88.31,0,Medel
+O2025448,2025-11-03,C1225,Small Business,Returning,North,Stockholm,Electronics,Headphones,Card,Organic,1,170.52,0.033,4,No,164.89284,164.89284,0,Medel
+O2025449,2025-08-02,C1022,Small Business,Returning,West,Halmstad,Beauty,Skincare,Paypal,Organic,2,62.41,0,2,No,62.41,124.82,0,Kort
+O2025450,2025-01-17,C1025,Consumer,Returning,West,Boras,Home,Decor,Invoice,Organic,2,45.9,0.037,5,No,44.201699999999995,88.40339999999999,0,Lang
+O2025451,2025-12-18,C1178,Consumer,VIP,South,Malmo,Electronics,Headphones,Swish,Organic,3,116.71,0.092,5,No,105.97268,317.91804,0,Lang
+O2025452,2025-10-29,C1259,Consumer,Returning,North,Uppsala,Fashion,Sportswear,Card,NA,1,101.01,0.089,2,No,92.02011,92.02011,0,Kort
+O2025453,2025-10-01,C1040,Consumer,Returning,East,Linkoping,Fashion,Sportswear,Swish,Social,3,87.54,0.044,4,No,83.68824000000001,251.06472000000002,0,Medel
+O2025454,2025-09-01,C1131,Small Business,Returning,North,Vasteras,Beauty,Skincare,Card,Organic,3,68.88,0.036,3,No,66.40032,199.20095999999998,0,Medel
+O2025455,2025-04-29,C1158,Corporate,New,North,Stockholm,Fashion,Jackets,Swish,Direct,1,231.44,0.079,1,No,213.15624,213.15624,0,Kort
+O2025456,2025-03-29,C1245,Consumer,Returning,West,Halmstad,Home,Kitchen,Card,Direct,2,157.52,0.058,6,Yes,148.38384,296.76768,1,Lang
+O2025457,2025-09-10,C1184,Small Business,Returning,North,Vasteras,Sports,Team Sports,Paypal,Paid Search,4,128.89,0.028,1,No,125.28107999999999,501.12431999999995,0,Kort
+O2025458,2025-02-01,C1252,Corporate,Returning,North,Uppsala,Fashion,Sportswear,Card,Organic,2,74.65,0.027,3,No,72.63445,145.2689,0,Medel
+O2025459,2025-08-10,C1235,Small Business,Returning,North,Stockholm,Home,Lighting,Invoice,Paid Search,1,155.23,0.038,5,No,149.33126,149.33126,0,Lang
+O2025460,2025-06-01,C1095,Corporate,New,West,Halmstad,Fashion,Shoes,Invoice,Social,1,92.22,0.049,4,Yes,87.70121999999999,87.70121999999999,1,Medel
+O2025461,2025-05-02,C1091,Corporate,VIP,South,Malmo,Sports,Outdoor,Card,NA,2,297.28,0.075,6,No,274.984,549.968,0,Lang
+O2025462,2025-11-05,C1134,Consumer,Returning,South,Malmo,Home,Lighting,Card,Paid Search,1,172.44,0,4,No,172.44,172.44,0,Medel
+O2025463,2025-01-28,C1051,Small Business,VIP,East,Orebro,Home,Decor,Gift Card,Direct,1,95.77,0.163,1,No,80.15948999999999,80.15948999999999,0,Kort
+O2025464,2025-04-09,C1176,Small Business,Returning,North,Stockholm,Electronics,Tablet,Invoice,Affiliate,1,485.24,0.109,4,No,432.34884,432.34884,0,Medel
+O2025465,2025-06-21,C1156,Consumer,New,West,Halmstad,Sports,Cycling,Card,Social,1,412.91,0.095,3,No,373.68355,373.68355,0,Medel
+O2025466,2025-07-30,C1031,Corporate,Returning,North,Stockholm,Electronics,Mobile,Card,Social,1,511.88,0,4,No,511.88,511.88,0,Medel
+O2025467,2025-06-24,C1185,Small Business,New,South,Lund,Electronics,Tablet,Card,Affiliate,1,604.34,0.169,3,No,502.20654,502.20654,0,Medel
+O2025468,2025-07-15,C1220,Consumer,Returning,West,Gothenburg,Beauty,Skincare,Card,Affiliate,1,44.28,0.108,3,No,39.49776,39.49776,0,Medel
+O2025469,2025-04-08,C1229,Corporate,Returning,North,Stockholm,Fashion,Accessories,Invoice,Organic,1,61.66,0.045,3,No,58.885299999999994,58.885299999999994,0,Medel
+O2025470,2025-04-17,C1167,Small Business,New,South,Helsingborg,Beauty,Fragrance,Swish,NA,1,65.57,0.061,2,No,61.570229999999995,61.570229999999995,0,Kort
+O2025471,2025-07-02,C1213,Consumer,Returning,West,Boras,Beauty,Skincare,Card,Email,4,37.12,0.085,3,No,33.9648,135.8592,0,Medel
+O2025472,2025-01-17,C1147,Consumer,Returning,West,Boras,Beauty,Makeup,Swish,Organic,2,64.77,0.002,3,Yes,64.64045999999999,129.28091999999998,1,Medel
+O2025473,2025-07-16,C1173,Corporate,New,West,Halmstad,Fashion,Sportswear,Card,Organic,1,111.59,0.029,4,Yes,108.35389,108.35389,1,Medel
+O2025474,2025-05-07,C1109,Small Business,Returning,South,Helsingborg,Electronics,Headphones,Swish,Email,1,66.58,0.252,4,No,49.80184,49.80184,0,Medel
+O2025475,2025-05-08,C1161,Small Business,Returning,West,Boras,Home,Kitchen,Card,Direct,1,40.85,0.039,3,No,39.25685,39.25685,0,Medel
+O2025476,2025-01-18,C1003,Corporate,Returning,East,Norrkoping,Fashion,Accessories,Card,Social,2,55.99,0.063,4,No,52.462630000000004,104.92526000000001,0,Medel
+O2025477,2025-12-15,C1125,Small Business,Returning,East,Norrkoping,Sports,Cycling,Invoice,Email,2,835.92,0.179,6,No,686.29032,1372.58064,0,Lang
+O2025478,2025-12-18,C1132,Corporate,Returning,West,Boras,Fashion,Jackets,Swish,Paid Search,1,139.62,0.136,4,No,120.63168,120.63168,0,Medel
+O2025479,2025-05-22,C1197,Consumer,VIP,North,Uppsala,Electronics,Mobile,Swish,Organic,1,553.27,0.184,5,No,451.46832,451.46832,0,Lang
+O2025480,2025-08-17,C1134,Consumer,Returning,South,Malmo,Beauty,Fragrance,Card,Organic,2,115.29,0.076,3,No,106.52796000000001,213.05592000000001,0,Medel
+O2025481,2025-01-18,C1118,Corporate,New,North,Uppsala,Electronics,Tablet,Card,Email,2,519.66,0.126,4,Yes,454.18284,908.36568,1,Medel
+O2025482,2025-12-29,C1195,Consumer,Returning,South,Malmo,Fashion,Sportswear,NA,Organic,1,93.79,0.042,2,No,89.85082,89.85082,0,Kort
+O2025483,2025-01-20,C1220,Consumer,Returning,West,Halmstad,Electronics,Laptop,Paypal,Affiliate,1,1232,0.108,NA,Yes,1098.944,1098.944,1,NA
+O2025484,2025-01-14,C1240,Consumer,Returning,South,Lund,Beauty,Makeup,Card,Email,1,29.11,0.154,4,Yes,24.62706,24.62706,1,Medel
+O2025485,2025-01-11,C1047,Consumer,Returning,East,Norrkoping,Fashion,Accessories,Card,Affiliate,1,27.58,0.115,5,Yes,24.408299999999997,24.408299999999997,1,Lang
+O2025486,2025-08-17,C1245,Consumer,Returning,West,Halmstad,Fashion,Shoes,Card,Social,1,46.18,0.082,7,No,42.39324,42.39324,0,Lang
+O2025487,2025-03-06,C1252,Corporate,Returning,North,Uppsala,Electronics,Mobile,Card,Paid Search,1,435.57,0,5,No,435.57,435.57,0,Lang
+O2025488,2025-07-16,C1229,Corporate,Returning,North,Stockholm,Electronics,Tablet,Card,Organic,1,720.99,0.045,5,No,688.54545,688.54545,0,Lang
+O2025489,2025-01-27,C1198,Consumer,VIP,South,Helsingborg,Electronics,Headphones,Swish,Email,1,156.3,0.05,3,No,148.485,148.485,0,Medel
+O2025490,2025-11-12,C1132,Corporate,Returning,South,Malmo,Electronics,Mobile,Card,Email,1,362.23,0,5,No,362.23,362.23,0,Lang
+O2025491,2025-04-15,C1225,Small Business,Returning,North,Stockholm,Electronics,Mobile,Invoice,Social,1,613.61,0.049,3,No,583.54311,583.54311,0,Medel
+O2025492,2025-09-25,C1238,Small Business,Returning,West,Gothenburg,Sports,Outdoor,Card,Paid Search,1,176.81,0.105,4,Yes,158.24495000000002,158.24495000000002,1,Medel
+O2025493,2025-09-21,C1078,Small Business,Returning,South,Helsingborg,Fashion,Sportswear,Swish,Direct,1,119.81,0,3,No,119.81,119.81,0,Medel
+O2025494,2025-08-30,C1255,Consumer,Returning,East,Linkoping,Home,Lighting,Card,Social,1,49.89,0.098,6,Yes,45.00078,45.00078,1,Lang
+O2025495,2025-06-06,C1253,Consumer,New,North,Uppsala,Sports,Cycling,Card,Social,1,831.48,0,1,No,831.48,831.48,0,Kort
+O2025496,2025-03-20,C1035,Consumer,New,South,Malmo,Fashion,Sportswear,Card,Organic,1,69.49,0.12,3,No,61.151199999999996,61.151199999999996,0,Medel
+O2025497,2025-01-17,C1080,Consumer,New,North,Stockholm,Electronics,Headphones,Card,Email,1,165.97,0.048,4,No,158.00343999999998,158.00343999999998,0,Medel
+O2025498,2025-05-06,C1099,Consumer,Returning,North,Vasteras,Home,Kitchen,Card,Organic,1,148.77,0,2,No,148.77,148.77,0,Kort
+O2025499,2025-02-26,C1012,Small Business,Returning,East,Norrkoping,Electronics,Mobile,Card,Paid Search,1,312.69,0,2,No,312.69,312.69,0,Kort
+O2025500,2025-10-27,C1058,Consumer,New,North,Stockholm,Electronics,Headphones,Swish,Paid Search,1,288.72,0.006,3,No,286.98768,286.98768,0,Medel
+O2025501,2025-06-03,C1037,Consumer,VIP,West,Boras,Beauty,Skincare,Swish,Email,3,72.97,0.085,2,No,66.76755,200.30265,0,Kort
+O2025502,2025-04-18,C1237,Small Business,Returning,South,Malmo,Fashion,Sportswear,Card,Direct,1,69.81,0.046,3,No,66.59873999999999,66.59873999999999,0,Medel
+O2025503,2025-02-10,C1096,Consumer,Returning,East,NA,Electronics,Mobile,Card,Paid Search,1,540.21,0.056,3,No,509.95824,509.95824,0,Medel
+O2025504,2025-01-11,C1170,Consumer,Returning,West,Halmstad,Electronics,Headphones,Card,Email,1,171.49,0.012,5,No,169.43212,169.43212,0,Lang
+O2025505,2025-03-18,C1251,Small Business,Returning,West,Boras,Beauty,Haircare,Card,Direct,3,39.26,0.078,3,No,36.19772,108.59315999999998,0,Medel
+O2025506,2025-09-20,C1198,Consumer,VIP,South,Helsingborg,Electronics,Laptop,Swish,Organic,1,1025.26,0.061,4,No,962.71914,962.71914,0,Medel
+O2025507,2025-01-25,C1090,Consumer,Returning,West,Gothenburg,Electronics,Laptop,Invoice,Social,2,1171.65,0.021,6,No,1147.04535,2294.0907,0,Lang
+O2025508,2025-11-05,C1166,Consumer,New,South,Helsingborg,Home,Decor,Card,Paid Search,2,118.15,0.01,7,No,116.9685,233.937,0,Lang
+O2025509,2025-01-25,C1064,Consumer,VIP,North,Uppsala,Beauty,Makeup,Card,Email,1,31.73,0.023,2,No,31.00021,31.00021,0,Kort
+O2025510,2025-07-05,C1137,Consumer,New,West,Boras,Beauty,Fragrance,Gift Card,Social,1,72.48,0,3,No,72.48,72.48,0,Medel
+O2025511,2025-02-07,C1198,Consumer,VIP,South,Helsingborg,Home,Lighting,Invoice,Paid Search,1,122.57,0.078,5,No,113.00954,113.00954,0,Lang
+O2025512,2025-07-02,C1112,Small Business,Returning,North,Stockholm,Home,Furniture,Swish,Paid Search,1,975.74,0.064,3,No,913.29264,913.29264,0,Medel
+O2025513,2025-04-28,C1182,Small Business,Returning,East,Orebro,Electronics,Laptop,NA,Paid Search,2,934.59,0.144,4,No,800.00904,1600.01808,0,Medel
+O2025514,2025-04-19,C1159,Consumer,Returning,South,Malmo,Home,Furniture,Card,Organic,1,946.64,0.04,6,Yes,908.7743999999999,908.7743999999999,1,Lang
+O2025515,2025-05-18,C1156,Consumer,New,West,Gothenburg,Sports,Outdoor,Card,Organic,1,117.43,0.039,3,No,112.85023,112.85023,0,Medel
+O2025516,2025-02-26,C1030,Small Business,Returning,North,Stockholm,Electronics,Headphones,Swish,Organic,1,288.82,0.069,5,No,268.89142,268.89142,0,Lang
+O2025517,2025-12-06,C1040,Consumer,Returning,East,Linkoping,Electronics,Mobile,Swish,Paid Search,1,301.97,0.054,4,Yes,285.66362000000004,285.66362000000004,1,Medel
+O2025518,2025-11-17,C1073,Small Business,New,North,Vasteras,Fashion,Shoes,Card,Paid Search,1,102.91,0.097,7,No,92.92773,92.92773,0,Lang
+O2025519,2025-02-14,C1131,Small Business,Returning,North,Vasteras,Beauty,Skincare,Swish,Affiliate,1,65.14,0.031,3,No,63.12066,63.12066,0,Medel
+O2025520,2025-07-29,C1132,Corporate,Returning,West,Boras,Sports,Outdoor,Card,Paid Search,1,151.75,0.042,2,No,145.3765,145.3765,0,Kort
+O2025521,2025-02-06,C1188,Small Business,Returning,North,Uppsala,Sports,Team Sports,Invoice,Email,2,73.47,0.159,6,No,61.78827,123.57654,0,Lang
+O2025522,2025-03-24,C1207,Consumer,New,North,Stockholm,Beauty,Makeup,Swish,Organic,1,66.32,0.062,5,No,62.20815999999999,62.20815999999999,0,Lang
+O2025523,2025-09-11,C1196,Consumer,VIP,West,Boras,Beauty,Fragrance,Swish,Organic,4,71.94,0.134,7,No,62.300039999999996,249.20015999999998,0,Lang
+O2025524,2025-09-26,C1170,Consumer,Returning,West,Halmstad,Electronics,Headphones,Invoice,Paid Search,2,189.88,0,1,No,189.88,379.76,0,Kort
+O2025525,2025-01-25,C1085,Small Business,Returning,West,Halmstad,Beauty,Fragrance,Invoice,Organic,1,92.93,0.088,4,No,84.75216,84.75216,0,Medel
+O2025526,2025-10-10,C1202,Small Business,Returning,South,Helsingborg,Electronics,Mobile,Card,Social,1,668.45,0.032,5,No,647.0596,647.0596,0,Lang
+O2025527,2025-05-11,C1011,Small Business,Returning,East,Linkoping,Home,Furniture,Card,Paid Search,1,693.09,0.053,8,No,656.35623,656.35623,0,Lang
+O2025528,2025-12-31,C1199,Small Business,Returning,North,Vasteras,Electronics,Mobile,Swish,Paid Search,1,365.95,0.077,1,No,337.77185000000003,337.77185000000003,0,Kort
+O2025529,2025-09-19,C1134,Consumer,Returning,South,Malmo,Beauty,Fragrance,Paypal,Email,1,49.89,0.189,2,Yes,40.460789999999996,40.460789999999996,1,Kort
+O2025530,2025-01-13,C1208,Consumer,Returning,North,Stockholm,Beauty,Skincare,Card,Organic,1,54.82,0.087,1,No,50.05066,50.05066,0,Kort
+O2025531,2025-08-07,C1113,Small Business,Returning,South,Lund,Fashion,Sportswear,Invoice,Social,1,84.93,0.03,2,No,82.38210000000001,82.38210000000001,0,Kort
+O2025532,2025-07-03,C1059,Small Business,New,South,Malmo,Sports,Cycling,Invoice,Affiliate,3,617.05,0.182,3,No,504.7469,1514.2406999999998,0,Medel
+O2025533,2025-09-29,C1066,Consumer,VIP,East,Orebro,Fashion,Sportswear,Swish,Paid Search,1,131.61,0.182,4,Yes,107.65698000000002,107.65698000000002,1,Medel
+O2025534,2025-01-30,C1102,Small Business,Returning,North,Vasteras,Electronics,Laptop,Card,Direct,1,1373.22,0.064,4,No,1285.33392,1285.33392,0,Medel
+O2025535,2025-05-31,C1066,Consumer,VIP,West,Gothenburg,Electronics,Mobile,Card,Affiliate,1,365.57,0.136,3,No,315.85248,315.85248,0,Medel
+O2025536,2025-12-26,C1064,Consumer,VIP,North,Uppsala,Electronics,Mobile,Card,Paid Search,2,374.95,0.168,3,Yes,311.9584,623.9168,1,Medel
+O2025537,2025-08-17,C1229,Corporate,Returning,North,Stockholm,Sports,Outdoor,Card,NA,1,292.01,0.11,1,No,259.8889,259.8889,0,Kort
+O2025538,2025-04-06,C1194,Consumer,New,North,Uppsala,Electronics,Laptop,Card,Direct,1,1038.1,0.026,6,No,1011.1093999999999,1011.1093999999999,0,Lang
+O2025539,2025-07-03,C1136,Consumer,Returning,West,Halmstad,Home,Furniture,Card,Paid Search,2,972.32,0.068,5,No,906.20224,1812.40448,0,Lang
+O2025540,2025-08-07,C1243,Consumer,Returning,East,Linkoping,Sports,Outdoor,Card,Affiliate,1,277.58,0.145,4,No,237.33089999999999,237.33089999999999,0,Medel
+O2025541,2025-08-23,C1177,Small Business,Returning,East,Linkoping,Fashion,Sportswear,Paypal,NA,1,70.77,0,2,No,70.77,70.77,0,Kort
+O2025542,2025-11-22,C1082,Consumer,Returning,North,Stockholm,Beauty,Makeup,Card,Paid Search,1,59.29,0.08,4,No,54.546800000000005,54.546800000000005,0,Medel
+O2025543,2025-01-10,C1072,Consumer,New,North,Vasteras,Electronics,Laptop,Gift Card,Social,1,1388.17,0.096,2,No,1254.90568,1254.90568,0,Kort
+O2025544,2025-09-21,C1113,Small Business,Returning,South,Lund,Fashion,Shoes,Card,Affiliate,1,133.78,0.098,4,No,120.66956,120.66956,0,Medel
+O2025545,2025-08-17,C1192,Corporate,Returning,West,Gothenburg,Fashion,Jackets,Card,Email,1,163.7,0.138,3,Yes,141.1094,141.1094,1,Medel
+O2025546,2025-06-14,C1065,Small Business,New,North,Uppsala,Fashion,Jackets,Swish,Affiliate,2,147.45,0.17,1,Yes,122.38349999999998,244.76699999999997,1,Kort
+O2025547,2025-12-01,C1155,Corporate,New,South,Helsingborg,Home,Kitchen,Card,Organic,1,101.67,0,3,No,101.67,101.67,0,Medel
+O2025548,2025-08-07,C1200,Consumer,Returning,North,Uppsala,Electronics,Laptop,Card,Direct,1,1064.57,0.051,2,No,1010.2769299999999,1010.2769299999999,0,Kort
+O2025549,2025-04-14,C1107,Consumer,VIP,South,Malmo,Electronics,Laptop,Swish,Email,2,968.95,0.07,6,No,901.1235,1802.247,0,Lang
+O2025550,2025-08-04,C1069,Consumer,Returning,West,Halmstad,Fashion,Jackets,Card,Paid Search,1,102.78,0.101,2,No,92.39922,92.39922,0,Kort
+O2025551,2025-07-03,C1187,Consumer,Returning,North,Vasteras,Home,Decor,Card,Paid Search,1,87.04,0.04,4,No,83.5584,83.5584,0,Medel
+O2025552,2025-08-14,C1090,Consumer,Returning,West,Gothenburg,Sports,Outdoor,Swish,Paid Search,1,181.99,0.043,2,No,174.16443,174.16443,0,Kort
+O2025553,2025-06-27,C1105,Consumer,VIP,West,Halmstad,Fashion,Sportswear,Gift Card,Paid Search,2,80.99,0.155,4,Yes,68.43655,136.8731,1,Medel
+O2025554,2025-05-19,C1164,Corporate,Returning,East,Linkoping,Electronics,Laptop,Card,Social,1,903.43,0,6,No,903.43,903.43,0,Lang
+O2025555,2025-12-25,C1243,Consumer,Returning,East,Linkoping,Electronics,Tablet,Invoice,NA,1,519.82,0.119,8,No,457.96142000000003,457.96142000000003,0,Lang
+O2025556,2025-07-29,C1031,Corporate,Returning,North,Stockholm,Home,Kitchen,Gift Card,NA,1,152.47,0.033,5,No,147.43849,147.43849,0,Lang
+O2025557,2025-02-04,C1187,Consumer,Returning,North,Vasteras,Fashion,Sportswear,Gift Card,Organic,1,78.86,0.063,1,No,73.89182000000001,73.89182000000001,0,Kort
+O2025558,2025-01-30,C1120,Small Business,New,North,Stockholm,Home,Kitchen,Card,Organic,1,76.55,0.03,5,Yes,74.25349999999999,74.25349999999999,1,Lang
+O2025559,2025-02-01,C1084,Corporate,VIP,East,Linkoping,Home,Kitchen,Swish,Paid Search,1,106.99,0.207,4,No,84.84307,84.84307,0,Medel
+O2025560,2025-07-08,C1036,Consumer,New,North,Stockholm,Electronics,Mobile,Card,Organic,1,516.16,0.024,4,No,503.77216,503.77216,0,Medel
+O2025561,2025-09-23,C1243,Consumer,Returning,East,Linkoping,Fashion,Accessories,Card,Social,1,44.3,0.017,2,No,43.546899999999994,43.546899999999994,0,Kort
+O2025562,2025-04-07,C1026,Small Business,Returning,South,Malmo,Electronics,Mobile,Invoice,Email,1,212.76,0.08,2,No,195.7392,195.7392,0,Kort
+O2025563,2025-08-25,C1212,Corporate,New,South,Malmo,Sports,Team Sports,Swish,Social,1,53.95,0.099,4,No,48.60895000000001,48.60895000000001,0,Medel
+O2025564,2025-12-27,C1023,Consumer,Returning,North,Uppsala,Sports,Outdoor,Card,Paid Search,2,238.72,0.1,3,No,214.848,429.696,0,Medel
+O2025565,2025-02-09,C1080,Consumer,New,North,Stockholm,Home,Kitchen,Swish,Social,1,104.49,0.026,3,Yes,101.77326,101.77326,1,Medel
+O2025566,2025-09-21,C1227,Consumer,New,North,Stockholm,Fashion,Jackets,Swish,Email,1,273.55,0.03,4,No,265.3435,265.3435,0,Medel
+O2025567,2025-11-02,C1231,Corporate,New,North,Uppsala,Beauty,Makeup,Card,Paid Search,1,30.69,0.015,1,No,30.22965,30.22965,0,Kort
+O2025568,2025-02-13,C1075,Consumer,VIP,North,Stockholm,Fashion,Jackets,Invoice,Paid Search,1,187.78,0.095,5,No,169.9409,169.9409,0,Lang
+O2025569,2025-09-26,C1201,Consumer,Returning,West,Halmstad,Home,Lighting,Card,Affiliate,1,153.84,0.073,6,No,142.60968,142.60968,0,Lang
+O2025570,2025-12-14,C1011,Small Business,Returning,East,Linkoping,Sports,Team Sports,Card,Paid Search,1,96.5,0.072,3,No,89.552,89.552,0,Medel
+O2025571,2025-01-27,C1066,Consumer,VIP,West,Gothenburg,Fashion,Sportswear,Paypal,Email,2,119.66,0.021,1,No,117.14714,234.29428,0,Kort
+O2025572,2025-10-18,C1134,Consumer,Returning,South,Malmo,Beauty,Haircare,Card,Organic,1,21.34,0.054,3,No,20.18764,20.18764,0,Medel
+O2025573,2025-08-04,C1001,Consumer,VIP,West,Halmstad,Home,Lighting,Invoice,Organic,1,143.61,0,1,No,143.61,143.61,0,Kort
+O2025574,2025-12-20,C1240,Consumer,Returning,South,Lund,Fashion,Jackets,Paypal,Social,1,169.12,0.04,2,No,162.3552,162.3552,0,Kort
+O2025575,2025-06-16,C1032,Consumer,Returning,North,Uppsala,Fashion,Shoes,Swish,Direct,2,112.67,0.017,3,No,110.75461,221.50922,0,Medel
+O2025576,2025-02-07,C1255,Consumer,Returning,East,Linkoping,Home,Lighting,Card,Direct,1,153.19,0.005,5,No,152.42405,152.42405,0,Lang
+O2025577,2025-01-28,C1099,Consumer,Returning,North,Vasteras,Electronics,Tablet,Card,Organic,1,518.54,0,3,No,518.54,518.54,0,Medel
+O2025578,2025-08-02,C1229,Corporate,Returning,North,Stockholm,Fashion,Accessories,Card,Organic,2,43.61,0.025,1,No,42.51975,85.0395,0,Kort
+O2025579,2025-10-25,C1059,Small Business,New,South,Malmo,Electronics,Laptop,Card,Affiliate,2,890.92,0.102,4,No,800.04616,1600.09232,0,Medel
+O2025580,2025-12-15,C1055,Corporate,New,North,Stockholm,Home,Kitchen,Swish,Affiliate,1,54.81,0.075,4,No,50.699250000000006,50.699250000000006,0,Medel
+O2025581,2025-04-14,C1087,Consumer,Returning,West,Halmstad,Electronics,Tablet,Card,Organic,1,412.88,0.01,4,No,408.7512,408.7512,0,Medel
+O2025582,2025-05-04,C1041,Consumer,Returning,South,Lund,Beauty,Makeup,Swish,Paid Search,1,41.43,0.06,3,No,38.944199999999995,38.944199999999995,0,Medel
+O2025583,2025-11-20,C1059,Small Business,New,South,Malmo,Home,Decor,Gift Card,Email,2,133.89,0.146,7,No,114.34205999999999,228.68411999999998,0,Lang
+O2025584,2025-01-03,C1113,Small Business,Returning,South,Lund,Sports,Outdoor,Swish,Email,1,166.35,0.089,1,No,151.54485,151.54485,0,Kort
+O2025585,2025-10-21,C1040,Consumer,Returning,East,Linkoping,Sports,Fitness,Card,Social,1,140.66,0.048,6,No,133.90832,133.90832,0,Lang
+O2025586,2025-10-07,C1054,Consumer,VIP,North,Stockholm,Beauty,Haircare,Paypal,Social,1,41.39,0.2,2,No,33.112,33.112,0,Kort
+O2025587,2025-12-29,C1152,Consumer,Returning,North,Vasteras,Fashion,Jackets,Card,Social,3,136.85,0.053,2,No,129.59695,388.79085,0,Kort
+O2025588,2025-10-19,C1067,Small Business,Returning,West,Halmstad,Fashion,Accessories,Gift Card,Organic,1,46.14,0.004,2,No,45.95544,45.95544,0,Kort
+O2025589,2025-11-03,C1113,Small Business,Returning,South,Lund,Home,Furniture,Card,Email,1,711.36,0.076,4,No,657.29664,657.29664,0,Medel
+O2025590,2025-01-25,C1179,Consumer,Returning,East,Orebro,Sports,Cycling,Swish,Direct,3,698.9,0.016,5,Yes,687.7176,2063.1528,1,Lang
+O2025591,2025-07-16,C1255,Consumer,Returning,East,Linkoping,Home,Decor,Invoice,Social,1,80.49,0.024,5,No,78.55824,78.55824,0,Lang
+O2025592,2025-07-18,C1140,Small Business,Returning,West,Halmstad,Sports,Team Sports,Invoice,Organic,1,30.43,0.046,4,Yes,29.03022,29.03022,1,Medel
+O2025593,2025-04-11,C1190,Small Business,Returning,East,Norrkoping,Electronics,Mobile,Card,Organic,3,482.68,0,8,No,482.68,1448.04,0,Lang
+O2025594,2025-12-15,C1094,Consumer,Returning,North,Uppsala,Fashion,Jackets,Swish,NA,1,157.34,0.077,1,No,145.22482000000002,145.22482000000002,0,Kort
+O2025595,2025-11-05,C1002,Small Business,New,South,Lund,Fashion,Shoes,Invoice,Affiliate,1,111.71,0.135,3,No,96.62915,96.62915,0,Medel
+O2025596,2025-05-24,C1236,Small Business,New,East,Orebro,Electronics,Tablet,Invoice,Organic,2,671.53,0.015,6,No,661.45705,1322.9141,0,Lang
+O2025597,2025-11-19,C1094,Consumer,Returning,North,Uppsala,Beauty,Fragrance,Swish,NA,3,85.93,0.038,3,No,82.66466,247.99398,0,Medel
+O2025598,2025-07-15,C1159,Consumer,Returning,South,Malmo,Sports,Fitness,Paypal,Direct,1,229,0.063,4,No,214.573,214.573,0,Medel
+O2025599,2025-02-01,C1225,Small Business,Returning,North,Stockholm,Home,Furniture,Gift Card,Social,2,724.76,0.026,2,No,705.91624,1411.83248,0,Kort
+O2025600,2025-05-26,C1167,Small Business,New,South,Helsingborg,Fashion,Shoes,Card,Paid Search,1,96.3,0.043,4,No,92.1591,92.1591,0,Medel
+O2025601,2025-11-17,C1060,Small Business,Returning,North,Vasteras,Home,Kitchen,Paypal,Organic,1,89.17,0.057,2,No,84.08731,84.08731,0,Kort
+O2025602,2025-03-16,C1012,Small Business,Returning,South,Helsingborg,Sports,Team Sports,Card,Paid Search,1,124.19,0.101,5,No,111.64681,111.64681,0,Lang
+O2025603,2025-06-07,C1093,Small Business,Returning,West,Boras,Home,Lighting,Paypal,Organic,1,97.44,0.023,5,No,95.19888,95.19888,0,Lang
+O2025604,2025-11-26,C1062,Consumer,VIP,South,Helsingborg,Fashion,Shoes,Card,Email,1,172.68,0.103,3,No,154.89396000000002,154.89396000000002,0,Medel
+O2025605,2025-09-12,C1149,Consumer,Returning,North,Uppsala,Home,Lighting,Invoice,Social,1,150.49,0.05,NA,No,142.9655,142.9655,0,NA
+O2025606,2025-09-16,C1109,Small Business,Returning,South,Helsingborg,Electronics,Mobile,Card,Direct,1,356.53,0.001,3,No,356.17346999999995,356.17346999999995,0,Medel
+O2025607,2025-04-19,C1142,Small Business,Returning,South,Helsingborg,Electronics,Tablet,Card,Email,1,653.45,0.069,3,No,608.3619500000001,608.3619500000001,0,Medel
+O2025608,2025-12-16,C1060,Small Business,Returning,North,Vasteras,Electronics,Tablet,Card,Email,1,392.05,0.043,1,No,375.19185,375.19185,0,Kort
+O2025609,2025-12-16,C1233,Corporate,Returning,West,Halmstad,Home,Decor,Card,Organic,2,101.27,0.033,NA,Yes,97.92809,195.85618,1,NA
+O2025610,2025-12-31,C1005,Small Business,Returning,West,Gothenburg,Fashion,Sportswear,Card,Social,1,80.52,0.013,4,No,79.47323999999999,79.47323999999999,0,Medel
+O2025611,2025-06-12,C1053,Consumer,New,West,Boras,Fashion,Shoes,Invoice,Email,1,77.02,0.033,4,No,74.47833999999999,74.47833999999999,0,Medel
+O2025612,2025-02-05,C1140,Small Business,Returning,West,Boras,Beauty,Skincare,Card,Social,2,46.46,0.044,3,No,44.41576,88.83152,0,Medel
+O2025613,2025-06-23,C1093,Small Business,Returning,West,Boras,Beauty,Makeup,Card,Organic,2,64.97,0.057,2,No,61.266709999999996,122.53341999999999,0,Kort
+O2025614,2025-11-18,C1154,Corporate,VIP,West,Gothenburg,Home,Kitchen,Gift Card,Social,1,142.65,0,3,No,142.65,142.65,0,Medel
+O2025615,2025-11-07,C1029,Consumer,VIP,West,Halmstad,Fashion,Shoes,NA,Direct,1,94.34,0.042,4,No,90.37772,90.37772,0,Medel
+O2025616,2025-07-28,C1071,Consumer,Returning,East,Norrkoping,Sports,Cycling,Invoice,Email,1,509.81,0.049,4,No,484.82930999999996,484.82930999999996,0,Medel
+O2025617,2025-05-14,C1236,Small Business,New,East,Orebro,Beauty,Skincare,Card,Affiliate,2,44.22,0.097,4,Yes,39.93066,79.86132,1,Medel
+O2025618,2025-07-20,C1048,Consumer,VIP,North,Uppsala,Sports,Team Sports,Card,Social,1,86.6,0.121,3,Yes,76.1214,76.1214,1,Medel
+O2025619,2025-01-28,C1130,Consumer,VIP,South,Lund,Electronics,Laptop,Paypal,Direct,1,460.02,0.162,6,No,385.49676,385.49676,0,Lang
+O2025620,2025-06-11,C1182,Small Business,Returning,West,Boras,Sports,Team Sports,Card,Email,2,84.05,0.18,5,No,68.921,137.842,0,Lang
+O2025621,2025-07-07,C1243,Consumer,Returning,East,Linkoping,Home,Furniture,Card,Email,2,706.74,0,7,No,706.74,1413.48,0,Lang
+O2025622,2025-09-11,C1011,Small Business,Returning,East,Linkoping,Beauty,Haircare,NA,Email,2,35.69,0.109,4,No,31.799789999999998,63.599579999999996,0,Medel
+O2025623,2025-07-05,C1124,Consumer,New,North,Vasteras,Fashion,Accessories,Paypal,Organic,1,63.53,0.022,3,No,62.13234,62.13234,0,Medel
+O2025624,2025-08-20,C1177,Small Business,Returning,East,Linkoping,Home,Decor,Card,Direct,2,79.88,0,4,No,79.88,159.76,0,Medel
+O2025625,2025-04-28,C1255,Consumer,Returning,West,Halmstad,Beauty,Makeup,Card,Organic,2,58.44,0.036,2,No,56.33615999999999,112.67231999999998,0,Kort
+O2025626,2025-12-23,C1170,Consumer,Returning,South,Malmo,Home,Decor,Card,Paid Search,1,107.69,0.079,7,No,99.18249,99.18249,0,Lang
+O2025627,2025-11-06,C1083,Consumer,VIP,North,Vasteras,Beauty,Makeup,Paypal,Social,2,39.26,0.16,2,No,32.9784,65.9568,0,Kort
+O2025628,2025-05-28,C1155,Corporate,New,South,Helsingborg,Beauty,Skincare,Swish,Direct,1,49.71,0.034,4,No,48.01986,48.01986,0,Medel
+O2025629,2025-07-07,C1111,Corporate,Returning,North,Stockholm,Sports,Team Sports,Card,Affiliate,1,90,0.181,5,No,73.71,73.71,0,Lang
+O2025630,2025-07-20,C1083,Consumer,VIP,North,Vasteras,Electronics,Headphones,Paypal,Direct,1,250.41,0.146,2,No,213.85013999999998,213.85013999999998,0,Kort
+O2025631,2025-02-20,C1148,Consumer,Returning,East,Norrkoping,Fashion,Accessories,Gift Card,Paid Search,1,45.12,0.108,2,Yes,40.24704,40.24704,1,Kort
+O2025632,2025-09-21,C1237,Small Business,Returning,South,Malmo,Sports,Cycling,Card,Email,1,750.18,0.052,4,No,711.1706399999999,711.1706399999999,0,Medel
+O2025633,2025-09-11,C1253,Consumer,New,North,Uppsala,Sports,Fitness,Invoice,Organic,2,255.53,0.015,4,No,251.69705,503.3941,0,Medel
+O2025634,2025-09-11,C1243,Consumer,Returning,East,Linkoping,Fashion,Sportswear,Gift Card,Paid Search,1,86.5,0.05,5,No,82.175,82.175,0,Lang
+O2025635,2025-10-09,C1090,Consumer,Returning,West,NA,Home,Kitchen,NA,Direct,2,111.82,0,6,No,111.82,223.64,0,Lang
+O2025636,2025-10-17,C1006,Consumer,VIP,East,Orebro,Fashion,Jackets,Card,Organic,1,142.26,0.132,3,No,123.48168,123.48168,0,Medel
+O2025637,2025-09-03,C1077,Consumer,New,North,Stockholm,Beauty,Haircare,Invoice,Organic,1,20.44,0.078,3,No,18.84568,18.84568,0,Medel
+O2025638,2025-10-09,C1132,Corporate,Returning,West,Boras,Fashion,Accessories,Card,Social,2,51.47,0.1,3,Yes,46.323,92.646,1,Medel
+O2025639,2025-05-17,C1006,Consumer,VIP,East,Orebro,Sports,Cycling,Card,Direct,1,380.37,0.143,NA,No,325.97709,325.97709,0,NA
+O2025640,2025-11-26,C1030,Small Business,Returning,North,Stockholm,Fashion,Jackets,Card,Email,2,140.65,0.118,3,No,124.05330000000001,248.10660000000001,0,Medel
+O2025641,2025-02-25,C1000,Small Business,Returning,East,Linkoping,Fashion,Jackets,Paypal,Affiliate,1,203.51,0.087,6,No,185.80463,185.80463,0,Lang
+O2025642,2025-11-10,C1167,Small Business,New,South,Helsingborg,Sports,Outdoor,Card,Affiliate,1,155.54,0.116,5,Yes,137.49736,137.49736,1,Lang
+O2025643,2025-11-09,C1075,Consumer,VIP,North,Stockholm,Home,Kitchen,Invoice,Email,2,119.43,0.119,6,No,105.21783,210.43566,0,Lang
+O2025644,2025-04-06,C1254,Small Business,Returning,East,Orebro,Electronics,Mobile,NA,Social,1,365.05,0,7,No,365.05,365.05,0,Lang
+O2025645,2025-02-03,C1136,Consumer,Returning,West,Halmstad,Home,Decor,Gift Card,Email,1,52.47,0.076,6,No,48.48228,48.48228,0,Lang
+O2025646,2025-12-26,C1062,Consumer,VIP,South,Helsingborg,Fashion,Sportswear,Card,Social,1,85.32,0.119,3,No,75.16691999999999,75.16691999999999,0,Medel
+O2025647,2025-03-06,C1251,Small Business,Returning,West,Boras,Home,Furniture,Swish,NA,1,1041.89,0.095,5,Yes,942.9104500000001,942.9104500000001,1,Lang
+O2025648,2025-10-16,C1034,Small Business,Returning,West,Boras,Sports,Cycling,Swish,Paid Search,1,342.61,0.121,1,No,301.15419,301.15419,0,Kort
+O2025649,2025-04-02,C1161,Small Business,Returning,West,Boras,Home,Decor,NA,Affiliate,3,101.56,0.079,6,No,93.53676,280.61028,0,Lang
+O2025650,2025-06-13,C1178,Consumer,VIP,South,Malmo,Sports,Outdoor,Swish,Social,1,180.19,0.044,4,No,172.26164,172.26164,0,Medel
+O2025651,2025-08-09,C1186,Corporate,Returning,North,Uppsala,Electronics,Mobile,Card,NA,1,424.03,0.154,2,No,358.72938,358.72938,0,Kort
+O2025652,2025-03-09,C1151,Consumer,Returning,West,Halmstad,Home,Lighting,NA,Affiliate,1,267.14,0.162,4,Yes,223.86332,223.86332,1,Medel
+O2025653,2025-10-17,C1233,Corporate,Returning,West,Halmstad,Fashion,Jackets,Swish,Paid Search,1,138.69,0.056,4,No,130.92336,130.92336,0,Medel
+O2025654,2025-11-05,C1021,Consumer,Returning,North,Stockholm,Electronics,Mobile,Card,Direct,1,450.79,0.021,2,No,441.32341,441.32341,0,Kort
+O2025655,2025-08-25,C1022,Small Business,Returning,West,Halmstad,Home,Furniture,Invoice,Social,1,641.41,0.031,1,No,621.5262899999999,621.5262899999999,0,Kort
+O2025656,2025-11-28,C1099,Consumer,Returning,North,Vasteras,Fashion,Shoes,Invoice,Email,3,78.33,0.189,2,No,63.52562999999999,190.57689,0,Kort
+O2025657,2025-01-28,C1092,Consumer,Returning,East,Norrkoping,Beauty,Skincare,Card,Direct,1,29.87,0.062,1,No,28.01806,28.01806,0,Kort
+O2025658,2025-10-13,C1254,Small Business,Returning,East,Orebro,Electronics,Tablet,Swish,Email,1,509.03,0.042,7,No,487.6507399999999,487.6507399999999,0,Lang
+O2025659,2025-12-06,C1074,Small Business,New,East,Linkoping,Electronics,Mobile,Card,Paid Search,1,348.17,0.092,1,No,316.13836000000003,316.13836000000003,0,Kort
+O2025660,2025-02-20,C1055,Corporate,New,North,Stockholm,Electronics,Mobile,Card,Paid Search,1,442.35,0.086,3,No,404.3079,404.3079,0,Medel
+O2025661,2025-08-16,C1116,Consumer,Returning,North,Uppsala,Fashion,Sportswear,Swish,Affiliate,2,63.31,0,3,Yes,63.31,126.62,1,Medel
+O2025662,2025-04-27,C1244,Consumer,Returning,West,NA,Home,Kitchen,Invoice,Affiliate,1,110.33,0.033,8,Yes,106.68911,106.68911,1,Lang
+O2025663,2025-09-10,C1100,Small Business,New,West,Gothenburg,Fashion,Accessories,Swish,Direct,1,42.23,0.126,3,No,36.90902,36.90902,0,Medel
+O2025664,2025-09-08,C1103,Consumer,New,North,Vasteras,Beauty,Makeup,Gift Card,Direct,2,41.89,0,2,Yes,41.89,83.78,1,Kort
+O2025665,2025-12-22,C1086,Consumer,Returning,South,Helsingborg,Electronics,Laptop,Paypal,Paid Search,1,1314.94,0.076,5,No,1215.00456,1215.00456,0,Lang
+O2025666,2025-06-24,C1005,Small Business,Returning,West,NA,Sports,Cycling,Swish,Direct,2,129.97,0.059,5,Yes,122.30177,244.60354,1,Lang
+O2025667,2025-08-02,C1062,Consumer,VIP,South,Helsingborg,Sports,Outdoor,Gift Card,Email,1,237.12,0.098,6,No,213.88224,213.88224,0,Lang
+O2025668,2025-05-01,C1187,Consumer,Returning,North,Vasteras,Beauty,Makeup,Invoice,Email,1,28.32,0.086,3,No,25.88448,25.88448,0,Medel
+O2025669,2025-10-11,C1111,Corporate,Returning,North,Stockholm,Electronics,Mobile,Card,Affiliate,1,467.46,0.138,5,No,402.95052,402.95052,0,Lang
+O2025670,2025-11-02,C1060,Small Business,Returning,North,Vasteras,Sports,Team Sports,Swish,Direct,1,95.4,0,1,No,95.4,95.4,0,Kort
+O2025671,2025-05-25,C1079,Consumer,VIP,East,Linkoping,Beauty,Skincare,Paypal,Social,1,70.73,0.11,4,No,62.94970000000001,62.94970000000001,0,Medel
+O2025672,2025-08-24,C1222,Consumer,Returning,East,Linkoping,Fashion,Shoes,Gift Card,Paid Search,1,81.55,0.113,4,No,72.33485,72.33485,0,Medel
+O2025673,2025-07-09,C1254,Small Business,Returning,East,Orebro,Electronics,Headphones,Swish,Organic,1,217.29,0.025,4,No,211.85774999999998,211.85774999999998,0,Medel
+O2025674,2025-08-13,C1060,Small Business,Returning,North,Vasteras,Electronics,Mobile,Paypal,Organic,1,664.65,0.083,3,No,609.48405,609.48405,0,Medel
+O2025675,2025-03-24,C1242,Small Business,New,East,Linkoping,Electronics,Laptop,Card,Organic,1,1248.85,0,3,No,1248.85,1248.85,0,Medel
+O2025676,2025-10-01,C1144,Consumer,Returning,North,Uppsala,Beauty,Makeup,Invoice,Direct,2,47.7,0,2,No,47.7,95.4,0,Kort
+O2025677,2025-05-16,C1097,Consumer,VIP,East,Orebro,Sports,Team Sports,Swish,NA,3,45.87,0.175,3,No,37.842749999999995,113.52824999999999,0,Medel
+O2025678,2025-03-13,C1240,Consumer,Returning,South,Lund,Beauty,Fragrance,Card,Paid Search,1,90.69,0.063,2,No,84.97653,84.97653,0,Kort
+O2025679,2025-04-20,C1067,Small Business,Returning,West,NA,Home,Lighting,Swish,Organic,1,158.89,0,4,No,158.89,158.89,0,Medel
+O2025680,2025-08-09,C1178,Consumer,VIP,South,Malmo,Fashion,Accessories,Card,Organic,4,75.78,0.073,3,No,70.24806000000001,280.99224000000004,0,Medel
+O2025681,2025-03-13,C1060,Small Business,Returning,North,Vasteras,Home,Kitchen,Card,Organic,1,146.35,0.109,3,No,130.39785,130.39785,0,Medel
+O2025682,2025-09-03,C1047,Consumer,Returning,East,Norrkoping,Fashion,Shoes,Swish,Organic,1,115.12,0.036,4,No,110.97568,110.97568,0,Medel
+O2025683,2025-07-28,C1029,Consumer,VIP,West,Halmstad,Home,Lighting,Paypal,Social,1,130.76,0.054,5,No,123.69895999999999,123.69895999999999,0,Lang
+O2025684,2025-02-24,C1134,Consumer,Returning,South,Malmo,Electronics,Laptop,Card,Direct,1,1148.5,0.008,4,No,1139.312,1139.312,0,Medel
+O2025685,2025-06-13,C1186,Corporate,Returning,North,Uppsala,Fashion,Jackets,Swish,Direct,3,127.52,0.086,5,Yes,116.55328,349.65984000000003,1,Lang
+O2025686,2025-09-23,C1221,Consumer,Returning,West,Halmstad,Home,Lighting,Paypal,Email,1,190.72,0.113,5,No,169.16864,169.16864,0,Lang
+O2025687,2025-10-24,C1040,Consumer,Returning,East,Linkoping,Fashion,Shoes,Invoice,Direct,1,53.05,0.051,6,No,50.344449999999995,50.344449999999995,0,Lang
+O2025688,2025-04-28,C1135,Consumer,Returning,North,Stockholm,Home,Lighting,Gift Card,Email,2,15.15,0.16,4,Yes,12.725999999999999,25.451999999999998,1,Medel
+O2025689,2025-01-22,C1129,Small Business,New,South,Lund,Electronics,Tablet,Swish,Organic,2,763.02,0.002,6,Yes,761.49396,1522.98792,1,Lang
+O2025690,2025-09-24,C1195,Consumer,Returning,South,NA,Sports,Team Sports,Swish,NA,3,114.02,0.068,2,No,106.26664,318.79992,0,Kort
+O2025691,2025-04-28,C1253,Consumer,New,North,Uppsala,Home,Decor,Card,Direct,1,147,0.089,2,No,133.917,133.917,0,Kort
+O2025692,2025-05-16,C1028,Consumer,VIP,East,Norrkoping,Electronics,Headphones,Card,Email,1,155.85,0.172,5,No,129.0438,129.0438,0,Lang
+O2025693,2025-09-29,C1002,Small Business,New,South,Lund,Home,Lighting,Swish,Email,1,159.2,0.09,3,No,144.87199999999999,144.87199999999999,0,Medel
+O2025694,2025-09-03,C1197,Consumer,VIP,North,Uppsala,Sports,Team Sports,Paypal,Direct,2,22.22,0.157,2,No,18.73146,37.46292,0,Kort
+O2025695,2025-12-27,C1053,Consumer,New,West,Boras,Beauty,Skincare,Invoice,Organic,1,68.59,0.019,2,No,67.28679,67.28679,0,Kort
+O2025696,2025-11-14,C1196,Consumer,VIP,West,Boras,Fashion,Shoes,Invoice,Organic,2,85.93,0.055,2,No,81.20385,162.4077,0,Kort
+O2025697,2025-04-14,C1178,Consumer,VIP,South,Malmo,Electronics,Mobile,Swish,Paid Search,1,488.3,0.169,2,No,405.77729999999997,405.77729999999997,0,Kort
+O2025698,2025-05-27,C1079,Consumer,VIP,East,Linkoping,Electronics,Headphones,Swish,Direct,1,203.54,0.175,5,No,167.92049999999998,167.92049999999998,0,Lang
+O2025699,2025-02-11,C1175,Corporate,Returning,West,Halmstad,Beauty,Skincare,Card,Paid Search,1,44.66,0.105,6,Yes,39.9707,39.9707,1,Lang
+O2025700,2025-02-28,C1079,Consumer,VIP,East,Linkoping,Electronics,Tablet,Card,Organic,1,453.82,0.115,5,No,401.6307,401.6307,0,Lang
+O2025701,2025-03-12,C1217,Small Business,New,North,Uppsala,Fashion,Accessories,Card,Email,1,20.8,0.092,1,No,18.886400000000002,18.886400000000002,0,Kort
+O2025702,2025-07-01,C1147,Consumer,Returning,West,Boras,Sports,Outdoor,Card,Social,1,309.48,0.084,2,No,283.48368000000005,283.48368000000005,0,Kort
+O2025703,2025-11-15,C1255,Consumer,Returning,East,Linkoping,Fashion,Accessories,Swish,Direct,1,52.46,0.026,3,No,51.09604,51.09604,0,Medel
+O2025704,2025-03-03,C1177,Small Business,Returning,East,Linkoping,Fashion,Accessories,Swish,Organic,1,53.88,0.056,3,No,50.86272,50.86272,0,Medel
+O2025705,2025-01-21,C1024,Consumer,New,West,Halmstad,Beauty,Haircare,Swish,Paid Search,3,56.32,0.099,1,No,50.74432,152.23296,0,Kort
+O2025706,2025-08-28,C1045,Small Business,Returning,East,Linkoping,Fashion,Sportswear,Paypal,Affiliate,2,81.71,0.125,4,No,71.49624999999999,142.99249999999998,0,Medel
+O2025707,2025-10-06,C1002,Small Business,New,South,Lund,Beauty,Makeup,Card,Social,1,41.82,0.002,2,Yes,41.73636,41.73636,1,Kort
+O2025708,2025-12-20,C1039,Consumer,Returning,North,Vasteras,Electronics,Headphones,Invoice,NA,2,167.87,0.01,4,No,166.1913,332.3826,0,Medel
+O2025709,2025-01-29,C1092,Consumer,Returning,East,Norrkoping,Fashion,Sportswear,Card,Paid Search,1,91,0.011,4,No,89.999,89.999,0,Medel
+O2025710,2025-10-17,C1006,Consumer,VIP,East,Orebro,Home,Decor,Card,Affiliate,1,77.32,0.156,6,No,65.25807999999999,65.25807999999999,0,Lang
+O2025711,2025-10-17,C1097,Consumer,VIP,East,Orebro,Beauty,Fragrance,Card,Social,1,98.18,0.087,5,No,89.63834000000001,89.63834000000001,0,Lang
+O2025712,2025-11-24,C1157,Consumer,New,North,Uppsala,Electronics,Mobile,Swish,Organic,1,411.26,0.022,5,No,402.21227999999996,402.21227999999996,0,Lang
+O2025713,2025-11-30,C1088,Consumer,New,South,Malmo,Home,Kitchen,Invoice,Email,2,63.46,0.101,3,No,57.050540000000005,114.10108000000001,0,Medel
+O2025714,2025-01-04,C1146,Corporate,New,North,Uppsala,Electronics,Tablet,Gift Card,Email,1,209.21,0.142,3,No,179.50218,179.50218,0,Medel
+O2025715,2025-07-20,C1009,Consumer,Returning,South,Helsingborg,Sports,Team Sports,Card,Organic,1,88.44,0.075,2,No,81.807,81.807,0,Kort
+O2025716,2025-10-24,C1028,Consumer,VIP,East,Norrkoping,Electronics,Mobile,Gift Card,Email,1,408.46,0.176,5,No,336.57104,336.57104,0,Lang
+O2025717,2025-04-04,C1235,Small Business,Returning,North,Stockholm,Sports,Cycling,Swish,NA,1,737.37,0.114,2,No,653.3098200000001,653.3098200000001,0,Kort
+O2025718,2025-11-15,C1191,Consumer,New,West,Gothenburg,Beauty,Fragrance,Card,Organic,1,121.16,0.007,3,No,120.31188,120.31188,0,Medel
+O2025719,2025-04-22,C1215,Consumer,Returning,North,Stockholm,Fashion,Accessories,Gift Card,Email,3,37.11,0.127,2,No,32.39703,97.19109,0,Kort
+O2025720,2025-04-13,C1161,Small Business,Returning,West,Boras,Fashion,Shoes,Card,Affiliate,1,110.97,0.094,5,No,100.53882,100.53882,0,Lang
+O2025721,2025-05-12,C1250,Corporate,Returning,North,Uppsala,Electronics,Headphones,Swish,Organic,2,206.91,0.01,3,No,204.8409,409.6818,0,Medel
+O2025722,2025-01-23,C1106,Consumer,Returning,North,Stockholm,Electronics,Mobile,Card,Email,3,512.46,0.076,4,No,473.51304000000005,1420.5391200000001,0,Medel
+O2025723,2025-04-20,C1048,Consumer,VIP,North,Uppsala,Electronics,Headphones,Swish,Paid Search,1,174.74,0.081,2,No,160.58606,160.58606,0,Kort
+O2025724,2025-03-07,C1156,Consumer,New,West,Gothenburg,Sports,Cycling,Card,Direct,1,737.59,0.088,3,No,672.68208,672.68208,0,Medel
+O2025725,2025-05-06,C1098,Small Business,Returning,West,Halmstad,Electronics,Mobile,Invoice,Email,1,429.53,0.09,4,No,390.8723,390.8723,0,Medel
+O2025726,2025-03-21,C1014,Consumer,New,North,Vasteras,Home,Lighting,Swish,Paid Search,1,226.82,0.105,5,No,203.0039,203.0039,0,Lang
+O2025727,2025-05-19,C1107,Consumer,VIP,South,Malmo,Electronics,Mobile,Card,Paid Search,1,358.86,0.106,5,No,320.82084000000003,320.82084000000003,0,Lang
+O2025728,2025-05-06,C1240,Consumer,Returning,West,Boras,Sports,Outdoor,Card,Organic,1,172.35,0,2,No,172.35,172.35,0,Kort
+O2025729,2025-06-22,C1189,Consumer,New,South,Helsingborg,Sports,Team Sports,Swish,Social,2,101.15,0.122,2,Yes,88.8097,177.6194,1,Kort
+O2025730,2025-10-11,C1105,Consumer,VIP,West,Halmstad,Electronics,Tablet,Card,Email,2,561.87,0.102,3,No,504.55926,1009.11852,0,Medel
+O2025731,2025-03-21,C1038,Consumer,Returning,North,Stockholm,Electronics,Mobile,Card,Organic,1,390.68,0,4,Yes,390.68,390.68,1,Medel
+O2025732,2025-02-11,C1146,Corporate,New,South,Malmo,Sports,Outdoor,Card,Organic,2,87.14,0,3,No,87.14,174.28,0,Medel
+O2025733,2025-02-17,C1258,Consumer,VIP,West,Halmstad,Fashion,Shoes,Paypal,Paid Search,2,110.12,0.093,2,No,99.87884000000001,199.75768000000002,0,Kort
+O2025734,2025-12-14,C1094,Consumer,Returning,North,Uppsala,Fashion,Accessories,Invoice,Email,1,42.08,0.144,3,No,36.02048,36.02048,0,Medel
+O2025735,2025-05-19,C1105,Consumer,VIP,West,Halmstad,Electronics,Mobile,Swish,Email,1,565.28,0.077,3,No,521.75344,521.75344,0,Medel
+O2025736,2025-07-09,C1187,Consumer,Returning,North,Vasteras,Sports,Fitness,Card,Email,1,385.87,0.082,4,No,354.22866,354.22866,0,Medel
+O2025737,2025-10-30,C1003,Corporate,Returning,East,Norrkoping,Sports,Fitness,Gift Card,Affiliate,1,200.53,0.073,4,Yes,185.89131,185.89131,1,Medel
+O2025738,2025-04-09,C1251,Small Business,Returning,West,Boras,Sports,Fitness,Paypal,Affiliate,1,154.8,0.039,1,No,148.7628,148.7628,0,Kort
+O2025739,2025-09-04,C1148,Consumer,Returning,East,Norrkoping,Sports,Team Sports,Card,Social,1,40.82,0,NA,No,40.82,40.82,0,NA
+O2025740,2025-03-06,C1086,Consumer,Returning,South,NA,Fashion,Jackets,Card,Organic,1,128.81,0.034,3,Yes,124.43046,124.43046,1,Medel
+O2025741,2025-08-05,C1252,Corporate,Returning,North,Uppsala,Fashion,Shoes,Paypal,Direct,1,138.91,0.086,1,No,126.96374,126.96374,0,Kort
+O2025742,2025-01-03,C1250,Corporate,Returning,North,Uppsala,Home,Decor,NA,Direct,2,72.48,0.027,4,No,70.52304000000001,141.04608000000002,0,Medel
+O2025743,2025-11-12,C1257,Consumer,Returning,North,Uppsala,Sports,Team Sports,Card,Direct,3,89.37,0.071,2,No,83.02473,249.07419000000002,0,Kort
+O2025744,2025-11-06,C1101,Consumer,Returning,West,Boras,Fashion,Jackets,Card,Organic,1,222.39,0.049,4,No,211.49289,211.49289,0,Medel
+O2025745,2025-09-24,C1004,Consumer,New,West,NA,Fashion,Accessories,Card,Email,2,17.47,0.092,4,No,15.86276,31.72552,0,Medel
+O2025746,2025-08-09,C1047,Consumer,Returning,East,Norrkoping,Beauty,Fragrance,NA,Email,1,49.3,0.006,5,No,49.0042,49.0042,0,Lang
+O2025747,2025-04-03,C1103,Consumer,New,North,Vasteras,Home,Furniture,Card,Direct,1,883.04,0.03,5,No,856.5487999999999,856.5487999999999,0,Lang
+O2025748,2025-12-23,C1228,Small Business,Returning,West,Halmstad,Electronics,Laptop,Card,Social,1,1381.75,0,3,No,1381.75,1381.75,0,Medel
+O2025749,2025-06-29,C1215,Consumer,Returning,West,Halmstad,Sports,Cycling,Card,Organic,1,726.49,0.025,4,No,708.32775,708.32775,0,Medel
+O2025750,2025-10-02,C1022,Small Business,Returning,West,Halmstad,Sports,Fitness,Card,Organic,1,291.31,0.088,1,No,265.67472000000004,265.67472000000004,0,Kort
+O2025751,2025-11-07,C1095,Corporate,New,West,Halmstad,Fashion,Accessories,Card,Paid Search,1,41.76,0.043,1,No,39.964319999999994,39.964319999999994,0,Kort
+O2025752,2025-05-29,C1173,Corporate,New,South,Helsingborg,Fashion,Accessories,Card,Email,2,66.05,0,4,Yes,66.05,132.1,1,Medel
+O2025753,2025-06-21,C1138,Consumer,New,South,Lund,Beauty,Fragrance,Paypal,Paid Search,1,85.64,0.069,4,No,79.73084,79.73084,0,Medel
+O2025754,2025-11-15,C1204,Small Business,New,West,Gothenburg,Electronics,Tablet,Invoice,Email,1,627.5,0.008,2,No,622.48,622.48,0,Kort
+O2025755,2025-09-22,C1187,Consumer,Returning,North,Vasteras,Fashion,Jackets,Card,Organic,1,60.49,0.119,2,No,53.29169,53.29169,0,Kort
+O2025756,2025-02-25,C1043,Corporate,New,West,Halmstad,Home,Decor,Swish,Email,1,120.45,0.059,6,Yes,113.34345,113.34345,1,Lang
+O2025757,2025-11-30,C1021,Consumer,Returning,North,Stockholm,Sports,Fitness,Invoice,NA,1,204.59,0,1,No,204.59,204.59,0,Kort
+O2025758,2025-07-03,C1073,Small Business,New,North,Vasteras,Electronics,Mobile,Card,Organic,2,472.61,0.027,4,No,459.84953,919.69906,0,Medel
+O2025759,2025-05-22,C1076,Consumer,New,North,Uppsala,Fashion,Jackets,Card,Paid Search,2,245.99,0.078,5,Yes,226.80278,453.60556,1,Lang
+O2025760,2025-11-14,C1142,Small Business,Returning,South,Helsingborg,Electronics,Headphones,Gift Card,Email,1,168.56,0.2,3,No,134.848,134.848,0,Medel
+O2025761,2025-06-13,C1162,Consumer,Returning,South,Helsingborg,Home,Decor,Swish,Paid Search,3,95.55,0.048,5,No,90.9636,272.8908,0,Lang
+O2025762,2025-12-06,C1006,Consumer,VIP,South,Lund,Home,Lighting,Paypal,Email,2,198.07,0.155,2,Yes,167.36915,334.7383,1,Kort
+O2025763,2025-11-28,C1028,Consumer,VIP,East,Norrkoping,Home,Decor,Card,Email,1,43.75,0.045,6,Yes,41.78125,41.78125,1,Lang
+O2025764,2025-08-10,C1100,Small Business,New,West,Gothenburg,Sports,Cycling,Gift Card,Social,2,900.56,0.056,5,No,850.1286399999999,1700.2572799999998,0,Lang
+O2025765,2025-07-21,C1238,Small Business,Returning,West,Gothenburg,Sports,Outdoor,Swish,Paid Search,1,109.65,0.011,5,No,108.44385,108.44385,0,Lang
+O2025766,2025-03-13,C1176,Small Business,Returning,North,Stockholm,Sports,Cycling,Card,NA,1,959.47,0.019,5,No,941.2400700000001,941.2400700000001,0,Lang
+O2025767,2025-11-08,C1030,Small Business,Returning,North,Stockholm,Electronics,Mobile,Card,Paid Search,1,258.05,0.045,3,No,246.43775,246.43775,0,Medel
+O2025768,2025-02-03,C1021,Consumer,Returning,North,Stockholm,Fashion,Shoes,Card,Direct,1,90.79,0.033,4,No,87.79393,87.79393,0,Medel
+O2025769,2025-07-29,C1189,Consumer,New,South,Helsingborg,Electronics,Headphones,Card,Direct,2,173.37,0,2,No,173.37,346.74,0,Kort
+O2025770,2025-06-13,C1105,Consumer,VIP,West,Halmstad,Fashion,Sportswear,Gift Card,Social,1,76.01,0.043,2,No,72.74157,72.74157,0,Kort
+O2025771,2025-06-22,C1249,Corporate,Returning,West,Gothenburg,Fashion,Jackets,Card,Social,2,115.26,0.076,4,No,106.50024,213.00048,0,Medel
+O2025772,2025-04-13,C1028,Consumer,VIP,East,Norrkoping,Home,Kitchen,Card,Direct,1,92.39,0.07,5,No,85.92269999999999,85.92269999999999,0,Lang
+O2025773,2025-06-18,C1061,Small Business,Returning,North,Vasteras,Home,Furniture,Gift Card,Paid Search,1,195.28,0.15,3,No,165.988,165.988,0,Medel
+O2025774,2025-02-11,C1042,Consumer,Returning,North,Uppsala,Home,Furniture,Invoice,Social,1,1035.63,0.075,5,No,957.9577500000001,957.9577500000001,0,Lang
+O2025775,2025-06-07,C1032,Consumer,Returning,North,Uppsala,Home,Kitchen,Paypal,Organic,1,111.67,0,6,No,111.67,111.67,0,Lang
+O2025776,2025-03-04,C1149,Consumer,Returning,South,Helsingborg,Electronics,Headphones,Swish,Direct,3,175.77,0.106,4,No,157.13838,471.41514000000006,0,Medel
+O2025777,2025-05-27,C1159,Consumer,Returning,South,Malmo,Fashion,Jackets,Invoice,Organic,1,62.3,0.091,3,No,56.6307,56.6307,0,Medel
+O2025778,2025-06-21,C1042,Consumer,Returning,North,Uppsala,Fashion,Jackets,Card,Social,1,241.29,0,1,No,241.29,241.29,0,Kort
+O2025779,2025-05-09,C1201,Consumer,Returning,West,Halmstad,Electronics,Laptop,Gift Card,NA,1,813.52,0.059,3,No,765.52232,765.52232,0,Medel
+O2025780,2025-11-19,C1085,Small Business,Returning,West,Halmstad,Sports,Outdoor,Swish,Social,2,293.76,0.043,2,No,281.12832,562.25664,0,Kort
+O2025781,2025-01-18,C1207,Consumer,New,North,Stockholm,Electronics,Headphones,Swish,Social,1,249.07,0.011,4,No,246.33023,246.33023,0,Medel
+O2025782,2025-07-24,C1007,Consumer,Returning,North,Vasteras,Home,Furniture,Swish,Social,1,918.14,0.095,3,No,830.9167,830.9167,0,Medel
+O2025783,2025-08-05,C1233,Corporate,Returning,West,Halmstad,Electronics,Tablet,Card,Email,1,563.65,0.306,4,No,391.1731,391.1731,0,Medel
+O2025784,2025-03-21,C1221,Consumer,Returning,West,Halmstad,Sports,Fitness,Card,Direct,2,202.95,0.035,4,No,195.84675,391.6935,0,Medel
+O2025785,2025-06-21,C1183,Small Business,New,East,Norrkoping,Electronics,Laptop,Invoice,Direct,2,1478.22,0.073,1,Yes,1370.30994,2740.61988,1,Kort
+O2025786,2025-04-25,C1157,Consumer,New,North,Uppsala,Home,Lighting,Swish,Direct,1,133.92,0.01,4,No,132.58079999999998,132.58079999999998,0,Medel
+O2025787,2025-10-07,C1026,Small Business,Returning,South,Malmo,Fashion,Accessories,Invoice,Organic,2,19.43,0.047,5,No,18.51679,37.03358,0,Lang
+O2025788,2025-02-04,C1146,Corporate,New,North,Uppsala,Fashion,Sportswear,Invoice,Organic,1,77.49,0.058,2,No,72.99557999999999,72.99557999999999,0,Kort
+O2025789,2025-10-23,C1087,Consumer,Returning,West,Halmstad,Electronics,Mobile,Invoice,Social,1,405.89,0.059,3,Yes,381.94249,381.94249,1,Medel
+O2025790,2025-09-28,C1133,Small Business,VIP,North,Vasteras,Fashion,Shoes,Swish,Social,1,107.55,0.021,2,No,105.29145,105.29145,0,Kort
+O2025791,2025-01-01,C1150,Consumer,VIP,East,Norrkoping,Electronics,Tablet,Invoice,Social,2,683.39,0.097,5,No,617.10117,1234.20234,0,Lang
+O2025792,2025-01-02,C1190,Small Business,Returning,East,NA,Fashion,Shoes,Card,Social,1,45.18,0,5,No,45.18,45.18,0,Lang
+O2025793,2025-10-15,C1018,Small Business,Returning,West,Gothenburg,Fashion,Shoes,Swish,Email,1,113.35,0.125,4,No,99.18124999999999,99.18124999999999,0,Medel
+O2025794,2025-08-19,C1053,Consumer,New,West,Boras,Sports,Team Sports,Gift Card,Organic,3,72.98,0.028,5,No,70.93656,212.80968000000001,0,Lang
+O2025795,2025-11-08,C1120,Small Business,New,North,Stockholm,Fashion,Jackets,Swish,Direct,1,163.04,0.134,3,No,141.19263999999998,141.19263999999998,0,Medel
+O2025796,2025-12-05,C1107,Consumer,VIP,South,Malmo,Electronics,Tablet,Paypal,Paid Search,1,486.49,0.081,3,No,447.08431,447.08431,0,Medel
+O2025797,2025-08-21,C1172,Corporate,Returning,East,Norrkoping,Fashion,Sportswear,Swish,Organic,1,53.57,0.028,2,No,52.07004,52.07004,0,Kort
+O2025798,2025-09-17,C1013,Consumer,Returning,West,Halmstad,Beauty,Skincare,Invoice,Social,1,59.62,0.112,3,Yes,52.94256,52.94256,1,Medel
+O2025799,2025-05-05,C1147,Consumer,Returning,West,Boras,Fashion,Sportswear,Swish,Social Media,1,71.49,0,6,No,71.49,71.49,0,Lang
+O2025800,2025-10-13,C1168,Consumer,New,East,Orebro,Fashion,Jackets,Card,Paid Search,1,168.32,0.058,3,No,158.55743999999999,158.55743999999999,0,Medel
+O2025801,2025-05-25,C1077,Consumer,New,North,Stockholm,Home,Furniture,Gift Card,Email,1,1184.36,0.1,5,No,1065.924,1065.924,0,Lang
+O2025802,2025-07-18,C1024,Consumer,New,West,Halmstad,Electronics,Headphones,Paypal,Direct,1,67.27,0.021,3,Yes,65.85732999999999,65.85732999999999,1,Medel
+O2025803,2025-05-20,C1253,Consumer,New,North,Uppsala,Electronics,Tablet,Card,Social,1,644.27,0.037,4,No,620.43201,620.43201,0,Medel
+O2025804,2025-08-15,C1074,Small Business,New,East,Linkoping,Sports,Team Sports,Card,Direct,1,52.66,0,4,No,52.66,52.66,0,Medel
+O2025805,2025-12-23,C1065,Small Business,New,North,Uppsala,Fashion,Shoes,Paypal,Direct,3,98.89,0.001,1,Yes,98.79111,296.37333,1,Kort
+O2025806,2025-12-16,C1202,Small Business,Returning,South,Helsingborg,Beauty,Skincare,Invoice,Social,1,80.42,0,5,No,80.42,80.42,0,Lang
+O2025807,2025-06-16,C1148,Consumer,Returning,East,Norrkoping,Sports,Fitness,NA,Organic,1,267.96,0.003,5,No,267.15612,267.15612,0,Lang
+O2025808,2025-01-27,C1105,Consumer,VIP,West,NA,Electronics,Laptop,Invoice,Organic,2,1110.5,0.099,2,No,1000.5605,2001.121,0,Kort
+O2025809,2025-01-14,C1021,Consumer,Returning,North,Stockholm,Home,Kitchen,Paypal,Paid Search,1,98.75,0,5,No,98.75,98.75,0,Lang
+O2025810,2025-07-17,C1062,Consumer,VIP,South,Helsingborg,Beauty,Haircare,Invoice,Paid Search,3,43.48,0.128,3,No,37.914559999999994,113.74367999999998,0,Medel
+O2025811,2025-06-08,C1136,Consumer,Returning,West,Halmstad,Beauty,Skincare,Card,Organic,1,39.18,0,3,No,39.18,39.18,0,Medel
+O2025812,2025-02-11,C1125,Small Business,Returning,East,Norrkoping,Electronics,Headphones,Invoice,Social,1,180.43,0.104,5,Yes,161.66528,161.66528,1,Lang
+O2025813,2025-01-04,C1164,Corporate,Returning,East,Linkoping,Fashion,Jackets,Card,Paid Search,2,189.37,0.042,8,Yes,181.41646,362.83292,1,Lang
+O2025814,2025-06-02,C1059,Small Business,New,North,Vasteras,Beauty,Fragrance,Swish,Paid Search,2,95.8,0.079,4,Yes,88.2318,176.4636,1,Medel
+O2025815,2025-10-23,C1027,Small Business,Returning,North,Stockholm,Fashion,Sportswear,Swish,Email,1,56.46,0,3,No,56.46,56.46,0,Medel
+O2025816,2025-03-26,C1179,Consumer,Returning,East,Orebro,Electronics,Headphones,Card,Direct,1,161.5,0.078,3,No,148.90300000000002,148.90300000000002,0,Medel
+O2025817,2025-12-11,C1110,Corporate,Returning,South,Malmo,Electronics,Headphones,Swish,Organic,1,233.04,0,2,No,233.04,233.04,0,Kort
+O2025818,2025-01-26,C1038,Consumer,Returning,North,Stockholm,Home,Decor,Gift Card,Affiliate,2,95.34,0.222,3,No,74.17452,148.34904,0,Medel
+O2025819,2025-04-26,C1006,Consumer,VIP,East,Orebro,Sports,Cycling,Paypal,Organic,1,514.64,0,3,No,514.64,514.64,0,Medel
+O2025820,2025-08-11,C1132,Corporate,Returning,West,Boras,Electronics,Laptop,Card,Affiliate,1,881.39,0.041,5,Yes,845.2530099999999,845.2530099999999,1,Lang
+O2025821,2025-09-16,C1242,Small Business,New,East,Linkoping,Home,Kitchen,Swish,Organic,1,62.68,0.092,6,No,56.91344,56.91344,0,Lang
+O2025822,2025-10-05,C1142,Small Business,Returning,South,Helsingborg,Beauty,Makeup,Invoice,Organic,1,43.69,0.092,4,No,39.670519999999996,39.670519999999996,0,Medel
+O2025823,2025-07-17,C1149,Consumer,Returning,East,Orebro,Electronics,Laptop,Card,Direct,1,1535.07,0.033,3,No,1484.4126899999999,1484.4126899999999,0,Medel
+O2025824,2025-06-03,C1191,Consumer,New,South,Lund,Fashion,Jackets,Card,Organic,1,156.59,0.143,5,No,134.19763,134.19763,0,Lang
+O2025825,2025-07-02,C1079,Consumer,VIP,East,Linkoping,Sports,Cycling,Card,Affiliate,2,489.31,0.062,5,Yes,458.97278,917.94556,1,Lang
+O2025826,2025-12-04,C1169,Consumer,Returning,North,Uppsala,Electronics,Laptop,Gift Card,Social,2,1037.82,0,1,No,1037.82,2075.64,0,Kort
+O2025827,2025-11-28,C1209,Consumer,Returning,North,Stockholm,Home,Kitchen,Gift Card,Email,2,112.81,0.119,3,No,99.38561,198.77122,0,Medel
+O2025828,2025-08-10,C1167,Small Business,New,South,Helsingborg,Fashion,Shoes,Invoice,Email,2,113.54,0.065,3,No,106.15990000000001,212.31980000000001,0,Medel
+O2025829,2025-03-30,C1172,Corporate,Returning,East,Norrkoping,Beauty,Haircare,Card,Email,3,37.38,0.007,3,No,37.11834,111.35502000000001,0,Medel
+O2025830,2025-02-18,C1013,Consumer,Returning,North,Uppsala,Beauty,Makeup,Invoice,Paid Search,2,54.06,0.07,2,No,50.2758,100.5516,0,Kort
+O2025831,2025-01-14,C1104,Small Business,Returning,West,Gothenburg,Sports,Fitness,Card,Social,2,202.88,0.148,3,No,172.85376,345.70752,0,Medel
+O2025832,2025-04-26,C1211,Consumer,New,North,Uppsala,Fashion,Jackets,Card,Social,1,176.16,0.04,1,No,169.1136,169.1136,0,Kort
+O2025833,2025-08-30,C1160,Consumer,New,East,Orebro,Electronics,Mobile,Card,Social,1,530.7,0.021,6,No,519.5553,519.5553,0,Lang
+O2025834,2025-04-29,C1012,Small Business,Returning,East,Norrkoping,Sports,Fitness,Card,Social,1,153.53,0.063,4,No,143.85761000000002,143.85761000000002,0,Medel
+O2025835,2025-09-24,C1112,Small Business,Returning,North,Stockholm,Electronics,Laptop,Card,Organic,2,923.45,0.024,3,No,901.2872,1802.5744,0,Medel
+O2025836,2025-12-08,C1237,Small Business,Returning,South,Malmo,Fashion,Shoes,Card,Paid Search,1,139.27,0.075,5,No,128.82475000000002,128.82475000000002,0,Lang
+O2025837,2025-05-21,C1179,Consumer,Returning,East,Orebro,Beauty,Haircare,Paypal,Paid Search,1,19.08,0.148,6,No,16.256159999999998,16.256159999999998,0,Lang
+O2025838,2025-11-28,C1047,Consumer,Returning,East,Norrkoping,Electronics,Headphones,Card,Email,2,192.69,0.094,6,No,174.57714000000001,349.15428000000003,0,Lang
+O2025839,2025-07-21,C1195,Consumer,Returning,South,Malmo,Electronics,Mobile,Invoice,Paid Search,1,622.19,0.096,4,Yes,562.4597600000001,562.4597600000001,1,Medel
+O2025840,2025-06-04,C1240,Consumer,Returning,South,Lund,Sports,Fitness,Swish,Organic,1,195.24,0.071,2,No,181.37796000000003,181.37796000000003,0,Kort
+O2025841,2025-02-24,C1215,Consumer,Returning,North,Stockholm,Electronics,Laptop,Paypal,Organic,1,1284.47,0,3,Yes,1284.47,1284.47,1,Medel
+O2025842,2025-05-10,C1005,Small Business,Returning,West,Gothenburg,Fashion,Sportswear,Swish,Paid Search,1,82.31,0.084,2,No,75.39596,75.39596,0,Kort
+O2025843,2025-05-01,C1239,Corporate,Returning,South,Helsingborg,Electronics,Headphones,Invoice,Social,1,353.93,0.057,5,No,333.75599,333.75599,0,Lang
+O2025844,2025-09-18,C1095,Corporate,New,West,Halmstad,Beauty,Skincare,Invoice,Email,1,75.6,0.119,1,No,66.6036,66.6036,0,Kort
+O2025845,2025-06-29,C1053,Consumer,New,West,Boras,Fashion,Accessories,Card,Social,1,36.18,0.078,3,Yes,33.35796,33.35796,1,Medel
+O2025846,2025-01-15,C1207,Consumer,New,North,Stockholm,Electronics,Headphones,Card,Email,2,212.55,0.088,2,No,193.84560000000002,387.69120000000004,0,Kort
+O2025847,2025-10-21,C1059,Small Business,New,South,Malmo,Fashion,Jackets,Invoice,Organic,1,211.97,0.058,4,No,199.67574,199.67574,0,Medel
+O2025848,2025-04-23,C1086,Consumer,Returning,South,Helsingborg,Sports,Team Sports,Card,Organic,1,42.24,0,7,No,42.24,42.24,0,Lang
+O2025849,2025-07-23,C1037,Consumer,VIP,West,Boras,Electronics,Headphones,Invoice,Organic,1,349.55,0.168,6,No,290.8256,290.8256,0,Lang
+O2025850,2025-01-04,C1151,Consumer,Returning,West,Halmstad,Electronics,Laptop,Card,Organic,1,691.2,0.058,3,No,651.1104,651.1104,0,Medel
+O2025851,2025-05-15,C1155,Corporate,New,South,Helsingborg,Beauty,Haircare,Card,Email,2,55.85,0.162,1,Yes,46.8023,93.6046,1,Kort
+O2025852,2025-10-31,C1100,Small Business,New,West,Gothenburg,Home,Kitchen,Swish,Paid Search,1,18.55,0.127,6,Yes,16.19415,16.19415,1,Lang
+O2025853,2025-09-14,C1078,Small Business,Returning,South,Helsingborg,Home,Furniture,Invoice,Social,1,388.94,0.032,5,No,376.49392,376.49392,0,Lang
+O2025854,2025-12-24,C1235,Small Business,Returning,North,Stockholm,Sports,Fitness,Card,Organic,1,320.23,0.069,1,No,298.13413,298.13413,0,Kort
+O2025855,2025-01-01,C1033,Small Business,Returning,South,Helsingborg,Electronics,Tablet,Swish,Social,1,375.62,0.055,2,No,354.9609,354.9609,0,Kort
+O2025856,2025-11-17,C1244,Consumer,Returning,West,Boras,Fashion,Accessories,Card,Social,1,20.32,0,3,No,20.32,20.32,0,Medel
+O2025857,2025-12-19,C1250,Corporate,Returning,North,Uppsala,Electronics,Headphones,Card,Affiliate,1,153.6,0.105,3,No,137.472,137.472,0,Medel
+O2025858,2025-01-09,C1122,Corporate,New,East,Orebro,Fashion,Sportswear,Paypal,Paid Search,2,80.28,0.06,4,No,75.4632,150.9264,0,Medel
+O2025859,2025-04-19,C1027,Small Business,Returning,North,Stockholm,Beauty,Makeup,Invoice,Social,2,44.22,0.012,4,No,43.68936,87.37872,0,Medel
+O2025860,2025-04-24,C1098,Small Business,Returning,West,Halmstad,Electronics,Headphones,Swish,Affiliate,2,161.07,0.13,3,No,140.1309,280.2618,0,Medel
+O2025861,2025-08-29,C1173,Corporate,New,West,Halmstad,Electronics,Headphones,Gift Card,Organic,2,184.86,0.045,1,No,176.5413,353.0826,0,Kort
+O2025862,2025-08-20,C1198,Consumer,VIP,South,Helsingborg,Sports,Team Sports,Gift Card,Email,2,115.39,0.03,2,No,111.9283,223.8566,0,Kort
+O2025863,2025-06-09,C1077,Consumer,New,North,Stockholm,Beauty,Makeup,Card,Paid Search,1,44.68,0.041,5,No,42.84812,42.84812,0,Lang
+O2025864,2025-01-04,C1085,Small Business,Returning,West,Halmstad,Electronics,Mobile,Card,Direct,1,429.24,0.035,4,Yes,414.21659999999997,414.21659999999997,1,Medel
+O2025865,2025-06-29,C1125,Small Business,Returning,East,Norrkoping,Fashion,Jackets,Card,Organic,2,165.15,0.089,2,Yes,150.45165,300.9033,1,Kort
+O2025866,2025-03-18,C1174,Consumer,Returning,West,Boras,Electronics,Headphones,Invoice,Social,1,205.97,0.05,3,No,195.67149999999998,195.67149999999998,0,Medel
+O2025867,2025-06-11,C1091,Corporate,VIP,South,Malmo,Fashion,Shoes,NA,Organic,1,136.54,0.12,4,Yes,120.1552,120.1552,1,Medel
+O2025868,2025-10-16,C1205,Small Business,VIP,South,Malmo,Beauty,Fragrance,Card,Paid Search,2,82.34,0.11,2,No,73.2826,146.5652,0,Kort
+O2025869,2025-09-26,C1178,Consumer,VIP,South,Malmo,Sports,Outdoor,Card,Social,2,40.71,0.097,3,No,36.76113,73.52226,0,Medel
+O2025870,2025-04-08,C1180,Corporate,Returning,North,Stockholm,Home,Decor,Card,Organic,1,100.91,0,4,No,100.91,100.91,0,Medel
+O2025871,2025-05-24,C1025,Consumer,Returning,North,Uppsala,Fashion,Shoes,Invoice,Paid Search,2,101.03,0.133,4,No,87.59301,175.18602,0,Medel
+O2025872,2025-10-23,C1109,Small Business,Returning,South,Helsingborg,Home,Furniture,Invoice,Organic,1,602.36,0,6,No,602.36,602.36,0,Lang
+O2025873,2025-07-09,C1000,Small Business,Returning,West,Boras,Sports,Team Sports,Swish,Social,2,136.19,0.019,4,Yes,133.60238999999999,267.20477999999997,1,Medel
+O2025874,2025-02-07,C1093,Small Business,Returning,West,Boras,Sports,Outdoor,Swish,Organic,1,202.34,0.076,1,No,186.96216,186.96216,0,Kort
+O2025875,2025-05-03,C1259,Consumer,Returning,North,Stockholm,Home,Furniture,Card,Email,2,940.48,0.145,3,No,804.1104,1608.2208,0,Medel
+O2025876,2025-04-25,C1193,Corporate,Returning,North,Uppsala,Sports,Team Sports,Card,Email,1,87.67,0.067,4,No,81.79611000000001,81.79611000000001,0,Medel
+O2025877,2025-02-12,C1017,Small Business,Returning,West,Gothenburg,Home,Lighting,Card,Affiliate,1,189.98,0.055,2,No,179.53109999999998,179.53109999999998,0,Kort
+O2025878,2025-06-04,C1076,Consumer,New,North,Uppsala,Electronics,Laptop,Gift Card,Organic,1,1484.91,0.026,1,No,1446.30234,1446.30234,0,Kort
+O2025879,2025-09-15,C1248,Consumer,New,West,Boras,Electronics,Laptop,Card,Organic,2,804.8,0.041,3,No,771.8032,1543.6064,0,Medel
+O2025880,2025-11-21,C1212,Corporate,New,South,Malmo,Sports,Fitness,Card,Direct,1,175.96,0,2,No,175.96,175.96,0,Kort
+O2025881,2025-05-10,C1225,Small Business,Returning,North,Stockholm,Fashion,Jackets,Invoice,Organic,2,176.81,0,1,No,176.81,353.62,0,Kort
+O2025882,2025-02-14,C1020,Consumer,Returning,East,Linkoping,Fashion,Sportswear,Invoice,Affiliate,4,83.86,0.066,2,No,78.32524,313.30096,0,Kort
+O2025883,2025-07-10,C1000,Small Business,Returning,East,Linkoping,Electronics,Laptop,Invoice,Affiliate,2,1151.83,0.105,6,No,1030.8878499999998,2061.7756999999997,0,Lang
+O2025884,2025-05-16,C1138,Consumer,New,South,Lund,Home,Decor,Card,Direct,1,79.73,0,5,No,79.73,79.73,0,Lang
+O2025885,2025-06-20,C1141,Small Business,Returning,South,Malmo,Home,Kitchen,Swish,Paid Search,1,91.05,0.111,4,No,80.94345,80.94345,0,Medel
+O2025886,2025-10-30,C1081,Consumer,Returning,North,Stockholm,Sports,Cycling,Swish,Organic,2,606.66,0,1,No,606.66,1213.32,0,Kort
+O2025887,2025-05-13,C1113,Small Business,Returning,South,Lund,Beauty,Haircare,Swish,Organic,1,44.54,0.057,2,No,42.001219999999996,42.001219999999996,0,Kort
+O2025888,2025-03-27,C1245,Consumer,Returning,West,Boras,Fashion,Sportswear,Invoice,Email,2,93.02,0.257,3,Yes,69.11386,138.22772,1,Medel
+O2025889,2025-01-08,C1136,Consumer,Returning,West,Halmstad,Fashion,Accessories,Card,Paid Search,1,48.22,0.084,3,No,44.16952,44.16952,0,Medel
+O2025890,2025-07-31,C1241,Consumer,VIP,South,Lund,Fashion,Sportswear,Card,Social,1,63.04,0.122,3,Yes,55.34912,55.34912,1,Medel
+O2025891,2025-08-02,C1177,Small Business,Returning,East,Linkoping,Beauty,Haircare,Swish,Organic,1,9.75,0.057,2,No,9.19425,9.19425,0,Kort
+O2025892,2025-07-30,C1068,Consumer,New,East,Linkoping,Fashion,Jackets,Card,Social,2,214.3,0.04,4,No,205.728,411.456,0,Medel
+O2025893,2025-02-10,C1197,Consumer,VIP,North,Uppsala,Home,Kitchen,Card,Paid Search,2,141.11,0.117,3,No,124.60013000000001,249.20026000000001,0,Medel
+O2025894,2025-12-12,C1141,Small Business,Returning,East,Orebro,Electronics,Mobile,Swish,Direct,1,616.91,0,2,No,616.91,616.91,0,Kort
+O2025895,2025-11-06,C1137,Consumer,New,West,Boras,Home,Lighting,Swish,Organic,3,183.01,0.04,3,No,175.68959999999998,527.0688,0,Medel
+O2025896,2025-08-17,C1245,Consumer,Returning,West,Halmstad,Home,Furniture,Swish,Social,1,390.14,0.043,5,No,373.36397999999997,373.36397999999997,0,Lang
+O2025897,2025-06-13,C1112,Small Business,Returning,North,Stockholm,Beauty,Skincare,Card,Social,1,68.47,0.035,3,Yes,66.07355,66.07355,1,Medel
+O2025898,2025-12-22,C1073,Small Business,New,North,Vasteras,Home,Lighting,Paypal,Paid Search,1,193.59,0.162,5,No,162.22842,162.22842,0,Lang
+O2025899,2025-10-21,C1171,Small Business,Returning,West,Halmstad,Home,Decor,Swish,Social,1,50,0,5,Yes,50,50,1,Lang
+O2025900,2025-01-20,C1138,Consumer,New,South,Lund,Sports,Team Sports,Card,Direct,1,80.06,0.085,3,No,73.2549,73.2549,0,Medel
+O2025901,2025-06-15,C1247,Corporate,Returning,West,Gothenburg,Sports,Fitness,Gift Card,Paid Search,1,212.64,0.049,5,No,202.22063999999997,202.22063999999997,0,Lang
+O2025902,2025-01-07,C1034,Small Business,Returning,South,Helsingborg,Sports,Fitness,Invoice,Social,1,319.74,0.063,3,No,299.59638,299.59638,0,Medel
+O2025903,2025-02-27,C1211,Consumer,New,North,Uppsala,Home,Furniture,Invoice,Email,2,451.67,0.148,3,No,384.82284,769.64568,0,Medel
+O2025904,2025-03-20,C1241,Consumer,VIP,West,Boras,Home,Lighting,Card,Affiliate,1,109.76,0.124,5,No,96.14976,96.14976,0,Lang
+O2025905,2025-09-05,C1163,Corporate,Returning,West,Boras,Electronics,Headphones,Invoice,Paid Search,1,108.87,0.032,3,No,105.38616,105.38616,0,Medel
+O2025906,2025-10-31,C1144,Consumer,Returning,North,Uppsala,Fashion,Accessories,Card,Social,1,36.41,0.037,1,No,35.06283,35.06283,0,Kort
+O2025907,2025-04-03,C1177,Small Business,Returning,East,Linkoping,Beauty,Haircare,Invoice,Affiliate,1,23.29,0.109,3,No,20.75139,20.75139,0,Medel
+O2025908,2025-02-20,C1222,Consumer,Returning,East,Linkoping,Electronics,Mobile,Paypal,Social,2,147.34,0.023,6,Yes,143.95118,287.90236,1,Lang
+O2025909,2025-07-01,C1097,Consumer,VIP,East,Orebro,Beauty,Fragrance,Card,Direct,1,118.37,0.2,4,No,94.69600000000001,94.69600000000001,0,Medel
+O2025910,2025-10-08,C1047,Consumer,Returning,East,Norrkoping,Sports,Cycling,Invoice,Direct,1,806.6,0.076,2,No,745.2984,745.2984,0,Kort
+O2025911,2025-09-23,C1016,Consumer,Returning,North,Stockholm,Fashion,Accessories,Invoice,Social,1,20.39,0.072,4,No,18.92192,18.92192,0,Medel
+O2025912,2025-03-02,C1219,Consumer,New,West,Gothenburg,Sports,Cycling,Invoice,Direct,2,771.89,0.072,1,No,716.31392,1432.62784,0,Kort
+O2025913,2025-04-30,C1068,Consumer,New,East,NA,Sports,Outdoor,Card,Email,2,199.98,0.068,4,No,186.38135999999997,372.76271999999994,0,Medel
+O2025914,2025-06-12,C1041,Consumer,Returning,South,Lund,Sports,Outdoor,Invoice,Organic,4,167.15,0.064,3,No,156.45239999999998,625.8095999999999,0,Medel
+O2025915,2025-08-27,C1026,Small Business,Returning,South,Malmo,Sports,Team Sports,Invoice,Paid Search,2,113.62,0.07,5,No,105.6666,211.3332,0,Lang
+O2025916,2025-04-17,C1175,Corporate,Returning,West,Halmstad,Sports,Outdoor,Swish,Paid Search,2,122.84,0.156,1,No,103.67696,207.35392,0,Kort
+O2025917,2025-09-25,C1227,Consumer,New,North,Stockholm,Electronics,Headphones,Invoice,Paid Search,1,136.55,0.069,2,No,127.12805000000002,127.12805000000002,0,Kort
+O2025918,2025-03-23,C1203,Small Business,Returning,East,Orebro,Sports,Outdoor,Invoice,Direct,1,207.49,0.058,3,No,195.45558,195.45558,0,Medel
+O2025919,2025-11-11,C1113,Small Business,Returning,South,Lund,Electronics,Laptop,Card,Social,1,1075.23,0.061,6,No,1009.64097,1009.64097,0,Lang
+O2025920,2025-08-13,C1184,Small Business,Returning,North,Vasteras,Beauty,Skincare,Swish,Social,4,45.26,0.052,3,Yes,42.906479999999995,171.62591999999998,1,Medel
+O2025921,2025-04-24,C1184,Small Business,Returning,North,Vasteras,Home,Kitchen,Card,Social,1,103.57,0,4,Yes,103.57,103.57,1,Medel
+O2025922,2025-06-19,C1133,Small Business,VIP,North,Vasteras,Fashion,Sportswear,Card,Paid Search,1,38.65,0.088,2,No,35.2488,35.2488,0,Kort
+O2025923,2025-07-21,C1046,Corporate,New,North,Stockholm,Fashion,Accessories,Card,Direct,1,36.81,0.007,1,No,36.552330000000005,36.552330000000005,0,Kort
+O2025924,2025-11-03,C1011,Small Business,Returning,East,Linkoping,Home,Decor,Card,Affiliate,1,88.81,0.036,6,No,85.61284,85.61284,0,Lang
+O2025925,2025-09-23,C1038,Consumer,Returning,North,Stockholm,Beauty,Skincare,Invoice,Paid Search,2,47.67,0.077,5,No,43.999410000000005,87.99882000000001,0,Lang
+O2025926,2025-06-23,C1017,Small Business,Returning,North,Stockholm,Beauty,Makeup,Invoice,Organic,1,55.74,0.081,4,No,51.225060000000006,51.225060000000006,0,Medel
+O2025927,2025-10-25,C1102,Small Business,Returning,West,Gothenburg,Home,Lighting,Invoice,Paid Search,1,187.26,0.054,3,No,177.14795999999998,177.14795999999998,0,Medel
+O2025928,2025-08-19,C1243,Consumer,Returning,East,Linkoping,Fashion,Accessories,Swish,Organic,2,34.26,0.018,4,No,33.643319999999996,67.28663999999999,0,Medel
+O2025929,2025-04-21,C1254,Small Business,Returning,East,Orebro,Electronics,Tablet,Swish,Social,1,497.71,0.022,6,No,486.76038,486.76038,0,Lang
+O2025930,2025-01-17,C1197,Consumer,VIP,North,Stockholm,Home,Decor,Card,Social,1,117.91,0.069,4,No,109.77421,109.77421,0,Medel
+O2025931,2025-02-16,C1063,Consumer,Returning,East,Linkoping,Electronics,Headphones,Invoice,Affiliate,1,132.34,0.127,5,No,115.53282,115.53282,0,Lang
+O2025932,2025-11-27,C1064,Consumer,VIP,North,Uppsala,Home,Decor,Invoice,Social,1,106.61,0.141,4,No,91.57799,91.57799,0,Medel
+O2025933,2025-05-01,C1054,Consumer,VIP,North,Stockholm,Home,Furniture,Card,Direct,1,476.03,0.135,3,No,411.76595,411.76595,0,Medel
+O2025934,2025-01-13,C1161,Small Business,Returning,West,Boras,Home,Lighting,Card,Social,1,208.31,0.082,5,No,191.22858000000002,191.22858000000002,0,Lang
+O2025935,2025-01-27,C1135,Consumer,Returning,North,Stockholm,Home,Lighting,Invoice,Direct,1,248.6,0.05,6,No,236.17,236.17,0,Lang
+O2025936,2025-01-23,C1080,Consumer,New,North,Vasteras,Electronics,Headphones,Card,Organic,1,79.42,0.025,3,No,77.4345,77.4345,0,Medel
+O2025937,2025-04-25,C1245,Consumer,Returning,West,Halmstad,Fashion,Sportswear,Gift Card,Direct,2,98.46,0.078,1,No,90.78012,181.56024,0,Kort
+O2025938,2025-02-07,C1000,Small Business,Returning,East,Linkoping,Fashion,Shoes,Invoice,Organic,1,86,0.068,4,No,80.152,80.152,0,Medel
+O2025939,2025-09-19,C1036,Consumer,New,North,Stockholm,Sports,Outdoor,Swish,Organic,1,163.91,0.119,3,No,144.40471,144.40471,0,Medel
+O2025940,2025-02-07,C1171,Small Business,Returning,West,Halmstad,Fashion,Accessories,Swish,Direct,3,35.93,0.069,5,No,33.45083,100.35249000000002,0,Lang
+O2025941,2025-06-15,C1256,Consumer,New,North,Uppsala,Sports,Team Sports,Invoice,Direct,3,150.2,0,4,No,150.2,450.59999999999997,0,Medel
+O2025942,2025-12-12,C1048,Consumer,VIP,North,Uppsala,Sports,Team Sports,Invoice,Direct,1,100.41,0.137,4,No,86.65383,86.65383,0,Medel
+O2025943,2025-07-15,C1201,Consumer,Returning,West,Halmstad,Fashion,Sportswear,Invoice,Organic,1,112.16,0.001,2,No,112.04784,112.04784,0,Kort
+O2025944,2025-05-05,C1039,Consumer,Returning,North,Vasteras,Sports,Team Sports,Invoice,Direct,1,8,0.112,2,No,7.104,7.104,0,Kort
+O2025945,2025-03-22,C1107,Consumer,VIP,South,Malmo,Home,Lighting,NA,Direct,2,150.88,0.103,5,No,135.33936,270.67872,0,Lang
+O2025946,2025-10-19,C1192,Corporate,Returning,West,Gothenburg,Sports,Cycling,Paypal,Paid Search,1,667.38,0.041,4,No,640.01742,640.01742,0,Medel
+O2025947,2025-08-25,C1061,Small Business,Returning,North,Vasteras,Home,Decor,Paypal,Paid Search,1,94.03,0.046,4,No,89.70461999999999,89.70461999999999,0,Medel
+O2025948,2025-08-27,C1186,Corporate,Returning,East,Norrkoping,Beauty,Makeup,Invoice,Direct,1,50.46,0,5,No,50.46,50.46,0,Lang
+O2025949,2025-06-09,C1118,Corporate,New,North,Uppsala,Beauty,Makeup,Invoice,Email,1,9.94,0.08,3,No,9.1448,9.1448,0,Medel
+O2025950,2025-12-19,C1033,Small Business,Returning,South,Helsingborg,Electronics,Laptop,Card,Email,1,791.06,0.038,6,No,760.9997199999999,760.9997199999999,0,Lang
+O2025951,2025-08-28,C1243,Consumer,Returning,East,Linkoping,Home,Kitchen,Card,Organic,1,109.65,0.046,6,No,104.6061,104.6061,0,Lang
+O2025952,2025-07-30,C1158,Corporate,New,North,Stockholm,Electronics,Laptop,Card,Direct,2,871.39,0.024,4,No,850.47664,1700.95328,0,Medel
+O2025953,2025-09-05,C1195,Consumer,Returning,South,Malmo,Sports,Cycling,Swish,Direct,2,510.06,0.021,2,No,499.34874,998.69748,0,Kort
+O2025954,2025-03-12,C1174,Consumer,Returning,West,NA,Sports,Cycling,Card,Affiliate,1,811.17,0.058,3,No,764.12214,764.12214,0,Medel
+O2025955,2025-09-22,C1223,Corporate,Returning,West,Gothenburg,Sports,Team Sports,Card,Affiliate,2,104.21,0.162,NA,No,87.32798,174.65596,0,NA
+O2025956,2025-08-12,C1191,Consumer,New,West,Gothenburg,Fashion,Accessories,Card,NA,2,54.77,0.112,3,No,48.635760000000005,97.27152000000001,0,Medel
+O2025957,2025-04-28,C1175,Corporate,Returning,East,Norrkoping,Home,Kitchen,Card,Affiliate,1,45.19,0.087,6,No,41.25847,41.25847,0,Lang
+O2025958,2025-05-09,C1203,Small Business,Returning,East,Orebro,Beauty,Haircare,Card,Email,1,29.34,0.045,4,No,28.0197,28.0197,0,Medel
+O2025959,2025-11-27,C1109,Small Business,Returning,South,Helsingborg,Electronics,Headphones,Card,Organic,1,157.13,0.129,4,No,136.86023,136.86023,0,Medel
+O2025960,2025-01-05,C1009,Consumer,Returning,South,Helsingborg,Beauty,Haircare,Card,Social,1,45.66,0.068,3,No,42.555119999999995,42.555119999999995,0,Medel
+O2025961,2025-03-09,C1215,Consumer,Returning,North,Stockholm,Sports,Fitness,Swish,Social,2,269.73,0.085,1,No,246.80295000000004,493.6059000000001,0,Kort
+O2025962,2025-10-18,C1110,Corporate,Returning,East,Norrkoping,Beauty,Fragrance,Paypal,Social,1,70.11,0.065,5,No,65.55285,65.55285,0,Lang
+O2025963,2025-08-07,C1093,Small Business,Returning,West,Boras,Home,Decor,Invoice,Social,1,103.36,0.043,2,Yes,98.91552,98.91552,1,Kort
+O2025964,2025-04-03,C1045,Small Business,Returning,North,Uppsala,Electronics,Tablet,Card,Organic,1,517.37,0.08,3,No,475.98040000000003,475.98040000000003,0,Medel
+O2025965,2025-09-26,C1196,Consumer,VIP,West,Boras,Fashion,Sportswear,Card,Organic,2,122.88,0,3,No,122.88,245.76,0,Medel
+O2025966,2025-06-19,C1136,Consumer,Returning,West,Halmstad,Home,Kitchen,Card,Organic,1,185.05,0.03,3,No,179.4985,179.4985,0,Medel
+O2025967,2025-08-25,C1117,Small Business,Returning,East,Orebro,Electronics,Tablet,Swish,Paid Search,1,695.37,0,5,No,695.37,695.37,0,Lang
+O2025968,2025-10-29,C1222,Consumer,Returning,East,Linkoping,Fashion,Shoes,Invoice,Organic,2,74.94,0.04,4,No,71.94239999999999,143.88479999999998,0,Medel
+O2025969,2025-02-02,C1202,Small Business,Returning,South,Helsingborg,Electronics,Headphones,Invoice,Email,1,211.66,0.086,5,No,193.45724,193.45724,0,Lang
+O2025970,2025-06-23,C1121,Small Business,Returning,North,Stockholm,Electronics,Headphones,Card,Social,1,127.13,0.006,4,No,126.36721999999999,126.36721999999999,0,Medel
+O2025971,2025-02-25,C1249,Corporate,Returning,West,Gothenburg,Electronics,Tablet,Card,Email,1,554.22,0.17,5,No,460.0026,460.0026,0,Lang
+O2025972,2025-05-09,C1176,Small Business,Returning,North,Stockholm,Home,Furniture,Card,Paid Search,2,1063.24,0.144,3,No,910.13344,1820.26688,0,Medel
+O2025973,2025-08-31,C1143,Corporate,VIP,South,NA,Beauty,Fragrance,Invoice,Social,2,48.21,0.067,4,No,44.97993,89.95986,0,Medel
+O2025974,2025-09-24,C1044,Consumer,Returning,North,Stockholm,Home,Lighting,Card,Organic,2,170.87,0,3,No,170.87,341.74,0,Medel
+O2025975,2025-11-17,C1027,Small Business,Returning,North,Stockholm,Home,Furniture,Card,Email,1,430.02,0.096,8,Yes,388.73807999999997,388.73807999999997,1,Lang
+O2025976,2025-01-06,C1049,Consumer,VIP,North,Uppsala,Electronics,Laptop,Gift Card,Social,2,1625.78,0.1,3,Yes,1463.202,2926.404,1,Medel
+O2025977,2025-07-27,C1009,Consumer,Returning,South,Helsingborg,Fashion,Accessories,Card,Organic,1,61.3,0.023,2,No,59.8901,59.8901,0,Kort
+O2025978,2025-07-05,C1017,Small Business,Returning,South,Helsingborg,Beauty,Skincare,Invoice,Organic,1,48.28,0.018,NA,No,47.41096,47.41096,0,NA
+O2025979,2025-01-20,C1085,Small Business,Returning,West,Halmstad,Beauty,Skincare,Invoice,Email,1,52.32,0.135,4,No,45.2568,45.2568,0,Medel
+O2025980,2025-06-18,C1164,Corporate,Returning,East,Linkoping,Electronics,Headphones,Card,Organic,1,129.97,0.05,5,No,123.47149999999999,123.47149999999999,0,Lang
+O2025981,2025-06-08,C1014,Consumer,New,North,Vasteras,Electronics,Laptop,Card,Email,1,1023.14,0.124,2,Yes,896.27064,896.27064,1,Kort
+O2025982,2025-06-14,C1075,Consumer,VIP,North,Stockholm,Fashion,Sportswear,Swish,Social,1,53.08,0.051,2,No,50.37291999999999,50.37291999999999,0,Kort
+O2025983,2025-09-14,C1249,Corporate,Returning,West,Gothenburg,Electronics,Tablet,Swish,Email,1,787.41,0.017,4,No,774.0240299999999,774.0240299999999,0,Medel
+O2025984,2025-01-16,C1040,Consumer,Returning,East,Linkoping,Beauty,Haircare,Swish,Paid Search,2,35.79,0.049,7,Yes,34.03629,68.07258,1,Lang
+O2025985,2025-07-17,C1169,Consumer,Returning,North,Uppsala,Electronics,Laptop,Paypal,Organic,2,1039.02,0.042,3,No,995.3811599999999,1990.7623199999998,0,Medel
+O2025986,2025-09-10,C1039,Consumer,Returning,North,Vasteras,Fashion,Sportswear,Paypal,Social,1,69.04,0.097,3,No,62.343120000000006,62.343120000000006,0,Medel
+O2025987,2025-09-25,C1013,Consumer,Returning,West,Halmstad,Electronics,Laptop,Swish,Paid Search,1,1237.91,0,1,Yes,1237.91,1237.91,1,Kort
+O2025988,2025-10-15,C1161,Small Business,Returning,North,Vasteras,Electronics,Mobile,Swish,Paid Search,1,348.56,0.049,3,No,331.48055999999997,331.48055999999997,0,Medel
+O2025989,2025-11-24,C1050,Consumer,Returning,East,Linkoping,Home,Lighting,Card,Organic,1,198,0.052,6,No,187.70399999999998,187.70399999999998,0,Lang
+O2025990,2025-09-11,C1207,Consumer,New,North,Stockholm,Fashion,Jackets,Invoice,Email,1,123.77,0.173,1,Yes,102.35779,102.35779,1,Kort
+O2025991,2025-08-16,C1002,Small Business,New,South,Lund,Electronics,Headphones,Card,Social,1,207.95,0.044,1,No,198.8002,198.8002,0,Kort
+O2025992,2025-06-12,C1102,Small Business,Returning,West,Gothenburg,Fashion,Sportswear,Invoice,Email,1,94.05,0.104,3,No,84.2688,84.2688,0,Medel
+O2025993,2025-06-21,C1079,Consumer,VIP,East,Linkoping,Electronics,Tablet,Card,Direct,1,436.84,0.147,6,No,372.62451999999996,372.62451999999996,0,Lang
+O2025994,2025-08-24,C1014,Consumer,New,North,Vasteras,Electronics,Headphones,Swish,Social,1,149.63,0.086,3,Yes,136.76182,136.76182,1,Medel
+O2025995,2025-11-24,C1207,Consumer,New,North,Stockholm,Home,Decor,Swish,Affiliate,1,74.55,0.059,3,No,70.15155,70.15155,0,Medel
+O2025996,2025-09-18,C1220,Consumer,Returning,West,Halmstad,Sports,Team Sports,Card,Social,1,87.32,0.001,3,No,87.23267999999999,87.23267999999999,0,Medel
+O2025997,2025-08-04,C1243,Consumer,Returning,East,Linkoping,Electronics,Headphones,Paypal,Paid Search,2,294.1,0.039,6,No,282.6301,565.2602,0,Lang
+O2025998,2025-05-27,C1039,Consumer,Returning,North,Vasteras,Fashion,Accessories,Gift Card,Affiliate,1,65.29,0.025,3,No,63.65775000000001,63.65775000000001,0,Medel
+O2025999,2025-09-25,C1216,Consumer,VIP,North,Uppsala,Electronics,Mobile,Swish,Paid Search,1,480.14,0,3,No,480.14,480.14,0,Medel
+O2026000,2025-03-02,C1252,Corporate,Returning,North,Uppsala,Electronics,Tablet,Paypal,Organic,1,580.35,0.068,3,No,540.8862,540.8862,0,Medel
