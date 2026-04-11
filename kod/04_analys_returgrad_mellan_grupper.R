@@ -49,6 +49,21 @@ theme(plot.title = element_text(face = "bold"))
 
 print(fig1)
 
+# Spara figur1
+dir.create("output/figurer", recursive = TRUE, showWarnings = FALSE)
+ggsave("output/figurer/fig1_returgrad_kategori.png",
+       plot = fig1, width = 8, height = 5, dpi = 150)
+cat("Figur 1 sparad.\n\n")
+
+#Tolkning
+cat("TOLKNING fig 1:\n")
+cat("kategorin med högst returgrad är:",
+    returgrad_kategori$product_category[1],
+    "(", returgrad_kategori$returgrad_pct[1], "%).\n")
+
+cat("kategorin med lägst returgrad är:",
+   tail(returgrad_kategori$product_category, 1),
+    "(", tail(returgrad_kategori$returgrad_pct, 1), "%).\n\n")
 
 # Returgrad per Region
 cat("---2. Returgrad per region---\n")
@@ -85,6 +100,17 @@ fig2 <- ggplot(returgrad_region,
   theme(plot.title = element_text(face = "bold"))
 
 print(fig2)
+
+# Spara figur 2
+ggsave("output/figurer/fig2_returgrad_region.png",
+       plot = fig2, width = 7, height = 4, dpi = 150)
+cat("Figur 2 sparad.\n\n")
+
+#Tolkning
+cat("TOLKNING fig 2:\n")
+cat("Regionen med högst returgrad är:",
+returgrad_region$region[1],
+"(", returgrad_region$returgrad_pct[1], "%).\n\n")
 
   
   # Returgrad per kundsegment och kundtyp
@@ -145,6 +171,16 @@ fig3 <- ggplot(returgrad_komb,
 
 print(fig3)
 
+# Spara figur 3
+ggsave("output/figurer/fig3_returgrad_segment_kund.typ.png",
+       plot = fig3, width = 9, height = 5, dpi = 150)
+cat("Figur 3 sparad.\n\n")
+
+#Tolkning
+cat("TOLKNING fig 3:\n")
+cat("Jämförelsen visar om VIP- eller nya kunder returnerar mer\n")
+cat("inom respektive segment, vilket kan styra riktade åtgärder.\n\n")
+
 
 # Heatmap - Kategori x Region
 cat("---4. Returgrad: kategori x region(heatmap)---\n")
@@ -175,7 +211,35 @@ fig4 <- ggplot(returgrad_heat, aes(x=region,
   theme_minimal(base_size = 11) +
   theme(plot.title = element_text(face = "bold"))
   axis.text.x = element_text(angle = 30, hjust = 1)
+print(fig4)
   
-  print(fig4)
+# Spara figur 4
+ggsave("output/figurer/fig4_heatmap_kategori_region.png",
+       plot = fig4, width = 10, height = 6, dpi = 150)
+cat("Figur 4 sparad.\n\n")
+
+cat("TOLKNING fig 4:\n")
+cat("Heatmapen identifierar kombinationer av kategori och region\n")
+cat("med särskilt hög returgrad - användbara för riktade åtgärder.\n\n")
+  
+# Sammanfattning
+
+cat("--- Sammanfattning ---\n")
+
+overgripande_returgrad <- round(mean(data_analys$retur_binart, na.rm = TRUE) * 100, 1)
+cat("Övergripande returgrad:", overgripande_returgrad, "%\n\n")
+
+cat("Top 3 kategorier med HÖGST returgrad:\n")
+print(head(returgrad_kategori[, c("product_category", "returgrad_pct")], 3))
+
+cat("\nTop 3 kategorier med LÄGST returgrad:\n")
+print(tail(returgrad_kategori[, c("product_category", "returgrad_pct")], 3))
+
+
+cat("\nRegion med högst returgrad:\n")
+print(returgrad_region[1, c("region", "returgrad_pct")])
+
+cat("\nSegment med högst returgrad:\n")
+print(returgrad_segment[1, c("customer_segment", "returgrad_pct")])
 
 
