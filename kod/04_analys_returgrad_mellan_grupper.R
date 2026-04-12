@@ -1,19 +1,26 @@
-# Analys returgrad mellan grupper. Analyserar returgrad per kategori, region och kundsegment.
-# Ladda paket.
+# Analys returgrad mellan grupper.
+# Fråga: Hur skiljer sig returgraade mellan olika 
+#Kategorier regioner och grupper?
+
+# Paketer
 library(readr)
 library(ggplot2)
 library(tidyverse)
 
-# Läs in städad data
+# Läs in den städade datan som skapades i fil 02
 data_analys <- read_csv("data/bearbetad/ecommerce_orders_stadad.csv", show_col_types = FALSE)
 
 
-# Visa grundläggande inför
+# Visa hur många rader vi har i datan
 cat("----- Analys returgrad mellan grupper -----\n")
 cat("Antal rader:", nrow(data_analys), "\n\n")
 
 # Returgrad per produktkategori
 cat("---1. Returgrad per produktkategori---\n")
+
+
+# Vi grupperar datan efter kategori och räknar ut hur många ordrar
+# som returnerades i varje grupp
 
 returgrad_kategori <- data_analys %>%
 group_by(product_category) %>%
@@ -22,18 +29,21 @@ summarise(
   antal_returer = sum(retur_binart, na.rm = TRUE),
   returgrad_pct = round(mean(retur_binart, na.rm = TRUE) * 100, 1)
 ) %>%
+  # Sortera så att högst returgrad hamnar överst
   arrange(desc(returgrad_pct))
 
 print(returgrad_kategori)
   
-  # Figur 1: Stapeldiagram: returgard per kategori
+  # Figur 1: Stapeldiagram: för att lätt jämföra kategorier
 fig1 <- ggplot(returgrad_kategori,
                aes(x=reorder(product_category, returgrad_pct),
                    y=returgrad_pct,
                    fill=returgrad_pct)) +
   geom_col(show.legend = FALSE) +
-  geom_text(aes(label = paste0(returgrad_pct, "%")),
+  # Skriv ut procent bredvide varje stapel
+  geom_text(aes(label = paste0(returgrad_pct, "%")), 
             hjust=-0.15, size = 3.5) +
+  # vänd diagrammet så kategorinamnen syns bättre
   coord_flip() +
   scale_fill_gradient(low="blue", high="orange")+
   scale_y_continuous(limits = c(0, max(returgrad_kategori$returgrad_pct) * 1.15)) +
@@ -49,7 +59,7 @@ theme(plot.title = element_text(face = "bold"))
 
 print(fig1)
 
-# Spara figur1
+# Spara diagrammet som en bildfil
 dir.create("output/figurer", recursive = TRUE, showWarnings = FALSE)
 ggsave("output/figurer/fig1_returgrad_kategori.png",
        plot = fig1, width = 8, height = 5, dpi = 150)
@@ -65,8 +75,10 @@ cat("kategorin med lägst returgrad är:",
    tail(returgrad_kategori$product_category, 1),
     "(", tail(returgrad_kategori$returgrad_pct, 1), "%).\n\n")
 
-# Returgrad per Region
+# Returgrad per region
 cat("---2. Returgrad per region---\n")
+
+# Vi gör samma beräkning som ovan, men grupperar vi region istället för kategori
 returgrad_region <- data_analys %>%
   group_by(region) %>%
   summarise(
@@ -183,8 +195,10 @@ cat("inom respektive segment, vilket kan styra riktade åtgärder.\n\n")
 
 
 # Heatmap - Kategori x Region
+# Visar returgraden för varje kombination av kategori och region
 cat("---4. Returgrad: kategori x region(heatmap)---\n")
 
+# Vi grupperar nu både kategori och region samtidigt
 returgrad_heat <- data_analys %>%
   group_by(product_category, region) %>%
   summarise(
@@ -193,10 +207,11 @@ returgrad_heat <- data_analys %>%
   )
 
 
-
 # Figur 4: Stapeldiagram: ret
-fig4 <- ggplot(returgrad_heat, aes(x=region, 
-                   y=returgrad_pct, fill=returgrad_pct)) +
+fig4 <- ggplot(returgrad_heat, 
+               aes(x=region, 
+                   y=returgrad_pct, 
+                   fill=returgrad_pct)) +
   geom_tile(color = "white", linewidth = 0.5) +
   geom_text(aes(label = paste0(returgrad_pct, "%")), size =3) +
   scale_fill_gradient(low = "#e8f5e9", high = "#c62828",
@@ -209,8 +224,10 @@ fig4 <- ggplot(returgrad_heat, aes(x=region,
   ) +
   
   theme_minimal(base_size = 11) +
-  theme(plot.title = element_text(face = "bold"))
-  axis.text.x = element_text(angle = 30, hjust = 1)
+  theme(
+    plot.title = element_text(face = "bold"),
+  axis.text.x = element_text(angle = 30, hjust = 1))
+
 print(fig4)
   
 # Spara figur 4
@@ -222,7 +239,7 @@ cat("TOLKNING fig 4:\n")
 cat("Heatmapen identifierar kombinationer av kategori och region\n")
 cat("med särskilt hög returgrad - användbara för riktade åtgärder.\n\n")
   
-# Sammanfattning
+# Sammanfattning - de viktigaste sifrorna
 
 cat("--- Sammanfattning ---\n")
 
