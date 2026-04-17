@@ -1,0 +1,22 @@
+## Sammanfattning
+
+Syftet med denna analys var att undersöka försäljning, returgrad och leveranstid i ett e-handelsföretag för att identifiera mönster och möjliga förbättringsområden.
+
+Resultaten visar att produktkategorin Electronics står för den högsta totala försäljningen, vilket tyder på att denna kategori är central för företagets intäkter. Samtidigt har kategorier som Fashion och Home en relativt hög returgrad, vilket kan innebära utmaningar kopplade till kundnöjdhet eller produktförväntningar.
+
+Vid analys av regioner framkommer att West har den högsta returgraden, medan North har den lägsta. Detta tyder på att geografiska skillnader kan påverka kundbeteende och returbenägenhet.
+
+Vidare visar analysen att nya kunder generellt har högre returgrad jämfört med återkommande och VIP-kunder. Särskilt inom segmentet Small Business är returgraden för nya kunder markant högre, vilket kan indikera att dessa kunder har lägre kännedom om produkterna eller högre osäkerhet vid köp.
+
+Heatmap-analysen visar dessutom att vissa kombinationer av kategori och region, exempelvis Beauty i South, har särskilt hög returgrad. Detta tyder på att specifika marknader kan kräva riktade åtgärder.
+
+Utifrån dessa resultat kan företaget överväga att:
+
+* analysera orsaker till höga returgrader inom Fashion och Home
+* förbättra kundupplevelsen för nya kunder, exempelvis genom tydligare produktinformation
+* undersöka logistiska eller marknadsspecifika faktorer i regioner med hög returgrad
+* fokusera på att behålla och utveckla relationen med VIP-kunder, som har lägre returgrad
+
+En begränsning i analysen är att datasetet är relativt begränsat och att vissa bakomliggande faktorer, såsom kundnöjdhet eller produktkvalitet, inte direkt kan observeras.
+
+Sammanfattningsvis visar analysen att både produktkategori, region och kundtyp har en tydlig påverkan på returgrad och försäljning, vilket bör tas i beaktning vid strategiska beslut.
