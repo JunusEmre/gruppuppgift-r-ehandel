@@ -10,7 +10,7 @@ library(readr)
 library(dplyr)
 library(ggplot2)
 library(stringr)
-
+#
 # Läs in den städade datan
 data_analys <- read_csv("data/bearbetad/ecommerce_orders_stadad.csv", show_col_types = FALSE)
 
