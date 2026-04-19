@@ -17,5 +17,9 @@ Thumbs.db
 .venv/
 venv/
 
-# Eventuella cache/mappar
+# Python-cache
 __pycache__/
+
+# Quarto / R Markdown tillfälliga filer
+*_cache/
+*_files/
